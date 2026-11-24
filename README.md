@@ -8,3 +8,6 @@ Mở app: https://hiep230301-sys.github.io/hsk-app/
 - Danh sách từ HSK 3.0: [complete-hsk-vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary) (giấy phép MIT).
 - Nghĩa tiếng Việt và câu ví dụ HSK 1–5: tài liệu của tác giả.
 - Phần nghĩa, ví dụ, ngữ pháp do AI soạn được gắn nhãn "AI tạo – chờ duyệt" trong app.
+- Nghĩa tiếng Anh: CC-CEDICT (CC BY-SA 4.0). Giấy phép đầy đủ: [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
+Ứng dụng độc lập, không liên kết với tổ chức thi HSK (Chinese Testing International).
