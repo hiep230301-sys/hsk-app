@@ -1,0 +1,15 @@
+{
+  "name": "Hán Ngữ Mỗi Ngày · HSK 1–9",
+  "short_name": "Hán Ngữ",
+  "description": "Học từ vựng HSK 1–9 cho người Việt, song ngữ Việt – Anh",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fbf6ef",
+  "theme_color": "#c8402e",
+  "lang": "vi",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,5902 @@
+[
+ {
+  "h": "没",
+  "lv": 1,
+  "py": "méi",
+  "vi": "không; chưa (phủ định động từ)",
+  "ex": [
+   {
+    "zh": "我今天没吃早饭。",
+    "py": "Wǒ jīn tiān méi chī zǎo fàn.",
+    "vi": "Hôm nay tôi chưa ăn sáng.",
+    "en": "I didn't eat breakfast today."
+   },
+   {
+    "zh": "他昨天没来学校。",
+    "py": "Tā zuó tiān méi lái xué xiào.",
+    "vi": "Hôm qua cậu ấy không đến trường.",
+    "en": "He didn't come to school yesterday."
+   }
+  ]
+ },
+ {
+  "h": "还有",
+  "lv": 1,
+  "py": "hái yǒu",
+  "vi": "còn có; ngoài ra còn",
+  "ex": [
+   {
+    "zh": "我家还有一个妹妹。",
+    "py": "Wǒ jiā hái yǒu yí gè mèi mei.",
+    "vi": "Nhà tôi còn có một em gái.",
+    "en": "I also have a younger sister at home."
+   },
+   {
+    "zh": "你还有什么问题吗？",
+    "py": "Nǐ hái yǒu shén me wèn tí ma?",
+    "vi": "Bạn còn câu hỏi gì nữa không?",
+    "en": "Do you have any other questions?"
+   }
+  ]
+ },
+ {
+  "h": "话",
+  "lv": 1,
+  "py": "huà",
+  "vi": "lời nói; câu nói",
+  "ex": [
+   {
+    "zh": "老师的话我都听懂了。",
+    "py": "Lǎo shī de huà wǒ dōu tīng dǒng le.",
+    "vi": "Lời thầy giáo nói tôi đều nghe hiểu cả.",
+    "en": "I understood everything the teacher said."
+   },
+   {
+    "zh": "请你们不要说话。",
+    "py": "Qǐng nǐ men bú yào shuō huà.",
+    "vi": "Xin các bạn đừng nói chuyện.",
+    "en": "Please don't talk."
+   }
+  ]
+ },
+ {
+  "h": "看到",
+  "lv": 1,
+  "py": "kàn dào",
+  "vi": "nhìn thấy",
+  "ex": [
+   {
+    "zh": "我在商店看到了他。",
+    "py": "Wǒ zài shāng diàn kàn dào le tā.",
+    "vi": "Tôi nhìn thấy anh ấy ở cửa hàng.",
+    "en": "I saw him at the shop."
+   },
+   {
+    "zh": "你看到我的手机了吗？",
+    "py": "Nǐ kàn dào wǒ de shǒu jī le ma?",
+    "vi": "Bạn có thấy điện thoại của tôi không?",
+    "en": "Have you seen my phone?"
+   }
+  ]
+ },
+ {
+  "h": "找到",
+  "lv": 1,
+  "py": "zhǎo dào",
+  "vi": "tìm thấy; tìm được",
+  "ex": [
+   {
+    "zh": "我找到我的书了。",
+    "py": "Wǒ zhǎo dào wǒ de shū le.",
+    "vi": "Tôi tìm thấy sách của mình rồi.",
+    "en": "I found my book."
+   },
+   {
+    "zh": "他还没找到工作。",
+    "py": "Tā hái méi zhǎo dào gōng zuò.",
+    "vi": "Anh ấy vẫn chưa tìm được việc.",
+    "en": "He hasn't found a job yet."
+   }
+  ]
+ },
+ {
+  "h": "成",
+  "lv": 2,
+  "py": "chéng",
+  "vi": "trở thành; thành; xong, được",
+  "ex": [
+   {
+    "zh": "他们两个人成了好朋友。",
+    "py": "Tā men liǎng gè rén chéng le hǎo péng you.",
+    "vi": "Hai người họ đã trở thành bạn tốt.",
+    "en": "The two of them became good friends."
+   },
+   {
+    "zh": "这件事今天做不成了。",
+    "py": "Zhè jiàn shì jīn tiān zuò bu chéng le.",
+    "vi": "Việc này hôm nay không làm xong được rồi.",
+    "en": "This can't get done today."
+   }
+  ]
+ },
+ {
+  "h": "见到",
+  "lv": 2,
+  "py": "jiàn dào",
+  "vi": "gặp được; nhìn thấy",
+  "ex": [
+   {
+    "zh": "见到你我非常高兴。",
+    "py": "Jiàn dào nǐ wǒ fēi cháng gāo xìng.",
+    "vi": "Gặp được bạn tôi rất vui.",
+    "en": "I'm very happy to see you."
+   },
+   {
+    "zh": "我昨天在公园见到了老师。",
+    "py": "Wǒ zuó tiān zài gōng yuán jiàn dào le lǎo shī.",
+    "vi": "Hôm qua tôi gặp thầy giáo ở công viên.",
+    "en": "I saw the teacher in the park yesterday."
+   }
+  ]
+ },
+ {
+  "h": "身上",
+  "lv": 1,
+  "py": "shēn shang",
+  "vi": "trên người; trong người (mang theo)",
+  "ex": [
+   {
+    "zh": "我身上没有钱。",
+    "py": "Wǒ shēn shang méi yǒu qián.",
+    "vi": "Trong người tôi không có tiền.",
+    "en": "I have no money on me."
+   },
+   {
+    "zh": "他身上的衣服很好看。",
+    "py": "Tā shēn shang de yī fu hěn hǎo kàn.",
+    "vi": "Bộ quần áo anh ấy đang mặc rất đẹp.",
+    "en": "The clothes he is wearing look nice."
+   }
+  ]
+ },
+ {
+  "h": "有人",
+  "lv": 2,
+  "py": "yǒu rén",
+  "vi": "có người; có ai đó",
+  "ex": [
+   {
+    "zh": "外面有人找你。",
+    "py": "Wài miàn yǒu rén zhǎo nǐ.",
+    "vi": "Bên ngoài có người tìm bạn.",
+    "en": "Someone outside is looking for you."
+   },
+   {
+    "zh": "这个房间里有人吗？",
+    "py": "Zhè ge fáng jiān lǐ yǒu rén ma?",
+    "vi": "Trong phòng này có ai không?",
+    "en": "Is there anyone in this room?"
+   }
+  ]
+ },
+ {
+  "h": "人们",
+  "lv": 2,
+  "py": "rén men",
+  "vi": "mọi người; người ta",
+  "ex": [
+   {
+    "zh": "春节的时候人们都回家。",
+    "py": "Chūn jié de shí hou rén men dōu huí jiā.",
+    "vi": "Dịp Tết mọi người đều về nhà.",
+    "en": "People all go home at Spring Festival."
+   },
+   {
+    "zh": "人们都喜欢这个地方。",
+    "py": "Rén men dōu xǐ huan zhè ge dì fang.",
+    "vi": "Mọi người đều thích nơi này.",
+    "en": "People all like this place."
+   }
+  ]
+ },
+ {
+  "h": "求",
+  "lv": 2,
+  "py": "qiú",
+  "vi": "xin, cầu xin; nhờ; tìm kiếm",
+  "ex": [
+   {
+    "zh": "我想求你帮我一件事。",
+    "py": "Wǒ xiǎng qiú nǐ bāng wǒ yí jiàn shì.",
+    "vi": "Tôi muốn nhờ bạn giúp một việc.",
+    "en": "I'd like to ask you for a favor."
+   },
+   {
+    "zh": "孩子求妈妈给他买手机。",
+    "py": "Hái zi qiú mā ma gěi tā mǎi shǒu jī.",
+    "vi": "Đứa bé xin mẹ mua điện thoại cho.",
+    "en": "The child begged his mom to buy him a phone."
+   }
+  ]
+ },
+ {
+  "h": "美元",
+  "lv": 3,
+  "py": "Měi yuán",
+  "vi": "đô la Mỹ",
+  "ex": [
+   {
+    "zh": "这件衣服要五十美元。",
+    "py": "Zhè jiàn yī fu yào wǔ shí Měi yuán.",
+    "vi": "Chiếc áo này giá năm mươi đô la Mỹ.",
+    "en": "This piece of clothing costs fifty US dollars."
+   },
+   {
+    "zh": "我想去银行换一些美元。",
+    "py": "Wǒ xiǎng qù yín háng huàn yì xiē Měi yuán.",
+    "vi": "Tôi muốn ra ngân hàng đổi ít đô la Mỹ.",
+    "en": "I want to go to the bank to change some US dollars."
+   }
+  ]
+ },
+ {
+  "h": "妈",
+  "lv": 1,
+  "py": "mā",
+  "vi": "mẹ, má",
+  "ex": [
+   {
+    "zh": "妈，我今天不回家吃饭。",
+    "py": "Mā, wǒ jīn tiān bù huí jiā chī fàn.",
+    "vi": "Mẹ ơi, hôm nay con không về nhà ăn cơm.",
+    "en": "Mom, I'm not coming home for dinner today."
+   },
+   {
+    "zh": "我妈在医院工作。",
+    "py": "Wǒ mā zài yī yuàn gōng zuò.",
+    "vi": "Mẹ tôi làm việc ở bệnh viện.",
+    "en": "My mom works at a hospital."
+   }
+  ]
+ },
+ {
+  "h": "第二",
+  "lv": 1,
+  "py": "dì èr",
+  "vi": "thứ hai; thứ nhì",
+  "ex": [
+   {
+    "zh": "这是我第二次来中国。",
+    "py": "Zhè shì wǒ dì èr cì lái Zhōng guó.",
+    "vi": "Đây là lần thứ hai tôi đến Trung Quốc.",
+    "en": "This is my second time in China."
+   },
+   {
+    "zh": "第二天我们去了北京。",
+    "py": "Dì èr tiān wǒ men qù le Běi jīng.",
+    "vi": "Ngày hôm sau chúng tôi đi Bắc Kinh.",
+    "en": "The next day we went to Beijing."
+   }
+  ]
+ },
+ {
+  "h": "回家",
+  "lv": 1,
+  "py": "huí jiā",
+  "vi": "về nhà",
+  "ex": [
+   {
+    "zh": "我下午五点回家。",
+    "py": "Wǒ xià wǔ wǔ diǎn huí jiā.",
+    "vi": "Năm giờ chiều tôi về nhà.",
+    "en": "I go home at five in the afternoon."
+   },
+   {
+    "zh": "你什么时候回家？",
+    "py": "Nǐ shén me shí hou huí jiā?",
+    "vi": "Khi nào bạn về nhà?",
+    "en": "When are you going home?"
+   }
+  ]
+ },
+ {
+  "h": "极了",
+  "lv": 3,
+  "py": "jí le",
+  "vi": "cực kỳ, vô cùng (đứng sau tính từ)",
+  "ex": [
+   {
+    "zh": "这家饭店的菜好吃极了。",
+    "py": "Zhè jiā fàn diàn de cài hǎo chī jí le.",
+    "vi": "Món ăn ở nhà hàng này ngon tuyệt.",
+    "en": "The food at this restaurant is extremely delicious."
+   },
+   {
+    "zh": "听到这个消息，他高兴极了。",
+    "py": "Tīng dào zhè ge xiāo xi, tā gāo xìng jí le.",
+    "vi": "Nghe tin này, anh ấy vui vô cùng.",
+    "en": "He was overjoyed to hear the news."
+   }
+  ]
+ },
+ {
+  "h": "真的",
+  "lv": 1,
+  "py": "zhēn de",
+  "vi": "thật; thật sự",
+  "ex": [
+   {
+    "zh": "你真的不想去吗？",
+    "py": "Nǐ zhēn de bù xiǎng qù ma?",
+    "vi": "Bạn thật sự không muốn đi à?",
+    "en": "Do you really not want to go?"
+   },
+   {
+    "zh": "我真的很喜欢这本书。",
+    "py": "Wǒ zhēn de hěn xǐ huan zhè běn shū.",
+    "vi": "Tôi thật sự rất thích cuốn sách này.",
+    "en": "I really like this book."
+   }
+  ]
+ },
+ {
+  "h": "带来",
+  "lv": 2,
+  "py": "dài lái",
+  "vi": "mang đến; đem lại",
+  "ex": [
+   {
+    "zh": "他给我带来了一些水果。",
+    "py": "Tā gěi wǒ dài lái le yì xiē shuǐ guǒ.",
+    "vi": "Anh ấy mang đến cho tôi ít hoa quả.",
+    "en": "He brought me some fruit."
+   },
+   {
+    "zh": "这件事给大家带来了快乐。",
+    "py": "Zhè jiàn shì gěi dà jiā dài lái le kuài lè.",
+    "vi": "Việc này đem lại niềm vui cho mọi người.",
+    "en": "This brought joy to everyone."
+   }
+  ]
+ },
+ {
+  "h": "线",
+  "lv": 3,
+  "py": "xiàn",
+  "vi": "sợi chỉ; dây; đường, tuyến",
+  "ex": [
+   {
+    "zh": "这条线太短了，不够用。",
+    "py": "Zhè tiáo xiàn tài duǎn le, bú gòu yòng.",
+    "vi": "Sợi chỉ này ngắn quá, không đủ dùng.",
+    "en": "This thread is too short; it's not enough."
+   },
+   {
+    "zh": "去机场可以坐地铁二号线。",
+    "py": "Qù jī chǎng kě yǐ zuò dì tiě èr hào xiàn.",
+    "vi": "Ra sân bay có thể đi tàu điện ngầm tuyến số 2.",
+    "en": "You can take subway Line 2 to the airport."
+   }
+  ]
+ },
+ {
+  "h": "杯",
+  "lv": 1,
+  "py": "bēi",
+  "vi": "cốc, ly (lượng từ)",
+  "ex": [
+   {
+    "zh": "我想喝一杯茶。",
+    "py": "Wǒ xiǎng hē yì bēi chá.",
+    "vi": "Tôi muốn uống một cốc trà.",
+    "en": "I'd like a cup of tea."
+   },
+   {
+    "zh": "请给我一杯水。",
+    "py": "Qǐng gěi wǒ yì bēi shuǐ.",
+    "vi": "Làm ơn cho tôi một cốc nước.",
+    "en": "Please give me a glass of water."
+   }
+  ]
+ },
+ {
+  "h": "想到",
+  "lv": 2,
+  "py": "xiǎng dào",
+  "vi": "nghĩ đến; nghĩ ra; ngờ tới",
+  "ex": [
+   {
+    "zh": "我没想到你也在这儿。",
+    "py": "Wǒ méi xiǎng dào nǐ yě zài zhèr.",
+    "vi": "Tôi không ngờ bạn cũng ở đây.",
+    "en": "I didn't expect you to be here too."
+   },
+   {
+    "zh": "他想到了一个好办法。",
+    "py": "Tā xiǎng dào le yí gè hǎo bàn fǎ.",
+    "vi": "Anh ấy đã nghĩ ra một cách hay.",
+    "en": "He thought of a good idea."
+   }
+  ]
+ },
+ {
+  "h": "做到",
+  "lv": 2,
+  "py": "zuò dào",
+  "vi": "làm được; thực hiện được",
+  "ex": [
+   {
+    "zh": "说到就要做到。",
+    "py": "Shuō dào jiù yào zuò dào.",
+    "vi": "Nói được thì phải làm được.",
+    "en": "If you say it, you must do it."
+   },
+   {
+    "zh": "这件事我一定能做到。",
+    "py": "Zhè jiàn shì wǒ yí dìng néng zuò dào.",
+    "vi": "Việc này tôi nhất định làm được.",
+    "en": "I can definitely get this done."
+   }
+  ]
+ },
+ {
+  "h": "金",
+  "lv": 3,
+  "py": "jīn",
+  "vi": "vàng (kim loại); bằng vàng",
+  "ex": [
+   {
+    "zh": "这块手表是金的。",
+    "py": "Zhè kuài shǒu biǎo shì jīn de.",
+    "vi": "Chiếc đồng hồ này bằng vàng.",
+    "en": "This watch is made of gold."
+   },
+   {
+    "zh": "她喜欢金的还是银的？",
+    "py": "Tā xǐ huan jīn de hái shi yín de?",
+    "vi": "Cô ấy thích loại bằng vàng hay bằng bạc?",
+    "en": "Does she like the gold one or the silver one?"
+   }
+  ]
+ },
+ {
+  "h": "听到",
+  "lv": 1,
+  "py": "tīng dào",
+  "vi": "nghe thấy",
+  "ex": [
+   {
+    "zh": "我听到有人在唱歌。",
+    "py": "Wǒ tīng dào yǒu rén zài chàng gē.",
+    "vi": "Tôi nghe thấy có người đang hát.",
+    "en": "I heard someone singing."
+   },
+   {
+    "zh": "你听到我说话了吗？",
+    "py": "Nǐ tīng dào wǒ shuō huà le ma?",
+    "vi": "Bạn có nghe thấy tôi nói không?",
+    "en": "Did you hear me speak?"
+   }
+  ]
+ },
+ {
+  "h": "来到",
+  "lv": 1,
+  "py": "lái dào",
+  "vi": "đến, tới (một nơi)",
+  "ex": [
+   {
+    "zh": "我们来到了北京。",
+    "py": "Wǒ men lái dào le Běi jīng.",
+    "vi": "Chúng tôi đã đến Bắc Kinh.",
+    "en": "We arrived in Beijing."
+   },
+   {
+    "zh": "他来到学校的时候是八点。",
+    "py": "Tā lái dào xué xiào de shí hou shì bā diǎn.",
+    "vi": "Lúc anh ấy đến trường là tám giờ.",
+    "en": "It was eight o'clock when he got to school."
+   }
+  ]
+ },
+ {
+  "h": "回到",
+  "lv": 1,
+  "py": "huí dào",
+  "vi": "trở về, quay về (một nơi)",
+  "ex": [
+   {
+    "zh": "我晚上六点回到家。",
+    "py": "Wǒ wǎn shang liù diǎn huí dào jiā.",
+    "vi": "Sáu giờ tối tôi về đến nhà.",
+    "en": "I get back home at six in the evening."
+   },
+   {
+    "zh": "他明天回到中国。",
+    "py": "Tā míng tiān huí dào Zhōng guó.",
+    "vi": "Ngày mai anh ấy trở về Trung Quốc.",
+    "en": "He returns to China tomorrow."
+   }
+  ]
+ },
+ {
+  "h": "报",
+  "lv": 3,
+  "py": "bào",
+  "vi": "tờ báo; báo (tin); đăng ký",
+  "ex": [
+   {
+    "zh": "爷爷每天早上都看报。",
+    "py": "Yé ye měi tiān zǎo shang dōu kàn bào.",
+    "vi": "Sáng nào ông cũng đọc báo.",
+    "en": "Grandpa reads the newspaper every morning."
+   },
+   {
+    "zh": "我想报一个汉语班。",
+    "py": "Wǒ xiǎng bào yí gè Hàn yǔ bān.",
+    "vi": "Tôi muốn đăng ký một lớp tiếng Trung.",
+    "en": "I want to sign up for a Chinese class."
+   }
+  ]
+ },
+ {
+  "h": "家里",
+  "lv": 1,
+  "py": "jiā lǐ",
+  "vi": "trong nhà; ở nhà",
+  "ex": [
+   {
+    "zh": "我家里有五口人。",
+    "py": "Wǒ jiā lǐ yǒu wǔ kǒu rén.",
+    "vi": "Nhà tôi có năm người.",
+    "en": "There are five people in my family."
+   },
+   {
+    "zh": "今天家里没有人。",
+    "py": "Jīn tiān jiā lǐ méi yǒu rén.",
+    "vi": "Hôm nay ở nhà không có ai.",
+    "en": "Nobody is home today."
+   }
+  ]
+ },
+ {
+  "h": "越来越",
+  "lv": 2,
+  "py": "yuè lái yuè",
+  "vi": "càng ngày càng",
+  "ex": [
+   {
+    "zh": "天气越来越冷了。",
+    "py": "Tiān qì yuè lái yuè lěng le.",
+    "vi": "Thời tiết càng ngày càng lạnh.",
+    "en": "The weather is getting colder and colder."
+   },
+   {
+    "zh": "你的汉语越来越好了。",
+    "py": "Nǐ de Hàn yǔ yuè lái yuè hǎo le.",
+    "vi": "Tiếng Trung của bạn càng ngày càng tốt.",
+    "en": "Your Chinese is getting better and better."
+   }
+  ]
+ },
+ {
+  "h": "不少",
+  "lv": 2,
+  "py": "bù shǎo",
+  "vi": "không ít; khá nhiều",
+  "ex": [
+   {
+    "zh": "我在这儿认识了不少朋友。",
+    "py": "Wǒ zài zhèr rèn shi le bù shǎo péng you.",
+    "vi": "Ở đây tôi đã quen được khá nhiều bạn.",
+    "en": "I've made quite a few friends here."
+   },
+   {
+    "zh": "他今天买了不少东西。",
+    "py": "Tā jīn tiān mǎi le bù shǎo dōng xi.",
+    "vi": "Hôm nay anh ấy mua khá nhiều đồ.",
+    "en": "He bought quite a lot of things today."
+   }
+  ]
+ },
+ {
+  "h": "就要",
+  "lv": 2,
+  "py": "jiù yào",
+  "vi": "sắp; sắp sửa",
+  "ex": [
+   {
+    "zh": "火车就要开了。",
+    "py": "Huǒ chē jiù yào kāi le.",
+    "vi": "Tàu hỏa sắp chạy rồi.",
+    "en": "The train is about to leave."
+   },
+   {
+    "zh": "我们就要放假了。",
+    "py": "Wǒ men jiù yào fàng jià le.",
+    "vi": "Chúng tôi sắp được nghỉ rồi.",
+    "en": "We're about to go on holiday."
+   }
+  ]
+ },
+ {
+  "h": "哥",
+  "lv": 1,
+  "py": "gē",
+  "vi": "anh trai; anh",
+  "ex": [
+   {
+    "zh": "我哥比我大三岁。",
+    "py": "Wǒ gē bǐ wǒ dà sān suì.",
+    "vi": "Anh tôi hơn tôi ba tuổi.",
+    "en": "My older brother is three years older than me."
+   },
+   {
+    "zh": "哥，你今天去哪儿？",
+    "py": "Gē, nǐ jīn tiān qù nǎr?",
+    "vi": "Anh ơi, hôm nay anh đi đâu?",
+    "en": "Brother, where are you going today?"
+   }
+  ]
+ },
+ {
+  "h": "爸",
+  "lv": 1,
+  "py": "bà",
+  "vi": "bố, ba",
+  "ex": [
+   {
+    "zh": "我爸是一名医生。",
+    "py": "Wǒ bà shì yì míng yī shēng.",
+    "vi": "Bố tôi là bác sĩ.",
+    "en": "My dad is a doctor."
+   },
+   {
+    "zh": "爸，你什么时候回来？",
+    "py": "Bà, nǐ shén me shí hou huí lái?",
+    "vi": "Bố ơi, khi nào bố về?",
+    "en": "Dad, when are you coming back?"
+   }
+  ]
+ },
+ {
+  "h": "正是",
+  "lv": 2,
+  "py": "zhèng shì",
+  "vi": "chính là; đúng là",
+  "ex": [
+   {
+    "zh": "这正是我想要的。",
+    "py": "Zhè zhèng shì wǒ xiǎng yào de.",
+    "vi": "Đây chính là thứ tôi muốn.",
+    "en": "This is exactly what I want."
+   },
+   {
+    "zh": "现在正是学习的好时候。",
+    "py": "Xiàn zài zhèng shì xué xí de hǎo shí hou.",
+    "vi": "Bây giờ chính là lúc tốt để học.",
+    "en": "Now is just the right time to study."
+   }
+  ]
+ },
+ {
+  "h": "全国",
+  "lv": 2,
+  "py": "quán guó",
+  "vi": "cả nước; toàn quốc",
+  "ex": [
+   {
+    "zh": "他去过全国很多地方。",
+    "py": "Tā qù guo quán guó hěn duō dì fang.",
+    "vi": "Anh ấy đã đi nhiều nơi trên cả nước.",
+    "en": "He has been to many places all over the country."
+   },
+   {
+    "zh": "全国的学生都要参加考试。",
+    "py": "Quán guó de xué sheng dōu yào cān jiā kǎo shì.",
+    "vi": "Học sinh cả nước đều phải dự thi.",
+    "en": "Students across the country all have to take the exam."
+   }
+  ]
+ },
+ {
+  "h": "瓶",
+  "lv": 2,
+  "py": "píng",
+  "vi": "chai, lọ, bình (lượng từ)",
+  "ex": [
+   {
+    "zh": "我买了两瓶水。",
+    "py": "Wǒ mǎi le liǎng píng shuǐ.",
+    "vi": "Tôi đã mua hai chai nước.",
+    "en": "I bought two bottles of water."
+   },
+   {
+    "zh": "请给我一瓶牛奶。",
+    "py": "Qǐng gěi wǒ yì píng niú nǎi.",
+    "vi": "Làm ơn cho tôi một chai sữa.",
+    "en": "Please give me a bottle of milk."
+   }
+  ]
+ },
+ {
+  "h": "哈哈",
+  "lv": 3,
+  "py": "hā hā",
+  "vi": "ha ha (tiếng cười)",
+  "ex": [
+   {
+    "zh": "听了他的话，大家哈哈大笑。",
+    "py": "Tīng le tā de huà, dà jiā hā hā dà xiào.",
+    "vi": "Nghe anh ấy nói xong, mọi người cười ha hả.",
+    "en": "Everyone burst out laughing at what he said."
+   },
+   {
+    "zh": "哈哈，你说得太有意思了！",
+    "py": "Hā hā, nǐ shuō de tài yǒu yì si le!",
+    "vi": "Ha ha, bạn nói thú vị quá!",
+    "en": "Haha, what you said is so funny!"
+   }
+  ]
+ },
+ {
+  "h": "皮",
+  "lv": 3,
+  "py": "pí",
+  "vi": "da; vỏ",
+  "ex": [
+   {
+    "zh": "这个苹果的皮很红。",
+    "py": "Zhè ge píng guǒ de pí hěn hóng.",
+    "vi": "Vỏ quả táo này rất đỏ.",
+    "en": "The skin of this apple is very red."
+   },
+   {
+    "zh": "吃香蕉以前要先去皮。",
+    "py": "Chī xiāng jiāo yǐ qián yào xiān qù pí.",
+    "vi": "Trước khi ăn chuối phải bóc vỏ.",
+    "en": "You need to peel a banana before eating it."
+   }
+  ]
+ },
+ {
+  "h": "吃饭",
+  "lv": 1,
+  "py": "chī fàn",
+  "vi": "ăn cơm",
+  "ex": [
+   {
+    "zh": "我们一起去吃饭吧。",
+    "py": "Wǒ men yì qǐ qù chī fàn ba.",
+    "vi": "Chúng ta cùng đi ăn cơm nhé.",
+    "en": "Let's go eat together."
+   },
+   {
+    "zh": "你今天中午在哪儿吃饭？",
+    "py": "Nǐ jīn tiān zhōng wǔ zài nǎr chī fàn?",
+    "vi": "Trưa nay bạn ăn cơm ở đâu?",
+    "en": "Where are you having lunch today?"
+   }
+  ]
+ },
+ {
+  "h": "网",
+  "lv": 2,
+  "py": "wǎng",
+  "vi": "mạng (internet); lưới",
+  "ex": [
+   {
+    "zh": "这里的网很快。",
+    "py": "Zhè lǐ de wǎng hěn kuài.",
+    "vi": "Mạng ở đây rất nhanh.",
+    "en": "The internet here is fast."
+   },
+   {
+    "zh": "我喜欢在网上买东西。",
+    "py": "Wǒ xǐ huan zài wǎng shàng mǎi dōng xi.",
+    "vi": "Tôi thích mua đồ trên mạng.",
+    "en": "I like shopping online."
+   }
+  ]
+ },
+ {
+  "h": "抓住",
+  "lv": 3,
+  "py": "zhuā zhù",
+  "vi": "nắm chặt; bắt được; nắm lấy",
+  "ex": [
+   {
+    "zh": "过马路时要抓住妈妈的手。",
+    "py": "Guò mǎ lù shí yào zhuā zhù mā ma de shǒu.",
+    "vi": "Khi qua đường phải nắm chặt tay mẹ.",
+    "en": "Hold on to Mom's hand when crossing the road."
+   },
+   {
+    "zh": "你应该抓住这个机会。",
+    "py": "Nǐ yīng gāi zhuā zhù zhè ge jī huì.",
+    "vi": "Bạn nên nắm lấy cơ hội này.",
+    "en": "You should seize this opportunity."
+   }
+  ]
+ },
+ {
+  "h": "武器",
+  "lv": 3,
+  "py": "wǔ qì",
+  "vi": "vũ khí",
+  "ex": [
+   {
+    "zh": "这个地方不能带武器进去。",
+    "py": "Zhè ge dì fang bù néng dài wǔ qì jìn qù.",
+    "vi": "Nơi này không được mang vũ khí vào.",
+    "en": "You can't bring weapons into this place."
+   },
+   {
+    "zh": "警察在他家里发现了武器。",
+    "py": "Jǐng chá zài tā jiā lǐ fā xiàn le wǔ qì.",
+    "vi": "Cảnh sát phát hiện vũ khí trong nhà anh ta.",
+    "en": "The police found weapons in his home."
+   }
+  ]
+ },
+ {
+  "h": "长大",
+  "lv": 2,
+  "py": "zhǎng dà",
+  "vi": "lớn lên; trưởng thành",
+  "ex": [
+   {
+    "zh": "我长大了想当医生。",
+    "py": "Wǒ zhǎng dà le xiǎng dāng yī shēng.",
+    "vi": "Lớn lên tôi muốn làm bác sĩ.",
+    "en": "I want to be a doctor when I grow up."
+   },
+   {
+    "zh": "孩子们都长大了。",
+    "py": "Hái zi men dōu zhǎng dà le.",
+    "vi": "Bọn trẻ đều đã lớn cả rồi.",
+    "en": "The children have all grown up."
+   }
+  ]
+ },
+ {
+  "h": "交给",
+  "lv": 2,
+  "py": "jiāo gěi",
+  "vi": "giao cho; đưa cho; nộp cho",
+  "ex": [
+   {
+    "zh": "请把作业交给老师。",
+    "py": "Qǐng bǎ zuò yè jiāo gěi lǎo shī.",
+    "vi": "Hãy nộp bài tập cho thầy giáo.",
+    "en": "Please hand your homework to the teacher."
+   },
+   {
+    "zh": "这件事就交给我吧。",
+    "py": "Zhè jiàn shì jiù jiāo gěi wǒ ba.",
+    "vi": "Việc này cứ giao cho tôi.",
+    "en": "Just leave this matter to me."
+   }
+  ]
+ },
+ {
+  "h": "蛋",
+  "lv": 2,
+  "py": "dàn",
+  "vi": "trứng",
+  "ex": [
+   {
+    "zh": "我早上吃了两个蛋。",
+    "py": "Wǒ zǎo shang chī le liǎng gè dàn.",
+    "vi": "Buổi sáng tôi ăn hai quả trứng.",
+    "en": "I ate two eggs this morning."
+   },
+   {
+    "zh": "这种蛋多少钱一斤？",
+    "py": "Zhè zhǒng dàn duō shao qián yì jīn?",
+    "vi": "Loại trứng này bao nhiêu tiền một cân?",
+    "en": "How much is this kind of egg per jin?"
+   }
+  ]
+ },
+ {
+  "h": "科",
+  "lv": 2,
+  "py": "kē",
+  "vi": "khoa; môn học; phòng, ban",
+  "ex": [
+   {
+    "zh": "你最喜欢哪一科？",
+    "py": "Nǐ zuì xǐ huan nǎ yì kē?",
+    "vi": "Bạn thích môn nào nhất?",
+    "en": "Which subject do you like best?"
+   },
+   {
+    "zh": "我们明天要考三科。",
+    "py": "Wǒ men míng tiān yào kǎo sān kē.",
+    "vi": "Ngày mai chúng tôi phải thi ba môn.",
+    "en": "We have exams in three subjects tomorrow."
+   }
+  ]
+ },
+ {
+  "h": "乐",
+  "lv": 3,
+  "py": "lè",
+  "vi": "vui; cười (vì vui)",
+  "ex": [
+   {
+    "zh": "听了这个笑话，他乐了。",
+    "py": "Tīng le zhè ge xiào hua, tā lè le.",
+    "vi": "Nghe chuyện cười này xong, anh ấy bật cười.",
+    "en": "He laughed after hearing the joke."
+   },
+   {
+    "zh": "看到礼物，孩子们都乐了。",
+    "py": "Kàn dào lǐ wù, hái zi men dōu lè le.",
+    "vi": "Thấy quà, bọn trẻ đều vui hẳn lên.",
+    "en": "The children were all delighted to see the gifts."
+   }
+  ]
+ },
+ {
+  "h": "事实上",
+  "lv": 3,
+  "py": "shì shí shàng",
+  "vi": "trên thực tế; thực ra",
+  "ex": [
+   {
+    "zh": "事实上，我也不知道他去哪儿了。",
+    "py": "Shì shí shàng, wǒ yě bù zhī dào tā qù nǎr le.",
+    "vi": "Thực ra tôi cũng không biết anh ấy đi đâu.",
+    "en": "In fact, I don't know where he went either."
+   },
+   {
+    "zh": "事实上，这个问题很简单。",
+    "py": "Shì shí shàng, zhè ge wèn tí hěn jiǎn dān.",
+    "vi": "Trên thực tế, vấn đề này rất đơn giản.",
+    "en": "In fact, this problem is very simple."
+   }
+  ]
+ },
+ {
+  "h": "想起",
+  "lv": 2,
+  "py": "xiǎng qǐ",
+  "vi": "nhớ ra; nhớ lại",
+  "ex": [
+   {
+    "zh": "我想起他的名字了。",
+    "py": "Wǒ xiǎng qǐ tā de míng zi le.",
+    "vi": "Tôi nhớ ra tên anh ấy rồi.",
+    "en": "I remember his name now."
+   },
+   {
+    "zh": "这首歌让我想起了老朋友。",
+    "py": "Zhè shǒu gē ràng wǒ xiǎng qǐ le lǎo péng you.",
+    "vi": "Bài hát này làm tôi nhớ đến bạn cũ.",
+    "en": "This song reminds me of an old friend."
+   }
+  ]
+ },
+ {
+  "h": "没什么",
+  "lv": 1,
+  "py": "méi shén me",
+  "vi": "không có gì; không sao",
+  "ex": [
+   {
+    "zh": "没什么，你不用谢我。",
+    "py": "Méi shén me, nǐ bú yòng xiè wǒ.",
+    "vi": "Không có gì, bạn không cần cảm ơn tôi.",
+    "en": "It's nothing, you don't need to thank me."
+   },
+   {
+    "zh": "今天没什么好看的电影。",
+    "py": "Jīn tiān méi shén me hǎo kàn de diàn yǐng.",
+    "vi": "Hôm nay chẳng có phim gì hay.",
+    "en": "There aren't any good movies on today."
+   }
+  ]
+ },
+ {
+  "h": "慢慢",
+  "lv": 3,
+  "py": "màn màn",
+  "vi": "từ từ; chầm chậm; dần dần",
+  "ex": [
+   {
+    "zh": "别着急，你慢慢说。",
+    "py": "Bié zháo jí, nǐ màn màn shuō.",
+    "vi": "Đừng vội, bạn cứ từ từ nói.",
+    "en": "Don't worry, take your time and tell me."
+   },
+   {
+    "zh": "天气慢慢变暖和了。",
+    "py": "Tiān qì màn màn biàn nuǎn huo le.",
+    "vi": "Thời tiết dần dần ấm lên.",
+    "en": "The weather is slowly getting warmer."
+   }
+  ]
+ },
+ {
+  "h": "布",
+  "lv": 3,
+  "py": "bù",
+  "vi": "vải",
+  "ex": [
+   {
+    "zh": "这块布的颜色很漂亮。",
+    "py": "Zhè kuài bù de yán sè hěn piào liang.",
+    "vi": "Màu của tấm vải này rất đẹp.",
+    "en": "The color of this cloth is beautiful."
+   },
+   {
+    "zh": "妈妈用布做了一个包。",
+    "py": "Mā ma yòng bù zuò le yí gè bāo.",
+    "vi": "Mẹ dùng vải may một cái túi.",
+    "en": "Mom made a bag out of cloth."
+   }
+  ]
+ },
+ {
+  "h": "钟",
+  "lv": 3,
+  "py": "zhōng",
+  "vi": "đồng hồ (treo tường, để bàn); chuông",
+  "ex": [
+   {
+    "zh": "墙上的钟已经停了。",
+    "py": "Qiáng shàng de zhōng yǐ jīng tíng le.",
+    "vi": "Chiếc đồng hồ trên tường đã chết rồi.",
+    "en": "The clock on the wall has stopped."
+   },
+   {
+    "zh": "我听见学校的钟响了。",
+    "py": "Wǒ tīng jiàn xué xiào de zhōng xiǎng le.",
+    "vi": "Tôi nghe thấy chuông trường reo.",
+    "en": "I heard the school bell ring."
+   }
+  ]
+ },
+ {
+  "h": "接到",
+  "lv": 2,
+  "py": "jiē dào",
+  "vi": "nhận được; đón được",
+  "ex": [
+   {
+    "zh": "我接到了妈妈的电话。",
+    "py": "Wǒ jiē dào le mā ma de diàn huà.",
+    "vi": "Tôi nhận được điện thoại của mẹ.",
+    "en": "I got a phone call from my mom."
+   },
+   {
+    "zh": "你接到我的信了吗？",
+    "py": "Nǐ jiē dào wǒ de xìn le ma?",
+    "vi": "Bạn đã nhận được thư của tôi chưa?",
+    "en": "Did you receive my letter?"
+   }
+  ]
+ },
+ {
+  "h": "有时候",
+  "lv": 1,
+  "py": "yǒu shí hou",
+  "vi": "có lúc; thỉnh thoảng",
+  "ex": [
+   {
+    "zh": "我有时候坐车去学校。",
+    "py": "Wǒ yǒu shí hou zuò chē qù xué xiào.",
+    "vi": "Thỉnh thoảng tôi đi xe đến trường.",
+    "en": "Sometimes I go to school by car."
+   },
+   {
+    "zh": "他有时候不吃早饭。",
+    "py": "Tā yǒu shí hou bù chī zǎo fàn.",
+    "vi": "Có lúc anh ấy không ăn sáng.",
+    "en": "Sometimes he doesn't eat breakfast."
+   }
+  ]
+ },
+ {
+  "h": "和平",
+  "lv": 3,
+  "py": "hé píng",
+  "vi": "hòa bình",
+  "ex": [
+   {
+    "zh": "世界上的人们都希望和平。",
+    "py": "Shì jiè shàng de rén men dōu xī wàng hé píng.",
+    "vi": "Mọi người trên thế giới đều mong hòa bình.",
+    "en": "People all over the world hope for peace."
+   },
+   {
+    "zh": "和平对每个国家都很重要。",
+    "py": "Hé píng duì měi gè guó jiā dōu hěn zhòng yào.",
+    "vi": "Hòa bình rất quan trọng với mọi quốc gia.",
+    "en": "Peace is important to every country."
+   }
+  ]
+ },
+ {
+  "h": "板",
+  "lv": 3,
+  "py": "bǎn",
+  "vi": "tấm ván; tấm, bảng",
+  "ex": [
+   {
+    "zh": "他用木头做了一块板。",
+    "py": "Tā yòng mù tou zuò le yí kuài bǎn.",
+    "vi": "Anh ấy dùng gỗ làm một tấm ván.",
+    "en": "He made a board out of wood."
+   },
+   {
+    "zh": "这块板太重，我拿不动。",
+    "py": "Zhè kuài bǎn tài zhòng, wǒ ná bu dòng.",
+    "vi": "Tấm ván này nặng quá, tôi không nhấc nổi.",
+    "en": "This board is too heavy for me to carry."
+   }
+  ]
+ },
+ {
+  "h": "黄",
+  "lv": 2,
+  "py": "huáng",
+  "vi": "màu vàng; ngả vàng",
+  "ex": [
+   {
+    "zh": "秋天到了，草都黄了。",
+    "py": "Qiū tiān dào le, cǎo dōu huáng le.",
+    "vi": "Mùa thu đến, cỏ đều ngả vàng.",
+    "en": "Autumn has come and the grass has all turned yellow."
+   },
+   {
+    "zh": "我喜欢那件黄的衣服。",
+    "py": "Wǒ xǐ huan nà jiàn huáng de yī fu.",
+    "vi": "Tôi thích chiếc áo màu vàng kia.",
+    "en": "I like that yellow piece of clothing."
+   }
+  ]
+ },
+ {
+  "h": "公开",
+  "lv": 3,
+  "py": "gōng kāi",
+  "vi": "công khai; công bố",
+  "ex": [
+   {
+    "zh": "考试成绩明天公开。",
+    "py": "Kǎo shì chéng jì míng tiān gōng kāi.",
+    "vi": "Kết quả thi ngày mai sẽ công bố.",
+    "en": "The exam results will be made public tomorrow."
+   },
+   {
+    "zh": "这是一次公开的比赛。",
+    "py": "Zhè shì yí cì gōng kāi de bǐ sài.",
+    "vi": "Đây là một cuộc thi công khai.",
+    "en": "This is an open competition."
+   }
+  ]
+ },
+ {
+  "h": "大部分",
+  "lv": 2,
+  "py": "dà bù fen",
+  "vi": "phần lớn; đa số",
+  "ex": [
+   {
+    "zh": "大部分学生都来了。",
+    "py": "Dà bù fen xué sheng dōu lái le.",
+    "vi": "Phần lớn học sinh đều đã đến.",
+    "en": "Most of the students have come."
+   },
+   {
+    "zh": "我大部分时间都在家。",
+    "py": "Wǒ dà bù fen shí jiān dōu zài jiā.",
+    "vi": "Phần lớn thời gian tôi đều ở nhà.",
+    "en": "I'm at home most of the time."
+   }
+  ]
+ },
+ {
+  "h": "任",
+  "lv": 3,
+  "py": "rèn",
+  "vi": "đảm nhiệm, giữ chức; bổ nhiệm; mặc cho",
+  "ex": [
+   {
+    "zh": "他在这所学校任校长。",
+    "py": "Tā zài zhè suǒ xué xiào rèn xiào zhǎng.",
+    "vi": "Ông ấy làm hiệu trưởng ở trường này.",
+    "en": "He serves as principal at this school."
+   },
+   {
+    "zh": "她任经理已经三年了。",
+    "py": "Tā rèn jīng lǐ yǐ jīng sān nián le.",
+    "vi": "Cô ấy giữ chức giám đốc đã ba năm rồi.",
+    "en": "She has been manager for three years."
+   }
+  ]
+ },
+ {
+  "h": "什么样",
+  "lv": 2,
+  "py": "shén me yàng",
+  "vi": "như thế nào; kiểu gì",
+  "ex": [
+   {
+    "zh": "你想买什么样的手机？",
+    "py": "Nǐ xiǎng mǎi shén me yàng de shǒu jī?",
+    "vi": "Bạn muốn mua điện thoại kiểu gì?",
+    "en": "What kind of phone do you want to buy?"
+   },
+   {
+    "zh": "你的新老师是什么样的人？",
+    "py": "Nǐ de xīn lǎo shī shì shén me yàng de rén?",
+    "vi": "Thầy giáo mới của bạn là người như thế nào?",
+    "en": "What kind of person is your new teacher?"
+   }
+  ]
+ },
+ {
+  "h": "那时",
+  "lv": 2,
+  "py": "nà shí",
+  "vi": "lúc đó; khi ấy",
+  "ex": [
+   {
+    "zh": "那时我还是一个学生。",
+    "py": "Nà shí wǒ hái shi yí gè xué sheng.",
+    "vi": "Lúc đó tôi vẫn còn là học sinh.",
+    "en": "I was still a student then."
+   },
+   {
+    "zh": "那时他家离学校很远。",
+    "py": "Nà shí tā jiā lí xué xiào hěn yuǎn.",
+    "vi": "Khi ấy nhà anh ấy cách trường rất xa.",
+    "en": "At that time his home was far from school."
+   }
+  ]
+ },
+ {
+  "h": "心中",
+  "lv": 2,
+  "py": "xīn zhōng",
+  "vi": "trong lòng; trong tim",
+  "ex": [
+   {
+    "zh": "妈妈是我心中最好的人。",
+    "py": "Mā ma shì wǒ xīn zhōng zuì hǎo de rén.",
+    "vi": "Mẹ là người tốt nhất trong lòng tôi.",
+    "en": "Mom is the best person in my heart."
+   },
+   {
+    "zh": "他心中有很多话想说。",
+    "py": "Tā xīn zhōng yǒu hěn duō huà xiǎng shuō.",
+    "vi": "Trong lòng anh ấy có rất nhiều điều muốn nói.",
+    "en": "He has many things in his heart that he wants to say."
+   }
+  ]
+ },
+ {
+  "h": "车上",
+  "lv": 1,
+  "py": "chē shàng",
+  "vi": "trên xe",
+  "ex": [
+   {
+    "zh": "车上有很多人。",
+    "py": "Chē shàng yǒu hěn duō rén.",
+    "vi": "Trên xe có rất nhiều người.",
+    "en": "There are many people on the bus."
+   },
+   {
+    "zh": "我的书包在车上。",
+    "py": "Wǒ de shū bāo zài chē shàng.",
+    "vi": "Cặp sách của tôi ở trên xe.",
+    "en": "My schoolbag is in the car."
+   }
+  ]
+ },
+ {
+  "h": "英语",
+  "lv": 2,
+  "py": "Yīng yǔ",
+  "vi": "tiếng Anh",
+  "ex": [
+   {
+    "zh": "他的英语说得很好。",
+    "py": "Tā de Yīng yǔ shuō de hěn hǎo.",
+    "vi": "Anh ấy nói tiếng Anh rất giỏi.",
+    "en": "He speaks English very well."
+   },
+   {
+    "zh": "我每天学习一个小时英语。",
+    "py": "Wǒ měi tiān xué xí yí gè xiǎo shí Yīng yǔ.",
+    "vi": "Mỗi ngày tôi học tiếng Anh một tiếng.",
+    "en": "I study English for an hour every day."
+   }
+  ]
+ },
+ {
+  "h": "大多数",
+  "lv": 2,
+  "py": "dà duō shù",
+  "vi": "đại đa số; phần lớn",
+  "ex": [
+   {
+    "zh": "大多数人都喜欢旅游。",
+    "py": "Dà duō shù rén dōu xǐ huan lǚ yóu.",
+    "vi": "Đa số mọi người đều thích du lịch.",
+    "en": "Most people like to travel."
+   },
+   {
+    "zh": "我们班大多数同学会游泳。",
+    "py": "Wǒ men bān dà duō shù tóng xué huì yóu yǒng.",
+    "vi": "Phần lớn các bạn trong lớp tôi biết bơi.",
+    "en": "Most of my classmates can swim."
+   }
+  ]
+ },
+ {
+  "h": "进展",
+  "lv": 3,
+  "py": "jìn zhǎn",
+  "vi": "tiến triển; tiến độ",
+  "ex": [
+   {
+    "zh": "你的工作进展得怎么样？",
+    "py": "Nǐ de gōng zuò jìn zhǎn de zěn me yàng?",
+    "vi": "Công việc của bạn tiến triển thế nào rồi?",
+    "en": "How is your work progressing?"
+   },
+   {
+    "zh": "这件事到现在没有什么进展。",
+    "py": "Zhè jiàn shì dào xiàn zài méi yǒu shén me jìn zhǎn.",
+    "vi": "Việc này đến giờ vẫn chưa có tiến triển gì.",
+    "en": "There has been no progress on this so far."
+   }
+  ]
+ },
+ {
+  "h": "放下",
+  "lv": 2,
+  "py": "fàng xià",
+  "vi": "đặt xuống; bỏ xuống; gác lại",
+  "ex": [
+   {
+    "zh": "请把书包放下。",
+    "py": "Qǐng bǎ shū bāo fàng xià.",
+    "vi": "Hãy đặt cặp sách xuống.",
+    "en": "Please put your schoolbag down."
+   },
+   {
+    "zh": "他放下手机开始吃饭。",
+    "py": "Tā fàng xià shǒu jī kāi shǐ chī fàn.",
+    "vi": "Anh ấy đặt điện thoại xuống và bắt đầu ăn cơm.",
+    "en": "He put down his phone and started eating."
+   }
+  ]
+ },
+ {
+  "h": "地上",
+  "lv": 1,
+  "py": "dì shang",
+  "vi": "trên mặt đất; dưới đất, trên sàn",
+  "ex": [
+   {
+    "zh": "地上有一本书。",
+    "py": "Dì shang yǒu yì běn shū.",
+    "vi": "Dưới đất có một quyển sách.",
+    "en": "There is a book on the floor."
+   },
+   {
+    "zh": "不要坐在地上。",
+    "py": "Bú yào zuò zài dì shang.",
+    "vi": "Đừng ngồi dưới đất.",
+    "en": "Don't sit on the ground."
+   }
+  ]
+ },
+ {
+  "h": "铁",
+  "lv": 3,
+  "py": "tiě",
+  "vi": "sắt",
+  "ex": [
+   {
+    "zh": "这张桌子是铁做的。",
+    "py": "Zhè zhāng zhuō zi shì tiě zuò de.",
+    "vi": "Cái bàn này làm bằng sắt.",
+    "en": "This table is made of iron."
+   },
+   {
+    "zh": "铁比木头重得多。",
+    "py": "Tiě bǐ mù tou zhòng de duō.",
+    "vi": "Sắt nặng hơn gỗ nhiều.",
+    "en": "Iron is much heavier than wood."
+   }
+  ]
+ },
+ {
+  "h": "早就",
+  "lv": 2,
+  "py": "zǎo jiù",
+  "vi": "từ lâu đã; sớm đã",
+  "ex": [
+   {
+    "zh": "我早就知道这件事了。",
+    "py": "Wǒ zǎo jiù zhī dào zhè jiàn shì le.",
+    "vi": "Tôi đã biết chuyện này từ lâu rồi.",
+    "en": "I've known about this for a long time."
+   },
+   {
+    "zh": "他早就回家了。",
+    "py": "Tā zǎo jiù huí jiā le.",
+    "vi": "Anh ấy về nhà từ lâu rồi.",
+    "en": "He went home long ago."
+   }
+  ]
+ },
+ {
+  "h": "记住",
+  "lv": 1,
+  "py": "jì zhu",
+  "vi": "nhớ kỹ; ghi nhớ",
+  "ex": [
+   {
+    "zh": "请记住我的电话。",
+    "py": "Qǐng jì zhu wǒ de diàn huà.",
+    "vi": "Hãy nhớ số điện thoại của tôi.",
+    "en": "Please remember my phone number."
+   },
+   {
+    "zh": "这些字你记住了吗？",
+    "py": "Zhè xiē zì nǐ jì zhu le ma?",
+    "vi": "Những chữ này bạn nhớ được chưa?",
+    "en": "Have you memorized these characters?"
+   }
+  ]
+ },
+ {
+  "h": "下次",
+  "lv": 1,
+  "py": "xià cì",
+  "vi": "lần sau",
+  "ex": [
+   {
+    "zh": "下次我们一起去吧。",
+    "py": "Xià cì wǒ men yì qǐ qù ba.",
+    "vi": "Lần sau chúng ta cùng đi nhé.",
+    "en": "Let's go together next time."
+   },
+   {
+    "zh": "下次你什么时候来？",
+    "py": "Xià cì nǐ shén me shí hou lái?",
+    "vi": "Lần sau khi nào bạn đến?",
+    "en": "When will you come next time?"
+   }
+  ]
+ },
+ {
+  "h": "多久",
+  "lv": 2,
+  "py": "duō jiǔ",
+  "vi": "bao lâu",
+  "ex": [
+   {
+    "zh": "你学汉语学了多久了？",
+    "py": "Nǐ xué Hàn yǔ xué le duō jiǔ le?",
+    "vi": "Bạn học tiếng Trung được bao lâu rồi?",
+    "en": "How long have you been learning Chinese?"
+   },
+   {
+    "zh": "从这儿到机场要多久？",
+    "py": "Cóng zhèr dào jī chǎng yào duō jiǔ?",
+    "vi": "Từ đây đến sân bay mất bao lâu?",
+    "en": "How long does it take to get from here to the airport?"
+   }
+  ]
+ },
+ {
+  "h": "上周",
+  "lv": 2,
+  "py": "shàng zhōu",
+  "vi": "tuần trước",
+  "ex": [
+   {
+    "zh": "我上周去了上海。",
+    "py": "Wǒ shàng zhōu qù le Shàng hǎi.",
+    "vi": "Tuần trước tôi đã đi Thượng Hải.",
+    "en": "I went to Shanghai last week."
+   },
+   {
+    "zh": "上周的考试你考得怎么样？",
+    "py": "Shàng zhōu de kǎo shì nǐ kǎo de zěn me yàng?",
+    "vi": "Bài thi tuần trước bạn làm thế nào?",
+    "en": "How did you do on last week's exam?"
+   }
+  ]
+ },
+ {
+  "h": "在家",
+  "lv": 1,
+  "py": "zài jiā",
+  "vi": "ở nhà",
+  "ex": [
+   {
+    "zh": "我今天在家休息。",
+    "py": "Wǒ jīn tiān zài jiā xiū xi.",
+    "vi": "Hôm nay tôi nghỉ ở nhà.",
+    "en": "I'm resting at home today."
+   },
+   {
+    "zh": "你妈妈在家吗？",
+    "py": "Nǐ mā ma zài jiā ma?",
+    "vi": "Mẹ bạn có nhà không?",
+    "en": "Is your mom at home?"
+   }
+  ]
+ },
+ {
+  "h": "院",
+  "lv": 2,
+  "py": "yuàn",
+  "vi": "sân; viện",
+  "ex": [
+   {
+    "zh": "孩子们在院里玩儿。",
+    "py": "Hái zi men zài yuàn lǐ wánr.",
+    "vi": "Bọn trẻ đang chơi trong sân.",
+    "en": "The children are playing in the yard."
+   },
+   {
+    "zh": "我家的院里有很多花。",
+    "py": "Wǒ jiā de yuàn lǐ yǒu hěn duō huā.",
+    "vi": "Trong sân nhà tôi có rất nhiều hoa.",
+    "en": "There are many flowers in my family's yard."
+   }
+  ]
+ },
+ {
+  "h": "妹",
+  "lv": 1,
+  "py": "mèi",
+  "vi": "em gái",
+  "ex": [
+   {
+    "zh": "我妹今年上小学。",
+    "py": "Wǒ mèi jīn nián shàng xiǎo xué.",
+    "vi": "Em gái tôi năm nay vào tiểu học.",
+    "en": "My younger sister starts primary school this year."
+   },
+   {
+    "zh": "他妹比他小两岁。",
+    "py": "Tā mèi bǐ tā xiǎo liǎng suì.",
+    "vi": "Em gái anh ấy kém anh ấy hai tuổi.",
+    "en": "His younger sister is two years younger than him."
+   }
+  ]
+ },
+ {
+  "h": "银",
+  "lv": 3,
+  "py": "yín",
+  "vi": "bạc; bằng bạc",
+  "ex": [
+   {
+    "zh": "这个杯子是银的。",
+    "py": "Zhè ge bēi zi shì yín de.",
+    "vi": "Cái cốc này bằng bạc.",
+    "en": "This cup is made of silver."
+   },
+   {
+    "zh": "奶奶送给我一双银的筷子。",
+    "py": "Nǎi nai sòng gěi wǒ yì shuāng yín de kuài zi.",
+    "vi": "Bà tặng tôi một đôi đũa bạc.",
+    "en": "Grandma gave me a pair of silver chopsticks."
+   }
+  ]
+ },
+ {
+  "h": "不对",
+  "lv": 1,
+  "py": "bù duì",
+  "vi": "không đúng; sai",
+  "ex": [
+   {
+    "zh": "这个字你写得不对。",
+    "py": "Zhè ge zì nǐ xiě de bú duì.",
+    "vi": "Chữ này bạn viết không đúng.",
+    "en": "You wrote this character wrong."
+   },
+   {
+    "zh": "我觉得你说得不对。",
+    "py": "Wǒ jué de nǐ shuō de bú duì.",
+    "vi": "Tôi thấy bạn nói không đúng.",
+    "en": "I think what you said is wrong."
+   }
+  ]
+ },
+ {
+  "h": "绿",
+  "lv": 2,
+  "py": "lǜ",
+  "vi": "xanh lá cây",
+  "ex": [
+   {
+    "zh": "春天来了，树都绿了。",
+    "py": "Chūn tiān lái le, shù dōu lǜ le.",
+    "vi": "Mùa xuân đến, cây cối đều xanh.",
+    "en": "Spring has come and the trees have all turned green."
+   },
+   {
+    "zh": "绿灯了，我们走吧。",
+    "py": "Lǜ dēng le, wǒ men zǒu ba.",
+    "vi": "Đèn xanh rồi, chúng ta đi thôi.",
+    "en": "The light is green, let's go."
+   }
+  ]
+ },
+ {
+  "h": "是不是",
+  "lv": 1,
+  "py": "shì bù shì",
+  "vi": "có phải … không",
+  "ex": [
+   {
+    "zh": "你是不是中国人？",
+    "py": "Nǐ shì bu shì Zhōng guó rén?",
+    "vi": "Bạn có phải người Trung Quốc không?",
+    "en": "Are you Chinese?"
+   },
+   {
+    "zh": "他是不是生病了？",
+    "py": "Tā shì bu shì shēng bìng le?",
+    "vi": "Có phải anh ấy bị ốm rồi không?",
+    "en": "Is he sick?"
+   }
+  ]
+ },
+ {
+  "h": "看上去",
+  "lv": 3,
+  "py": "kàn shang qu",
+  "vi": "trông có vẻ; nhìn bề ngoài",
+  "ex": [
+   {
+    "zh": "你今天看上去很累。",
+    "py": "Nǐ jīn tiān kàn shang qu hěn lèi.",
+    "vi": "Hôm nay trông bạn có vẻ rất mệt.",
+    "en": "You look very tired today."
+   },
+   {
+    "zh": "这件衣服看上去很贵。",
+    "py": "Zhè jiàn yī fu kàn shang qu hěn guì.",
+    "vi": "Chiếc áo này trông có vẻ rất đắt.",
+    "en": "This piece of clothing looks expensive."
+   }
+  ]
+ },
+ {
+  "h": "好事",
+  "lv": 2,
+  "py": "hǎo shì",
+  "vi": "việc tốt; chuyện tốt",
+  "ex": [
+   {
+    "zh": "他做了很多好事。",
+    "py": "Tā zuò le hěn duō hǎo shì.",
+    "vi": "Anh ấy đã làm rất nhiều việc tốt.",
+    "en": "He has done many good deeds."
+   },
+   {
+    "zh": "多运动是一件好事。",
+    "py": "Duō yùn dòng shì yí jiàn hǎo shì.",
+    "vi": "Vận động nhiều là một việc tốt.",
+    "en": "Exercising more is a good thing."
+   }
+  ]
+ },
+ {
+  "h": "环",
+  "lv": 3,
+  "py": "huán",
+  "vi": "vòng, khuyên; đường vành đai",
+  "ex": [
+   {
+    "zh": "他家住在北京三环里。",
+    "py": "Tā jiā zhù zài Běi jīng sān huán lǐ.",
+    "vi": "Nhà anh ấy ở trong vành đai 3 Bắc Kinh.",
+    "en": "His family lives inside Beijing's Third Ring Road."
+   },
+   {
+    "zh": "她的耳朵上有两个环。",
+    "py": "Tā de ěr duo shàng yǒu liǎng gè huán.",
+    "vi": "Trên tai cô ấy có hai chiếc khuyên.",
+    "en": "She has two rings in her ear."
+   }
+  ]
+ },
+ {
+  "h": "干什么",
+  "lv": 1,
+  "py": "gàn shén me",
+  "vi": "làm gì; để làm gì",
+  "ex": [
+   {
+    "zh": "你现在在干什么？",
+    "py": "Nǐ xiàn zài zài gàn shén me?",
+    "vi": "Bây giờ bạn đang làm gì?",
+    "en": "What are you doing now?"
+   },
+   {
+    "zh": "你明天想干什么？",
+    "py": "Nǐ míng tiān xiǎng gàn shén me?",
+    "vi": "Ngày mai bạn muốn làm gì?",
+    "en": "What do you want to do tomorrow?"
+   }
+  ]
+ },
+ {
+  "h": "送给",
+  "lv": 2,
+  "py": "sòng gěi",
+  "vi": "tặng cho",
+  "ex": [
+   {
+    "zh": "这本书送给你。",
+    "py": "Zhè běn shū sòng gěi nǐ.",
+    "vi": "Cuốn sách này tặng bạn.",
+    "en": "This book is for you."
+   },
+   {
+    "zh": "我想送给妈妈一件礼物。",
+    "py": "Wǒ xiǎng sòng gěi mā ma yí jiàn lǐ wù.",
+    "vi": "Tôi muốn tặng mẹ một món quà.",
+    "en": "I want to give my mom a present."
+   }
+  ]
+ },
+ {
+  "h": "动力",
+  "lv": 3,
+  "py": "dòng lì",
+  "vi": "động lực",
+  "ex": [
+   {
+    "zh": "家人是我努力工作的动力。",
+    "py": "Jiā rén shì wǒ nǔ lì gōng zuò de dòng lì.",
+    "vi": "Gia đình là động lực để tôi cố gắng làm việc.",
+    "en": "My family is my motivation to work hard."
+   },
+   {
+    "zh": "他学习很有动力。",
+    "py": "Tā xué xí hěn yǒu dòng lì.",
+    "vi": "Anh ấy học tập rất có động lực.",
+    "en": "He is very motivated in his studies."
+   }
+  ]
+ },
+ {
+  "h": "奶",
+  "lv": 1,
+  "py": "nǎi",
+  "vi": "sữa",
+  "ex": [
+   {
+    "zh": "孩子每天都要喝奶。",
+    "py": "Hái zi měi tiān dōu yào hē nǎi.",
+    "vi": "Trẻ con ngày nào cũng phải uống sữa.",
+    "en": "The child needs to drink milk every day."
+   },
+   {
+    "zh": "我喝茶不放奶。",
+    "py": "Wǒ hē chá bú fàng nǎi.",
+    "vi": "Tôi uống trà không cho sữa.",
+    "en": "I don't put milk in my tea."
+   }
+  ]
+ },
+ {
+  "h": "比如说",
+  "lv": 2,
+  "py": "bǐ rú shuō",
+  "vi": "ví dụ như; chẳng hạn",
+  "ex": [
+   {
+    "zh": "我喜欢运动，比如说跑步。",
+    "py": "Wǒ xǐ huan yùn dòng, bǐ rú shuō pǎo bù.",
+    "vi": "Tôi thích thể thao, ví dụ như chạy bộ.",
+    "en": "I like sports, for example running."
+   },
+   {
+    "zh": "他会很多语言，比如说英语。",
+    "py": "Tā huì hěn duō yǔ yán, bǐ rú shuō Yīng yǔ.",
+    "vi": "Anh ấy biết nhiều ngôn ngữ, chẳng hạn tiếng Anh.",
+    "en": "He knows many languages, for example English."
+   }
+  ]
+ },
+ {
+  "h": "声明",
+  "lv": 3,
+  "py": "shēng míng",
+  "vi": "tuyên bố; bản tuyên bố",
+  "ex": [
+   {
+    "zh": "公司今天发表了一个声明。",
+    "py": "Gōng sī jīn tiān fā biǎo le yí gè shēng míng.",
+    "vi": "Hôm nay công ty đã đưa ra một bản tuyên bố.",
+    "en": "The company issued a statement today."
+   },
+   {
+    "zh": "我声明，这件事跟我没关系。",
+    "py": "Wǒ shēng míng, zhè jiàn shì gēn wǒ méi guān xi.",
+    "vi": "Tôi tuyên bố, việc này không liên quan đến tôi.",
+    "en": "I declare that this has nothing to do with me."
+   }
+  ]
+ },
+ {
+  "h": "上次",
+  "lv": 1,
+  "py": "shàng cì",
+  "vi": "lần trước",
+  "ex": [
+   {
+    "zh": "上次我们去了北京。",
+    "py": "Shàng cì wǒ men qù le Běi jīng.",
+    "vi": "Lần trước chúng tôi đã đi Bắc Kinh.",
+    "en": "Last time we went to Beijing."
+   },
+   {
+    "zh": "你上次说的书我买了。",
+    "py": "Nǐ shàng cì shuō de shū wǒ mǎi le.",
+    "vi": "Cuốn sách lần trước bạn nói tôi đã mua rồi.",
+    "en": "I bought the book you mentioned last time."
+   }
+  ]
+ },
+ {
+  "h": "谈判",
+  "lv": 3,
+  "py": "tán pàn",
+  "vi": "đàm phán",
+  "ex": [
+   {
+    "zh": "两家公司正在谈判。",
+    "py": "Liǎng jiā gōng sī zhèng zài tán pàn.",
+    "vi": "Hai công ty đang đàm phán.",
+    "en": "The two companies are negotiating."
+   },
+   {
+    "zh": "这次谈判进行了三天。",
+    "py": "Zhè cì tán pàn jìn xíng le sān tiān.",
+    "vi": "Cuộc đàm phán lần này kéo dài ba ngày.",
+    "en": "This negotiation went on for three days."
+   }
+  ]
+ },
+ {
+  "h": "补",
+  "lv": 3,
+  "py": "bǔ",
+  "vi": "vá, sửa; bổ sung; học bù",
+  "ex": [
+   {
+    "zh": "妈妈帮我补好了衣服。",
+    "py": "Mā ma bāng wǒ bǔ hǎo le yī fu.",
+    "vi": "Mẹ đã vá xong áo giúp tôi.",
+    "en": "Mom mended my clothes for me."
+   },
+   {
+    "zh": "我周末要去补数学。",
+    "py": "Wǒ zhōu mò yào qù bǔ shù xué.",
+    "vi": "Cuối tuần tôi phải đi học bù môn toán.",
+    "en": "I have to go to extra math lessons this weekend."
+   }
+  ]
+ },
+ {
+  "h": "赶到",
+  "lv": 3,
+  "py": "gǎn dào",
+  "vi": "kịp đến; vội đến",
+  "ex": [
+   {
+    "zh": "他八点以前赶到了机场。",
+    "py": "Tā bā diǎn yǐ qián gǎn dào le jī chǎng.",
+    "vi": "Anh ấy đã kịp đến sân bay trước tám giờ.",
+    "en": "He made it to the airport before eight."
+   },
+   {
+    "zh": "医生很快就赶到了。",
+    "py": "Yī shēng hěn kuài jiù gǎn dào le.",
+    "vi": "Bác sĩ đã đến rất nhanh.",
+    "en": "The doctor arrived very quickly."
+   }
+  ]
+ },
+ {
+  "h": "唱歌",
+  "lv": 1,
+  "py": "chàng gē",
+  "vi": "hát",
+  "ex": [
+   {
+    "zh": "她很喜欢唱歌。",
+    "py": "Tā hěn xǐ huan chàng gē.",
+    "vi": "Cô ấy rất thích hát.",
+    "en": "She loves singing."
+   },
+   {
+    "zh": "我们一起唱歌吧。",
+    "py": "Wǒ men yì qǐ chàng gē ba.",
+    "vi": "Chúng ta cùng hát nhé.",
+    "en": "Let's sing together."
+   }
+  ]
+ },
+ {
+  "h": "公民",
+  "lv": 3,
+  "py": "gōng mín",
+  "vi": "công dân",
+  "ex": [
+   {
+    "zh": "他是中国公民。",
+    "py": "Tā shì Zhōng guó gōng mín.",
+    "vi": "Anh ấy là công dân Trung Quốc.",
+    "en": "He is a Chinese citizen."
+   },
+   {
+    "zh": "每个公民都应该爱护环境。",
+    "py": "Měi gè gōng mín dōu yīng gāi ài hù huán jìng.",
+    "vi": "Mỗi công dân đều nên giữ gìn môi trường.",
+    "en": "Every citizen should take care of the environment."
+   }
+  ]
+ },
+ {
+  "h": "碰到",
+  "lv": 2,
+  "py": "pèng dào",
+  "vi": "gặp phải; tình cờ gặp; chạm vào",
+  "ex": [
+   {
+    "zh": "我在路上碰到了老师。",
+    "py": "Wǒ zài lù shang pèng dào le lǎo shī.",
+    "vi": "Tôi tình cờ gặp thầy giáo trên đường.",
+    "en": "I ran into my teacher on the road."
+   },
+   {
+    "zh": "碰到问题可以问我。",
+    "py": "Pèng dào wèn tí kě yǐ wèn wǒ.",
+    "vi": "Gặp vấn đề gì có thể hỏi tôi.",
+    "en": "If you run into problems, you can ask me."
+   }
+  ]
+ },
+ {
+  "h": "当初",
+  "lv": 3,
+  "py": "dāng chū",
+  "vi": "lúc đầu; hồi đó",
+  "ex": [
+   {
+    "zh": "当初我不应该来这里。",
+    "py": "Dāng chū wǒ bù yīng gāi lái zhè lǐ.",
+    "vi": "Lúc đầu lẽ ra tôi không nên đến đây.",
+    "en": "I shouldn't have come here in the first place."
+   },
+   {
+    "zh": "当初是你让我学汉语的。",
+    "py": "Dāng chū shì nǐ ràng wǒ xué Hàn yǔ de.",
+    "vi": "Hồi đó chính bạn bảo tôi học tiếng Trung.",
+    "en": "It was you who got me to learn Chinese back then."
+   }
+  ]
+ },
+ {
+  "h": "蓝色",
+  "lv": 2,
+  "py": "lán sè",
+  "vi": "màu xanh lam, xanh dương",
+  "ex": [
+   {
+    "zh": "我最喜欢蓝色。",
+    "py": "Wǒ zuì xǐ huan lán sè.",
+    "vi": "Tôi thích màu xanh dương nhất.",
+    "en": "Blue is my favorite color."
+   },
+   {
+    "zh": "他今天穿了一件蓝色的衣服。",
+    "py": "Tā jīn tiān chuān le yí jiàn lán sè de yī fu.",
+    "vi": "Hôm nay anh ấy mặc một chiếc áo màu xanh dương.",
+    "en": "He is wearing blue clothes today."
+   }
+  ]
+ },
+ {
+  "h": "接下来",
+  "lv": 2,
+  "py": "jiē xià lái",
+  "vi": "tiếp theo; sau đây",
+  "ex": [
+   {
+    "zh": "接下来我们做什么？",
+    "py": "Jiē xià lái wǒ men zuò shén me?",
+    "vi": "Tiếp theo chúng ta làm gì?",
+    "en": "What do we do next?"
+   },
+   {
+    "zh": "接下来请大家听一首歌。",
+    "py": "Jiē xià lái qǐng dà jiā tīng yì shǒu gē.",
+    "vi": "Tiếp theo mời mọi người nghe một bài hát.",
+    "en": "Next, please listen to a song."
+   }
+  ]
+ },
+ {
+  "h": "石油",
+  "lv": 3,
+  "py": "shí yóu",
+  "vi": "dầu mỏ",
+  "ex": [
+   {
+    "zh": "这个国家有很多石油。",
+    "py": "Zhè ge guó jiā yǒu hěn duō shí yóu.",
+    "vi": "Nước này có rất nhiều dầu mỏ.",
+    "en": "This country has a lot of oil."
+   },
+   {
+    "zh": "最近石油的价格又高了。",
+    "py": "Zuì jìn shí yóu de jià gé yòu gāo le.",
+    "vi": "Gần đây giá dầu mỏ lại tăng.",
+    "en": "Oil prices have gone up again recently."
+   }
+  ]
+ },
+ {
+  "h": "团结",
+  "lv": 3,
+  "py": "tuán jié",
+  "vi": "đoàn kết",
+  "ex": [
+   {
+    "zh": "我们班的同学很团结。",
+    "py": "Wǒ men bān de tóng xué hěn tuán jié.",
+    "vi": "Các bạn trong lớp tôi rất đoàn kết.",
+    "en": "The students in our class are very united."
+   },
+   {
+    "zh": "大家要团结起来解决问题。",
+    "py": "Dà jiā yào tuán jié qǐ lái jiě jué wèn tí.",
+    "vi": "Mọi người phải đoàn kết lại để giải quyết vấn đề.",
+    "en": "Everyone must unite to solve the problem."
+   }
+  ]
+ },
+ {
+  "h": "看起来",
+  "lv": 3,
+  "py": "kàn qǐ lai",
+  "vi": "trông có vẻ; xem ra",
+  "ex": [
+   {
+    "zh": "这个菜看起来很好吃。",
+    "py": "Zhè ge cài kàn qǐ lai hěn hǎo chī.",
+    "vi": "Món này trông có vẻ rất ngon.",
+    "en": "This dish looks delicious."
+   },
+   {
+    "zh": "看起来今天要下雨。",
+    "py": "Kàn qǐ lai jīn tiān yào xià yǔ.",
+    "vi": "Xem ra hôm nay trời sẽ mưa.",
+    "en": "It looks like it's going to rain today."
+   }
+  ]
+ },
+ {
+  "h": "发动",
+  "lv": 3,
+  "py": "fā dòng",
+  "vi": "khởi động (máy); phát động; huy động",
+  "ex": [
+   {
+    "zh": "天气太冷，车发动不了。",
+    "py": "Tiān qì tài lěng, chē fā dòng bu liǎo.",
+    "vi": "Trời lạnh quá, xe không nổ máy được.",
+    "en": "It's too cold; the car won't start."
+   },
+   {
+    "zh": "老师发动大家参加比赛。",
+    "py": "Lǎo shī fā dòng dà jiā cān jiā bǐ sài.",
+    "vi": "Thầy giáo vận động mọi người tham gia cuộc thi.",
+    "en": "The teacher got everyone to take part in the competition."
+   }
+  ]
+ },
+ {
+  "h": "放到",
+  "lv": 3,
+  "py": "fàng dào",
+  "vi": "đặt vào; để vào (chỗ nào)",
+  "ex": [
+   {
+    "zh": "请把书放到桌子上。",
+    "py": "Qǐng bǎ shū fàng dào zhuō zi shàng.",
+    "vi": "Hãy đặt sách lên bàn.",
+    "en": "Please put the book on the table."
+   },
+   {
+    "zh": "我把牛奶放到冰箱里了。",
+    "py": "Wǒ bǎ niú nǎi fàng dào bīng xiāng lǐ le.",
+    "vi": "Tôi đã để sữa vào tủ lạnh rồi.",
+    "en": "I put the milk in the fridge."
+   }
+  ]
+ },
+ {
+  "h": "咱",
+  "lv": 2,
+  "py": "zán",
+  "vi": "chúng ta, mình (gồm cả người nghe)",
+  "ex": [
+   {
+    "zh": "咱一起去吃饭吧。",
+    "py": "Zán yì qǐ qù chī fàn ba.",
+    "vi": "Mình cùng đi ăn cơm đi.",
+    "en": "Let's go eat together."
+   },
+   {
+    "zh": "咱明天几点见面？",
+    "py": "Zán míng tiān jǐ diǎn jiàn miàn?",
+    "vi": "Ngày mai mình gặp nhau lúc mấy giờ?",
+    "en": "What time shall we meet tomorrow?"
+   }
+  ]
+ },
+ {
+  "h": "国内",
+  "lv": 3,
+  "py": "guó nèi",
+  "vi": "trong nước",
+  "ex": [
+   {
+    "zh": "这种手机在国内很便宜。",
+    "py": "Zhè zhǒng shǒu jī zài guó nèi hěn pián yi.",
+    "vi": "Loại điện thoại này ở trong nước rất rẻ.",
+    "en": "This kind of phone is cheap domestically."
+   },
+   {
+    "zh": "他打算毕业以后回国内工作。",
+    "py": "Tā dǎ suàn bì yè yǐ hòu huí guó nèi gōng zuò.",
+    "vi": "Anh ấy định tốt nghiệp xong sẽ về nước làm việc.",
+    "en": "He plans to return to work in his home country after graduating."
+   }
+  ]
+ },
+ {
+  "h": "能不能",
+  "lv": 3,
+  "py": "néng bu néng",
+  "vi": "có thể … không",
+  "ex": [
+   {
+    "zh": "你能不能帮我一个忙？",
+    "py": "Nǐ néng bu néng bāng wǒ yí gè máng?",
+    "vi": "Bạn có thể giúp tôi một việc không?",
+    "en": "Can you do me a favor?"
+   },
+   {
+    "zh": "我能不能明天再给你？",
+    "py": "Wǒ néng bu néng míng tiān zài gěi nǐ?",
+    "vi": "Tôi có thể để mai đưa bạn được không?",
+    "en": "Can I give it to you tomorrow?"
+   }
+  ]
+ },
+ {
+  "h": "才能",
+  "lv": 3,
+  "py": "cái néng",
+  "vi": "tài năng; năng lực",
+  "ex": [
+   {
+    "zh": "她在音乐方面很有才能。",
+    "py": "Tā zài yīn yuè fāng miàn hěn yǒu cái néng.",
+    "vi": "Cô ấy rất có tài về âm nhạc.",
+    "en": "She is very talented in music."
+   },
+   {
+    "zh": "大家都知道他很有才能。",
+    "py": "Dà jiā dōu zhī dào tā hěn yǒu cái néng.",
+    "vi": "Mọi người đều biết anh ấy rất có tài.",
+    "en": "Everyone knows he is very talented."
+   }
+  ]
+ },
+ {
+  "h": "文明",
+  "lv": 3,
+  "py": "wén míng",
+  "vi": "văn minh",
+  "ex": [
+   {
+    "zh": "中国有很长的文明历史。",
+    "py": "Zhōng guó yǒu hěn cháng de wén míng lì shǐ.",
+    "vi": "Trung Quốc có lịch sử văn minh rất lâu đời.",
+    "en": "China has a very long history of civilization."
+   },
+   {
+    "zh": "我们都应该做文明的人。",
+    "py": "Wǒ men dōu yīng gāi zuò wén míng de rén.",
+    "vi": "Chúng ta đều nên làm người văn minh.",
+    "en": "We should all be civilized people."
+   }
+  ]
+ },
+ {
+  "h": "改造",
+  "lv": 3,
+  "py": "gǎi zào",
+  "vi": "cải tạo",
+  "ex": [
+   {
+    "zh": "这条老街正在改造。",
+    "py": "Zhè tiáo lǎo jiē zhèng zài gǎi zào.",
+    "vi": "Con phố cũ này đang được cải tạo.",
+    "en": "This old street is being renovated."
+   },
+   {
+    "zh": "他们把旧房子改造成了商店。",
+    "py": "Tā men bǎ jiù fáng zi gǎi zào chéng le shāng diàn.",
+    "vi": "Họ đã cải tạo ngôi nhà cũ thành cửa hàng.",
+    "en": "They converted the old house into a shop."
+   }
+  ]
+ },
+ {
+  "h": "好人",
+  "lv": 2,
+  "py": "hǎo rén",
+  "vi": "người tốt",
+  "ex": [
+   {
+    "zh": "他是一个好人。",
+    "py": "Tā shì yí gè hǎo rén.",
+    "vi": "Anh ấy là một người tốt.",
+    "en": "He is a good person."
+   },
+   {
+    "zh": "世界上还是好人多。",
+    "py": "Shì jiè shàng hái shi hǎo rén duō.",
+    "vi": "Trên đời vẫn là người tốt nhiều hơn.",
+    "en": "There are still more good people in the world."
+   }
+  ]
+ },
+ {
+  "h": "大声",
+  "lv": 2,
+  "py": "dà shēng",
+  "vi": "lớn tiếng; to tiếng",
+  "ex": [
+   {
+    "zh": "请你大声一点儿。",
+    "py": "Qǐng nǐ dà shēng yì diǎnr.",
+    "vi": "Xin bạn nói to hơn một chút.",
+    "en": "Please speak a little louder."
+   },
+   {
+    "zh": "不要在教室里大声说话。",
+    "py": "Bú yào zài jiào shì lǐ dà shēng shuō huà.",
+    "vi": "Đừng nói to trong lớp học.",
+    "en": "Don't talk loudly in the classroom."
+   }
+  ]
+ },
+ {
+  "h": "市长",
+  "lv": 2,
+  "py": "shì zhǎng",
+  "vi": "thị trưởng",
+  "ex": [
+   {
+    "zh": "市长今天来我们学校。",
+    "py": "Shì zhǎng jīn tiān lái wǒ men xué xiào.",
+    "vi": "Hôm nay thị trưởng đến trường chúng tôi.",
+    "en": "The mayor is coming to our school today."
+   },
+   {
+    "zh": "他爸爸以前是市长。",
+    "py": "Tā bà ba yǐ qián shì shì zhǎng.",
+    "vi": "Bố anh ấy trước đây là thị trưởng.",
+    "en": "His father used to be the mayor."
+   }
+  ]
+ },
+ {
+  "h": "整天",
+  "lv": 3,
+  "py": "zhěng tiān",
+  "vi": "cả ngày; suốt ngày",
+  "ex": [
+   {
+    "zh": "他整天都在玩手机。",
+    "py": "Tā zhěng tiān dōu zài wán shǒu jī.",
+    "vi": "Nó suốt ngày chơi điện thoại.",
+    "en": "He plays on his phone all day long."
+   },
+   {
+    "zh": "昨天我整天没出门。",
+    "py": "Zuó tiān wǒ zhěng tiān méi chū mén.",
+    "vi": "Hôm qua tôi cả ngày không ra khỏi nhà.",
+    "en": "I didn't go out all day yesterday."
+   }
+  ]
+ },
+ {
+  "h": "这时",
+  "lv": 2,
+  "py": "zhè shí",
+  "vi": "lúc này",
+  "ex": [
+   {
+    "zh": "这时，老师走进了教室。",
+    "py": "Zhè shí, lǎo shī zǒu jìn le jiào shì.",
+    "vi": "Lúc này, thầy giáo bước vào lớp.",
+    "en": "At this moment, the teacher walked into the classroom."
+   },
+   {
+    "zh": "这时外面开始下雨了。",
+    "py": "Zhè shí wài miàn kāi shǐ xià yǔ le.",
+    "vi": "Lúc này bên ngoài bắt đầu mưa.",
+    "en": "At this point it started raining outside."
+   }
+  ]
+ },
+ {
+  "h": "部长",
+  "lv": 3,
+  "py": "bù zhǎng",
+  "vi": "bộ trưởng; trưởng bộ phận",
+  "ex": [
+   {
+    "zh": "部长明天要来参观。",
+    "py": "Bù zhǎng míng tiān yào lái cān guān.",
+    "vi": "Ngày mai bộ trưởng sẽ đến tham quan.",
+    "en": "The minister is coming to visit tomorrow."
+   },
+   {
+    "zh": "他是我们公司的部长。",
+    "py": "Tā shì wǒ men gōng sī de bù zhǎng.",
+    "vi": "Anh ấy là trưởng bộ phận ở công ty chúng tôi.",
+    "en": "He is a department head at our company."
+   }
+  ]
+ },
+ {
+  "h": "科学家",
+  "lv": 2,
+  "py": "kē xué jiā",
+  "vi": "nhà khoa học",
+  "ex": [
+   {
+    "zh": "我长大想当科学家。",
+    "py": "Wǒ zhǎng dà xiǎng dāng kē xué jiā.",
+    "vi": "Lớn lên tôi muốn làm nhà khoa học.",
+    "en": "I want to be a scientist when I grow up."
+   },
+   {
+    "zh": "他是一位有名的科学家。",
+    "py": "Tā shì yí wèi yǒu míng de kē xué jiā.",
+    "vi": "Ông ấy là một nhà khoa học nổi tiếng.",
+    "en": "He is a famous scientist."
+   }
+  ]
+ },
+ {
+  "h": "姐",
+  "lv": 1,
+  "py": "jiě",
+  "vi": "chị gái; chị",
+  "ex": [
+   {
+    "zh": "我姐在北京工作。",
+    "py": "Wǒ jiě zài Běi jīng gōng zuò.",
+    "vi": "Chị tôi làm việc ở Bắc Kinh.",
+    "en": "My older sister works in Beijing."
+   },
+   {
+    "zh": "姐，你帮我看一下。",
+    "py": "Jiě, nǐ bāng wǒ kàn yí xià.",
+    "vi": "Chị ơi, chị xem giúp em một chút.",
+    "en": "Sis, take a look for me."
+   }
+  ]
+ },
+ {
+  "h": "坐下",
+  "lv": 1,
+  "py": "zuò xia",
+  "vi": "ngồi xuống",
+  "ex": [
+   {
+    "zh": "请你们都坐下吧。",
+    "py": "Qǐng nǐ men dōu zuò xia ba.",
+    "vi": "Mời các bạn ngồi xuống cả đi.",
+    "en": "Please sit down, everyone."
+   },
+   {
+    "zh": "他坐下开始看书。",
+    "py": "Tā zuò xia kāi shǐ kàn shū.",
+    "vi": "Anh ấy ngồi xuống và bắt đầu đọc sách.",
+    "en": "He sat down and started reading."
+   }
+  ]
+ },
+ {
+  "h": "大门",
+  "lv": 2,
+  "py": "dà mén",
+  "vi": "cổng chính; cửa lớn",
+  "ex": [
+   {
+    "zh": "我在学校大门口等你。",
+    "py": "Wǒ zài xué xiào dà mén kǒu děng nǐ.",
+    "vi": "Tôi đợi bạn ở cổng trường.",
+    "en": "I'll wait for you at the school gate."
+   },
+   {
+    "zh": "公园的大门八点开。",
+    "py": "Gōng yuán de dà mén bā diǎn kāi.",
+    "vi": "Cổng công viên mở lúc tám giờ.",
+    "en": "The park's main gate opens at eight."
+   }
+  ]
+ },
+ {
+  "h": "不一定",
+  "lv": 2,
+  "py": "bù yī dìng",
+  "vi": "chưa chắc; không nhất định",
+  "ex": [
+   {
+    "zh": "明天不一定下雨。",
+    "py": "Míng tiān bù yí dìng xià yǔ.",
+    "vi": "Ngày mai chưa chắc trời mưa.",
+    "en": "It won't necessarily rain tomorrow."
+   },
+   {
+    "zh": "贵的东西不一定好。",
+    "py": "Guì de dōng xi bù yí dìng hǎo.",
+    "vi": "Đồ đắt chưa chắc đã tốt.",
+    "en": "Expensive things aren't necessarily good."
+   }
+  ]
+ },
+ {
+  "h": "欢乐",
+  "lv": 3,
+  "py": "huān lè",
+  "vi": "vui vẻ, hân hoan; niềm vui",
+  "ex": [
+   {
+    "zh": "节日里到处都是欢乐的人们。",
+    "py": "Jié rì lǐ dào chù dōu shì huān lè de rén men.",
+    "vi": "Ngày lễ đâu đâu cũng là những người vui vẻ.",
+    "en": "During the festival there are joyful people everywhere."
+   },
+   {
+    "zh": "孩子给全家带来了欢乐。",
+    "py": "Hái zi gěi quán jiā dài lái le huān lè.",
+    "vi": "Đứa trẻ đem lại niềm vui cho cả nhà.",
+    "en": "The child brought joy to the whole family."
+   }
+  ]
+ },
+ {
+  "h": "团体",
+  "lv": 3,
+  "py": "tuán tǐ",
+  "vi": "đoàn thể; tập thể; nhóm",
+  "ex": [
+   {
+    "zh": "他参加了一个音乐团体。",
+    "py": "Tā cān jiā le yí gè yīn yuè tuán tǐ.",
+    "vi": "Anh ấy tham gia một nhóm nhạc.",
+    "en": "He joined a music group."
+   },
+   {
+    "zh": "团体票比较便宜。",
+    "py": "Tuán tǐ piào bǐ jiào pián yi.",
+    "vi": "Vé đoàn thì rẻ hơn.",
+    "en": "Group tickets are cheaper."
+   }
+  ]
+ },
+ {
+  "h": "属",
+  "lv": 3,
+  "py": "shǔ",
+  "vi": "thuộc về; cầm tinh (tuổi con gì)",
+  "ex": [
+   {
+    "zh": "我属马，你属什么？",
+    "py": "Wǒ shǔ mǎ, nǐ shǔ shén me?",
+    "vi": "Tôi tuổi Ngựa, còn bạn tuổi gì?",
+    "en": "I was born in the Year of the Horse; what about you?"
+   },
+   {
+    "zh": "我和哥哥都属牛。",
+    "py": "Wǒ hé gē ge dōu shǔ niú.",
+    "vi": "Tôi và anh trai đều tuổi Trâu.",
+    "en": "My brother and I were both born in the Year of the Ox."
+   }
+  ]
+ },
+ {
+  "h": "落后",
+  "lv": 3,
+  "py": "luò hòu",
+  "vi": "lạc hậu; tụt lại phía sau",
+  "ex": [
+   {
+    "zh": "他的成绩有点儿落后。",
+    "py": "Tā de chéng jì yǒu diǎnr luò hòu.",
+    "vi": "Thành tích của cậu ấy hơi tụt lại.",
+    "en": "His grades are falling a bit behind."
+   },
+   {
+    "zh": "我们队现在落后两分。",
+    "py": "Wǒ men duì xiàn zài luò hòu liǎng fēn.",
+    "vi": "Đội chúng tôi hiện đang bị dẫn hai điểm.",
+    "en": "Our team is two points behind now."
+   }
+  ]
+ },
+ {
+  "h": "考验",
+  "lv": 3,
+  "py": "kǎo yàn",
+  "vi": "thử thách; kiểm nghiệm",
+  "ex": [
+   {
+    "zh": "这次比赛是一个很大的考验。",
+    "py": "Zhè cì bǐ sài shì yí gè hěn dà de kǎo yàn.",
+    "vi": "Cuộc thi lần này là một thử thách rất lớn.",
+    "en": "This competition is a big test."
+   },
+   {
+    "zh": "时间会考验我们的关系。",
+    "py": "Shí jiān huì kǎo yàn wǒ men de guān xi.",
+    "vi": "Thời gian sẽ thử thách mối quan hệ của chúng ta.",
+    "en": "Time will test our relationship."
+   }
+  ]
+ },
+ {
+  "h": "乐队",
+  "lv": 3,
+  "py": "yuè duì",
+  "vi": "ban nhạc",
+  "ex": [
+   {
+    "zh": "他在大学参加了一个乐队。",
+    "py": "Tā zài dà xué cān jiā le yí gè yuè duì.",
+    "vi": "Anh ấy tham gia một ban nhạc ở đại học.",
+    "en": "He joined a band at university."
+   },
+   {
+    "zh": "这个乐队的歌很好听。",
+    "py": "Zhè ge yuè duì de gē hěn hǎo tīng.",
+    "vi": "Bài hát của ban nhạc này rất hay.",
+    "en": "This band's songs are great."
+   }
+  ]
+ },
+ {
+  "h": "演唱会",
+  "lv": 3,
+  "py": "yǎn chàng huì",
+  "vi": "buổi biểu diễn ca nhạc; liveshow",
+  "ex": [
+   {
+    "zh": "我周末要去看演唱会。",
+    "py": "Wǒ zhōu mò yào qù kàn yǎn chàng huì.",
+    "vi": "Cuối tuần tôi sẽ đi xem liveshow ca nhạc.",
+    "en": "I'm going to a concert this weekend."
+   },
+   {
+    "zh": "这场演唱会的票很难买。",
+    "py": "Zhè chǎng yǎn chàng huì de piào hěn nán mǎi.",
+    "vi": "Vé buổi biểu diễn này rất khó mua.",
+    "en": "Tickets for this concert are hard to get."
+   }
+  ]
+ },
+ {
+  "h": "国外",
+  "lv": 1,
+  "py": "guó wài",
+  "vi": "nước ngoài",
+  "ex": [
+   {
+    "zh": "他哥哥在国外工作。",
+    "py": "Tā gē ge zài guó wài gōng zuò.",
+    "vi": "Anh trai anh ấy làm việc ở nước ngoài.",
+    "en": "His older brother works abroad."
+   },
+   {
+    "zh": "我想去国外学习。",
+    "py": "Wǒ xiǎng qù guó wài xué xí.",
+    "vi": "Tôi muốn ra nước ngoài học.",
+    "en": "I want to study abroad."
+   }
+  ]
+ },
+ {
+  "h": "青少年",
+  "lv": 2,
+  "py": "qīng shào nián",
+  "vi": "thanh thiếu niên",
+  "ex": [
+   {
+    "zh": "很多青少年喜欢上网。",
+    "py": "Hěn duō qīng shào nián xǐ huan shàng wǎng.",
+    "vi": "Nhiều thanh thiếu niên thích lên mạng.",
+    "en": "Many teenagers like going online."
+   },
+   {
+    "zh": "青少年要多运动。",
+    "py": "Qīng shào nián yào duō yùn dòng.",
+    "vi": "Thanh thiếu niên cần vận động nhiều.",
+    "en": "Young people should exercise more."
+   }
+  ]
+ },
+ {
+  "h": "联合国",
+  "lv": 3,
+  "py": "Lián hé guó",
+  "vi": "Liên Hợp Quốc",
+  "ex": [
+   {
+    "zh": "他在联合国工作了十年。",
+    "py": "Tā zài Lián hé guó gōng zuò le shí nián.",
+    "vi": "Ông ấy đã làm việc ở Liên Hợp Quốc mười năm.",
+    "en": "He worked at the United Nations for ten years."
+   },
+   {
+    "zh": "汉语是联合国的工作语言。",
+    "py": "Hàn yǔ shì Lián hé guó de gōng zuò yǔ yán.",
+    "vi": "Tiếng Trung là ngôn ngữ làm việc của Liên Hợp Quốc.",
+    "en": "Chinese is a working language of the United Nations."
+   }
+  ]
+ },
+ {
+  "h": "带领",
+  "lv": 3,
+  "py": "dài lǐng",
+  "vi": "dẫn dắt; dẫn đầu",
+  "ex": [
+   {
+    "zh": "老师带领我们参观了学校。",
+    "py": "Lǎo shī dài lǐng wǒ men cān guān le xué xiào.",
+    "vi": "Thầy giáo dẫn chúng tôi tham quan trường.",
+    "en": "The teacher led us on a tour of the school."
+   },
+   {
+    "zh": "他带领球队赢了比赛。",
+    "py": "Tā dài lǐng qiú duì yíng le bǐ sài.",
+    "vi": "Anh ấy dẫn dắt đội bóng thắng trận đấu.",
+    "en": "He led the team to win the match."
+   }
+  ]
+ },
+ {
+  "h": "楼下",
+  "lv": 1,
+  "py": "lóu xià",
+  "vi": "dưới lầu; tầng dưới",
+  "ex": [
+   {
+    "zh": "我在楼下等你。",
+    "py": "Wǒ zài lóu xià děng nǐ.",
+    "vi": "Tôi đợi bạn ở dưới lầu.",
+    "en": "I'll wait for you downstairs."
+   },
+   {
+    "zh": "楼下有一个商店。",
+    "py": "Lóu xià yǒu yí gè shāng diàn.",
+    "vi": "Dưới lầu có một cửa hàng.",
+    "en": "There is a shop downstairs."
+   }
+  ]
+ },
+ {
+  "h": "头脑",
+  "lv": 3,
+  "py": "tóu nǎo",
+  "vi": "đầu óc",
+  "ex": [
+   {
+    "zh": "他很有头脑，办法也多。",
+    "py": "Tā hěn yǒu tóu nǎo, bàn fǎ yě duō.",
+    "vi": "Anh ấy rất có đầu óc, lại lắm cách hay.",
+    "en": "He is smart and full of ideas."
+   },
+   {
+    "zh": "遇到问题要保持头脑清楚。",
+    "py": "Yù dào wèn tí yào bǎo chí tóu nǎo qīng chu.",
+    "vi": "Gặp vấn đề phải giữ đầu óc tỉnh táo.",
+    "en": "Keep a clear head when you run into problems."
+   }
+  ]
+ },
+ {
+  "h": "通信",
+  "lv": 3,
+  "py": "tōng xìn",
+  "vi": "thư từ qua lại; thông tin liên lạc",
+  "ex": [
+   {
+    "zh": "我们两个人经常通信。",
+    "py": "Wǒ men liǎng gè rén jīng cháng tōng xìn.",
+    "vi": "Hai chúng tôi thường xuyên thư từ cho nhau.",
+    "en": "The two of us often write to each other."
+   },
+   {
+    "zh": "现在的通信技术发展很快。",
+    "py": "Xiàn zài de tōng xìn jì shù fā zhǎn hěn kuài.",
+    "vi": "Công nghệ thông tin liên lạc hiện nay phát triển rất nhanh.",
+    "en": "Communication technology is developing fast nowadays."
+   }
+  ]
+ },
+ {
+  "h": "一部分",
+  "lv": 2,
+  "py": "yī bù fen",
+  "vi": "một phần",
+  "ex": [
+   {
+    "zh": "我只看了一部分。",
+    "py": "Wǒ zhǐ kàn le yí bù fen.",
+    "vi": "Tôi mới chỉ xem một phần.",
+    "en": "I only read part of it."
+   },
+   {
+    "zh": "一部分学生已经回家了。",
+    "py": "Yí bù fen xué sheng yǐ jīng huí jiā le.",
+    "vi": "Một số học sinh đã về nhà rồi.",
+    "en": "Some of the students have already gone home."
+   }
+  ]
+ },
+ {
+  "h": "播出",
+  "lv": 3,
+  "py": "bō chū",
+  "vi": "phát sóng",
+  "ex": [
+   {
+    "zh": "这个节目每天晚上播出。",
+    "py": "Zhè ge jié mù měi tiān wǎn shang bō chū.",
+    "vi": "Chương trình này phát sóng mỗi tối.",
+    "en": "This program airs every evening."
+   },
+   {
+    "zh": "这场比赛明天下午播出。",
+    "py": "Zhè chǎng bǐ sài míng tiān xià wǔ bō chū.",
+    "vi": "Trận đấu này sẽ phát sóng chiều mai.",
+    "en": "This match will be broadcast tomorrow afternoon."
+   }
+  ]
+ },
+ {
+  "h": "钱包",
+  "lv": 1,
+  "py": "qián bāo",
+  "vi": "ví tiền",
+  "ex": [
+   {
+    "zh": "我的钱包不见了。",
+    "py": "Wǒ de qián bāo bú jiàn le.",
+    "vi": "Ví tiền của tôi mất rồi.",
+    "en": "My wallet is gone."
+   },
+   {
+    "zh": "你的钱包里有多少钱？",
+    "py": "Nǐ de qián bāo lǐ yǒu duō shao qián?",
+    "vi": "Trong ví bạn có bao nhiêu tiền?",
+    "en": "How much money is in your wallet?"
+   }
+  ]
+ },
+ {
+  "h": "吵架",
+  "lv": 3,
+  "py": "chǎo jià",
+  "vi": "cãi nhau",
+  "ex": [
+   {
+    "zh": "他们两个人又吵架了。",
+    "py": "Tā men liǎng gè rén yòu chǎo jià le.",
+    "vi": "Hai người họ lại cãi nhau rồi.",
+    "en": "The two of them quarreled again."
+   },
+   {
+    "zh": "我不想跟你吵架。",
+    "py": "Wǒ bù xiǎng gēn nǐ chǎo jià.",
+    "vi": "Tôi không muốn cãi nhau với bạn.",
+    "en": "I don't want to argue with you."
+   }
+  ]
+ },
+ {
+  "h": "不安",
+  "lv": 3,
+  "py": "bù ān",
+  "vi": "bất an; lo lắng",
+  "ex": [
+   {
+    "zh": "他心里感到很不安。",
+    "py": "Tā xīn lǐ gǎn dào hěn bù ān.",
+    "vi": "Trong lòng anh ấy cảm thấy rất bất an.",
+    "en": "He feels very uneasy."
+   },
+   {
+    "zh": "孩子还没回家，妈妈很不安。",
+    "py": "Hái zi hái méi huí jiā, mā ma hěn bù ān.",
+    "vi": "Con chưa về nhà, mẹ rất lo lắng.",
+    "en": "The child isn't home yet, and Mom is very worried."
+   }
+  ]
+ },
+ {
+  "h": "拿到",
+  "lv": 2,
+  "py": "ná dào",
+  "vi": "lấy được; nhận được",
+  "ex": [
+   {
+    "zh": "我今天拿到了机票。",
+    "py": "Wǒ jīn tiān ná dào le jī piào.",
+    "vi": "Hôm nay tôi đã lấy được vé máy bay.",
+    "en": "I got my plane ticket today."
+   },
+   {
+    "zh": "你拿到成绩了吗？",
+    "py": "Nǐ ná dào chéng jì le ma?",
+    "vi": "Bạn đã nhận được kết quả chưa?",
+    "en": "Have you got your results?"
+   }
+  ]
+ },
+ {
+  "h": "全家",
+  "lv": 2,
+  "py": "quán jiā",
+  "vi": "cả nhà",
+  "ex": [
+   {
+    "zh": "我们全家都喜欢旅游。",
+    "py": "Wǒ men quán jiā dōu xǐ huan lǚ yóu.",
+    "vi": "Cả nhà tôi đều thích du lịch.",
+    "en": "My whole family likes to travel."
+   },
+   {
+    "zh": "春节的时候全家一起吃饭。",
+    "py": "Chūn jié de shí hou quán jiā yì qǐ chī fàn.",
+    "vi": "Dịp Tết cả nhà cùng ăn cơm.",
+    "en": "At Spring Festival the whole family eats together."
+   }
+  ]
+ },
+ {
+  "h": "初步",
+  "lv": 3,
+  "py": "chū bù",
+  "vi": "bước đầu; sơ bộ",
+  "ex": [
+   {
+    "zh": "这只是一个初步的计划。",
+    "py": "Zhè zhǐ shì yí gè chū bù de jì huà.",
+    "vi": "Đây mới chỉ là kế hoạch sơ bộ.",
+    "en": "This is only a preliminary plan."
+   },
+   {
+    "zh": "我对这里有了初步的了解。",
+    "py": "Wǒ duì zhè lǐ yǒu le chū bù de liǎo jiě.",
+    "vi": "Tôi đã có hiểu biết bước đầu về nơi này.",
+    "en": "I now have a basic understanding of this place."
+   }
+  ]
+ },
+ {
+  "h": "北京",
+  "lv": 1,
+  "py": "Běi jīng",
+  "vi": "Bắc Kinh (thủ đô Trung Quốc)",
+  "ex": [
+   {
+    "zh": "我想去北京学习汉语。",
+    "py": "Wǒ xiǎng qù Běi jīng xué xí Hàn yǔ.",
+    "vi": "Tôi muốn đến Bắc Kinh học tiếng Trung.",
+    "en": "I want to go to Beijing to study Chinese."
+   },
+   {
+    "zh": "我朋友住在北京。",
+    "py": "Wǒ péng you zhù zài Běi jīng.",
+    "vi": "Bạn tôi sống ở Bắc Kinh.",
+    "en": "My friend lives in Beijing."
+   }
+  ]
+ },
+ {
+  "h": "没用",
+  "lv": 3,
+  "py": "méi yòng",
+  "vi": "vô dụng; vô ích",
+  "ex": [
+   {
+    "zh": "这个旧手机已经没用了。",
+    "py": "Zhè ge jiù shǒu jī yǐ jīng méi yòng le.",
+    "vi": "Chiếc điện thoại cũ này đã vô dụng rồi.",
+    "en": "This old phone is useless now."
+   },
+   {
+    "zh": "现在着急也没用。",
+    "py": "Xiàn zài zháo jí yě méi yòng.",
+    "vi": "Bây giờ có sốt ruột cũng vô ích.",
+    "en": "There's no use worrying now."
+   }
+  ]
+ },
+ {
+  "h": "另一方面",
+  "lv": 3,
+  "py": "lìng yī fāng miàn",
+  "vi": "mặt khác",
+  "ex": [
+   {
+    "zh": "另一方面，我们也要注意身体。",
+    "py": "Lìng yì fāng miàn, wǒ men yě yào zhù yì shēn tǐ.",
+    "vi": "Mặt khác, chúng ta cũng phải chú ý sức khỏe.",
+    "en": "On the other hand, we also need to look after our health."
+   },
+   {
+    "zh": "另一方面，这样做可以节约时间。",
+    "py": "Lìng yì fāng miàn, zhè yàng zuò kě yǐ jié yuē shí jiān.",
+    "vi": "Mặt khác, làm thế này có thể tiết kiệm thời gian.",
+    "en": "On the other hand, doing it this way saves time."
+   }
+  ]
+ },
+ {
+  "h": "排名",
+  "lv": 3,
+  "py": "pái míng",
+  "vi": "xếp hạng; thứ hạng",
+  "ex": [
+   {
+    "zh": "他这次考试排名第一。",
+    "py": "Tā zhè cì kǎo shì pái míng dì yī.",
+    "vi": "Lần thi này cậu ấy xếp hạng nhất.",
+    "en": "He ranked first in this exam."
+   },
+   {
+    "zh": "我们学校的排名很高。",
+    "py": "Wǒ men xué xiào de pái míng hěn gāo.",
+    "vi": "Thứ hạng của trường chúng tôi rất cao.",
+    "en": "Our school is ranked very high."
+   }
+  ]
+ },
+ {
+  "h": "平等",
+  "lv": 2,
+  "py": "píng děng",
+  "vi": "bình đẳng",
+  "ex": [
+   {
+    "zh": "男人和女人是平等的。",
+    "py": "Nán rén hé nǚ rén shì píng děng de.",
+    "vi": "Nam và nữ là bình đẳng.",
+    "en": "Men and women are equal."
+   },
+   {
+    "zh": "老师对每个学生都很平等。",
+    "py": "Lǎo shī duì měi gè xué sheng dōu hěn píng děng.",
+    "vi": "Thầy giáo đối xử bình đẳng với mọi học sinh.",
+    "en": "The teacher treats every student equally."
+   }
+  ]
+ },
+ {
+  "h": "不大",
+  "lv": 1,
+  "py": "bù dà",
+  "vi": "không lớn; không … lắm",
+  "ex": [
+   {
+    "zh": "我的房间不大。",
+    "py": "Wǒ de fáng jiān bú dà.",
+    "vi": "Phòng của tôi không lớn.",
+    "en": "My room isn't big."
+   },
+   {
+    "zh": "今天的雨不大。",
+    "py": "Jīn tiān de yǔ bú dà.",
+    "vi": "Mưa hôm nay không to.",
+    "en": "The rain isn't heavy today."
+   }
+  ]
+ },
+ {
+  "h": "多云",
+  "lv": 2,
+  "py": "duō yún",
+  "vi": "nhiều mây",
+  "ex": [
+   {
+    "zh": "明天多云，不会下雨。",
+    "py": "Míng tiān duō yún, bú huì xià yǔ.",
+    "vi": "Ngày mai trời nhiều mây, sẽ không mưa.",
+    "en": "Tomorrow will be cloudy, with no rain."
+   },
+   {
+    "zh": "今天上午多云，下午有雨。",
+    "py": "Jīn tiān shàng wǔ duō yún, xià wǔ yǒu yǔ.",
+    "vi": "Sáng nay nhiều mây, chiều có mưa.",
+    "en": "It's cloudy this morning, with rain in the afternoon."
+   }
+  ]
+ },
+ {
+  "h": "场合",
+  "lv": 3,
+  "py": "chǎng hé",
+  "vi": "trường hợp; dịp; hoàn cảnh",
+  "ex": [
+   {
+    "zh": "在这种场合不应该大声说话。",
+    "py": "Zài zhè zhǒng chǎng hé bù yīng gāi dà shēng shuō huà.",
+    "vi": "Trong hoàn cảnh thế này không nên nói to.",
+    "en": "You shouldn't speak loudly on an occasion like this."
+   },
+   {
+    "zh": "不同的场合要穿不同的衣服。",
+    "py": "Bù tóng de chǎng hé yào chuān bù tóng de yī fu.",
+    "vi": "Dịp khác nhau thì phải mặc quần áo khác nhau.",
+    "en": "Different occasions call for different clothes."
+   }
+  ]
+ },
+ {
+  "h": "认可",
+  "lv": 3,
+  "py": "rèn kě",
+  "vi": "công nhận; chấp thuận",
+  "ex": [
+   {
+    "zh": "他的工作得到了大家的认可。",
+    "py": "Tā de gōng zuò dé dào le dà jiā de rèn kě.",
+    "vi": "Công việc của anh ấy được mọi người công nhận.",
+    "en": "His work has earned everyone's approval."
+   },
+   {
+    "zh": "经理认可了我们的计划。",
+    "py": "Jīng lǐ rèn kě le wǒ men de jì huà.",
+    "vi": "Giám đốc đã chấp thuận kế hoạch của chúng tôi.",
+    "en": "The manager approved our plan."
+   }
+  ]
+ },
+ {
+  "h": "上车",
+  "lv": 1,
+  "py": "shàng chē",
+  "vi": "lên xe",
+  "ex": [
+   {
+    "zh": "快上车吧，车要开了。",
+    "py": "Kuài shàng chē ba, chē yào kāi le.",
+    "vi": "Lên xe nhanh đi, xe sắp chạy rồi.",
+    "en": "Hurry and get on, the bus is about to leave."
+   },
+   {
+    "zh": "我们在哪儿上车？",
+    "py": "Wǒ men zài nǎr shàng chē?",
+    "vi": "Chúng ta lên xe ở đâu?",
+    "en": "Where do we get on?"
+   }
+  ]
+ },
+ {
+  "h": "家属",
+  "lv": 3,
+  "py": "jiā shǔ",
+  "vi": "người nhà; thân nhân",
+  "ex": [
+   {
+    "zh": "病人家属请在外面等。",
+    "py": "Bìng rén jiā shǔ qǐng zài wài miàn děng.",
+    "vi": "Người nhà bệnh nhân xin đợi ở ngoài.",
+    "en": "Family members of patients, please wait outside."
+   },
+   {
+    "zh": "医生把情况告诉了家属。",
+    "py": "Yī shēng bǎ qíng kuàng gào su le jiā shǔ.",
+    "vi": "Bác sĩ đã báo tình hình cho người nhà.",
+    "en": "The doctor told the family about the situation."
+   }
+  ]
+ },
+ {
+  "h": "坚决",
+  "lv": 3,
+  "py": "jiān jué",
+  "vi": "kiên quyết",
+  "ex": [
+   {
+    "zh": "他坚决不同意这个决定。",
+    "py": "Tā jiān jué bù tóng yì zhè ge jué dìng.",
+    "vi": "Anh ấy kiên quyết không đồng ý quyết định này.",
+    "en": "He firmly disagrees with this decision."
+   },
+   {
+    "zh": "我的态度很坚决。",
+    "py": "Wǒ de tài du hěn jiān jué.",
+    "vi": "Thái độ của tôi rất kiên quyết.",
+    "en": "My position is very firm."
+   }
+  ]
+ },
+ {
+  "h": "传来",
+  "lv": 3,
+  "py": "chuán lái",
+  "vi": "vọng lại; truyền đến",
+  "ex": [
+   {
+    "zh": "外面传来了孩子的笑声。",
+    "py": "Wài miàn chuán lái le hái zi de xiào shēng.",
+    "vi": "Bên ngoài vọng lại tiếng cười của trẻ con.",
+    "en": "The sound of children laughing came from outside."
+   },
+   {
+    "zh": "好消息很快传来了。",
+    "py": "Hǎo xiāo xi hěn kuài chuán lái le.",
+    "vi": "Tin vui đã nhanh chóng truyền đến.",
+    "en": "The good news came quickly."
+   }
+  ]
+ },
+ {
+  "h": "楼上",
+  "lv": 1,
+  "py": "lóu shàng",
+  "vi": "trên lầu; tầng trên",
+  "ex": [
+   {
+    "zh": "我家住在楼上。",
+    "py": "Wǒ jiā zhù zài lóu shàng.",
+    "vi": "Nhà tôi ở trên lầu.",
+    "en": "My family lives upstairs."
+   },
+   {
+    "zh": "楼上有人在唱歌。",
+    "py": "Lóu shàng yǒu rén zài chàng gē.",
+    "vi": "Trên lầu có người đang hát.",
+    "en": "Someone upstairs is singing."
+   }
+  ]
+ },
+ {
+  "h": "走过",
+  "lv": 2,
+  "py": "zǒu guò",
+  "vi": "đi qua; đi ngang qua",
+  "ex": [
+   {
+    "zh": "我每天都走过这个公园。",
+    "py": "Wǒ měi tiān dōu zǒu guò zhè ge gōng yuán.",
+    "vi": "Ngày nào tôi cũng đi qua công viên này.",
+    "en": "I walk past this park every day."
+   },
+   {
+    "zh": "他从我身边走过。",
+    "py": "Tā cóng wǒ shēn biān zǒu guò.",
+    "vi": "Anh ấy đi ngang qua bên cạnh tôi.",
+    "en": "He walked past me."
+   }
+  ]
+ },
+ {
+  "h": "外交",
+  "lv": 3,
+  "py": "wài jiāo",
+  "vi": "ngoại giao",
+  "ex": [
+   {
+    "zh": "他在大学学的是外交。",
+    "py": "Tā zài dà xué xué de shì wài jiāo.",
+    "vi": "Ở đại học anh ấy học ngành ngoại giao.",
+    "en": "He studied diplomacy at university."
+   },
+   {
+    "zh": "两个国家的外交关系很好。",
+    "py": "Liǎng gè guó jiā de wài jiāo guān xi hěn hǎo.",
+    "vi": "Quan hệ ngoại giao giữa hai nước rất tốt.",
+    "en": "The two countries have good diplomatic relations."
+   }
+  ]
+ },
+ {
+  "h": "本事",
+  "lv": 3,
+  "py": "běn shi",
+  "vi": "bản lĩnh; tài năng, năng lực",
+  "ex": [
+   {
+    "zh": "他很有本事，什么都会修。",
+    "py": "Tā hěn yǒu běn shi, shén me dōu huì xiū.",
+    "vi": "Anh ấy rất có tài, cái gì cũng biết sửa.",
+    "en": "He is very capable and can fix anything."
+   },
+   {
+    "zh": "你有本事就自己做吧。",
+    "py": "Nǐ yǒu běn shi jiù zì jǐ zuò ba.",
+    "vi": "Bạn giỏi thì tự làm đi.",
+    "en": "If you're so capable, do it yourself."
+   }
+  ]
+ },
+ {
+  "h": "高速公路",
+  "lv": 3,
+  "py": "gāo sù gōng lù",
+  "vi": "đường cao tốc",
+  "ex": [
+   {
+    "zh": "高速公路上的车很多。",
+    "py": "Gāo sù gōng lù shàng de chē hěn duō.",
+    "vi": "Trên đường cao tốc có rất nhiều xe.",
+    "en": "There are a lot of cars on the expressway."
+   },
+   {
+    "zh": "我们走高速公路比较快。",
+    "py": "Wǒ men zǒu gāo sù gōng lù bǐ jiào kuài.",
+    "vi": "Chúng ta đi đường cao tốc thì nhanh hơn.",
+    "en": "It's faster if we take the expressway."
+   }
+  ]
+ },
+ {
+  "h": "得出",
+  "lv": 2,
+  "py": "dé chū",
+  "vi": "rút ra; đưa ra (kết luận, kết quả)",
+  "ex": [
+   {
+    "zh": "你得出了什么结果？",
+    "py": "Nǐ dé chū le shén me jié guǒ?",
+    "vi": "Bạn đã ra được kết quả gì?",
+    "en": "What result did you get?"
+   },
+   {
+    "zh": "我们还没有得出答案。",
+    "py": "Wǒ men hái méi yǒu dé chū dá àn.",
+    "vi": "Chúng tôi vẫn chưa tìm ra đáp án.",
+    "en": "We haven't arrived at an answer yet."
+   }
+  ]
+ },
+ {
+  "h": "打球",
+  "lv": 1,
+  "py": "dǎ qiú",
+  "vi": "chơi bóng; đánh bóng",
+  "ex": [
+   {
+    "zh": "我们下午去打球吧。",
+    "py": "Wǒ men xià wǔ qù dǎ qiú ba.",
+    "vi": "Chiều nay chúng ta đi chơi bóng nhé.",
+    "en": "Let's go play ball this afternoon."
+   },
+   {
+    "zh": "他每天都和朋友打球。",
+    "py": "Tā měi tiān dōu hé péng you dǎ qiú.",
+    "vi": "Ngày nào anh ấy cũng chơi bóng với bạn.",
+    "en": "He plays ball with his friends every day."
+   }
+  ]
+ },
+ {
+  "h": "大海",
+  "lv": 2,
+  "py": "dà hǎi",
+  "vi": "biển cả; đại dương",
+  "ex": [
+   {
+    "zh": "我第一次看到大海。",
+    "py": "Wǒ dì yī cì kàn dào dà hǎi.",
+    "vi": "Lần đầu tiên tôi được nhìn thấy biển.",
+    "en": "It's my first time seeing the sea."
+   },
+   {
+    "zh": "我的家离大海很近。",
+    "py": "Wǒ de jiā lí dà hǎi hěn jìn.",
+    "vi": "Nhà tôi rất gần biển.",
+    "en": "My home is very close to the sea."
+   }
+  ]
+ },
+ {
+  "h": "服务员",
+  "lv": 3,
+  "py": "fú wù yuán",
+  "vi": "nhân viên phục vụ",
+  "ex": [
+   {
+    "zh": "服务员，请给我一杯水。",
+    "py": "Fú wù yuán, qǐng gěi wǒ yì bēi shuǐ.",
+    "vi": "Phục vụ ơi, cho tôi một cốc nước.",
+    "en": "Waiter, a glass of water, please."
+   },
+   {
+    "zh": "这家饭店的服务员很热情。",
+    "py": "Zhè jiā fàn diàn de fú wù yuán hěn rè qíng.",
+    "vi": "Nhân viên phục vụ ở nhà hàng này rất nhiệt tình.",
+    "en": "The waiters at this restaurant are very friendly."
+   }
+  ]
+ },
+ {
+  "h": "电台",
+  "lv": 3,
+  "py": "diàn tái",
+  "vi": "đài phát thanh",
+  "ex": [
+   {
+    "zh": "他在一家电台工作。",
+    "py": "Tā zài yì jiā diàn tái gōng zuò.",
+    "vi": "Anh ấy làm việc ở một đài phát thanh.",
+    "en": "He works at a radio station."
+   },
+   {
+    "zh": "我每天早上听这个电台的新闻。",
+    "py": "Wǒ měi tiān zǎo shang tīng zhè ge diàn tái de xīn wén.",
+    "vi": "Sáng nào tôi cũng nghe tin tức của đài này.",
+    "en": "I listen to this station's news every morning."
+   }
+  ]
+ },
+ {
+  "h": "这时候",
+  "lv": 2,
+  "py": "zhè shí hou",
+  "vi": "lúc này; vào lúc này",
+  "ex": [
+   {
+    "zh": "这时候他应该到家了。",
+    "py": "Zhè shí hou tā yīng gāi dào jiā le.",
+    "vi": "Lúc này chắc anh ấy đã về đến nhà rồi.",
+    "en": "He should be home by now."
+   },
+   {
+    "zh": "这时候你怎么还不睡觉？",
+    "py": "Zhè shí hou nǐ zěn me hái bú shuì jiào?",
+    "vi": "Giờ này sao bạn vẫn chưa ngủ?",
+    "en": "Why aren't you asleep at this hour?"
+   }
+  ]
+ },
+ {
+  "h": "金牌",
+  "lv": 3,
+  "py": "jīn pái",
+  "vi": "huy chương vàng",
+  "ex": [
+   {
+    "zh": "他在比赛中得了金牌。",
+    "py": "Tā zài bǐ sài zhōng dé le jīn pái.",
+    "vi": "Anh ấy giành huy chương vàng trong cuộc thi.",
+    "en": "He won a gold medal in the competition."
+   },
+   {
+    "zh": "这是她的第三块金牌。",
+    "py": "Zhè shì tā de dì sān kuài jīn pái.",
+    "vi": "Đây là tấm huy chương vàng thứ ba của cô ấy.",
+    "en": "This is her third gold medal."
+   }
+  ]
+ },
+ {
+  "h": "坏人",
+  "lv": 2,
+  "py": "huài rén",
+  "vi": "người xấu; kẻ xấu",
+  "ex": [
+   {
+    "zh": "他不是坏人，你别怕。",
+    "py": "Tā bú shì huài rén, nǐ bié pà.",
+    "vi": "Anh ấy không phải người xấu, bạn đừng sợ.",
+    "en": "He isn't a bad person; don't be afraid."
+   },
+   {
+    "zh": "孩子问我谁是坏人。",
+    "py": "Hái zi wèn wǒ shéi shì huài rén.",
+    "vi": "Đứa bé hỏi tôi ai là người xấu.",
+    "en": "The child asked me who the bad guy was."
+   }
+  ]
+ },
+ {
+  "h": "全场",
+  "lv": 3,
+  "py": "quán chǎng",
+  "vi": "toàn bộ khán giả; cả hội trường; cả trận",
+  "ex": [
+   {
+    "zh": "他唱完以后，全场都站了起来。",
+    "py": "Tā chàng wán yǐ hòu, quán chǎng dōu zhàn le qǐ lái.",
+    "vi": "Anh ấy hát xong, cả khán phòng đều đứng dậy.",
+    "en": "When he finished singing, the whole audience stood up."
+   },
+   {
+    "zh": "全场比赛他一共进了三个球。",
+    "py": "Quán chǎng bǐ sài tā yí gòng jìn le sān gè qiú.",
+    "vi": "Cả trận anh ấy ghi tổng cộng ba bàn.",
+    "en": "He scored three goals in the whole match."
+   }
+  ]
+ },
+ {
+  "h": "共有",
+  "lv": 3,
+  "py": "gòng yǒu",
+  "vi": "tổng cộng có",
+  "ex": [
+   {
+    "zh": "我们班共有三十个学生。",
+    "py": "Wǒ men bān gòng yǒu sān shí gè xué sheng.",
+    "vi": "Lớp chúng tôi có tổng cộng ba mươi học sinh.",
+    "en": "There are thirty students in our class altogether."
+   },
+   {
+    "zh": "这本书共有十二课。",
+    "py": "Zhè běn shū gòng yǒu shí èr kè.",
+    "vi": "Cuốn sách này có tổng cộng mười hai bài.",
+    "en": "This book has twelve lessons in total."
+   }
+  ]
+ },
+ {
+  "h": "干吗",
+  "lv": 3,
+  "py": "gàn má",
+  "vi": "làm gì; sao lại, để làm gì (khẩu ngữ)",
+  "ex": [
+   {
+    "zh": "你周末打算干吗？",
+    "py": "Nǐ zhōu mò dǎ suàn gàn má?",
+    "vi": "Cuối tuần bạn định làm gì?",
+    "en": "What are you planning to do this weekend?"
+   },
+   {
+    "zh": "你干吗不告诉我？",
+    "py": "Nǐ gàn má bú gào su wǒ?",
+    "vi": "Sao bạn không nói cho tôi biết?",
+    "en": "Why didn't you tell me?"
+   }
+  ]
+ },
+ {
+  "h": "下车",
+  "lv": 1,
+  "py": "xià chē",
+  "vi": "xuống xe",
+  "ex": [
+   {
+    "zh": "我在下一站下车。",
+    "py": "Wǒ zài xià yí zhàn xià chē.",
+    "vi": "Tôi xuống xe ở bến sau.",
+    "en": "I'm getting off at the next stop."
+   },
+   {
+    "zh": "到了，我们下车吧。",
+    "py": "Dào le, wǒ men xià chē ba.",
+    "vi": "Đến nơi rồi, chúng ta xuống xe thôi.",
+    "en": "We're here, let's get off."
+   }
+  ]
+ },
+ {
+  "h": "中部",
+  "lv": 3,
+  "py": "zhōng bù",
+  "vi": "miền trung; phần giữa",
+  "ex": [
+   {
+    "zh": "这个城市在中国的中部。",
+    "py": "Zhè ge chéng shì zài Zhōng guó de zhōng bù.",
+    "vi": "Thành phố này nằm ở miền trung Trung Quốc.",
+    "en": "This city is in central China."
+   },
+   {
+    "zh": "中部地区明天有大雨。",
+    "py": "Zhōng bù dì qū míng tiān yǒu dà yǔ.",
+    "vi": "Khu vực miền trung ngày mai có mưa to.",
+    "en": "There will be heavy rain in the central region tomorrow."
+   }
+  ]
+ },
+ {
+  "h": "夜里",
+  "lv": 2,
+  "py": "yè li",
+  "vi": "ban đêm; trong đêm",
+  "ex": [
+   {
+    "zh": "昨天夜里下雨了。",
+    "py": "Zuó tiān yè li xià yǔ le.",
+    "vi": "Đêm qua trời mưa.",
+    "en": "It rained last night."
+   },
+   {
+    "zh": "他夜里常常睡不着。",
+    "py": "Tā yè li cháng cháng shuì bu zháo.",
+    "vi": "Ban đêm anh ấy thường không ngủ được.",
+    "en": "He often can't sleep at night."
+   }
+  ]
+ },
+ {
+  "h": "音乐会",
+  "lv": 2,
+  "py": "yīn yuè huì",
+  "vi": "buổi hòa nhạc",
+  "ex": [
+   {
+    "zh": "今晚我们去听音乐会。",
+    "py": "Jīn wǎn wǒ men qù tīng yīn yuè huì.",
+    "vi": "Tối nay chúng tôi đi nghe hòa nhạc.",
+    "en": "We're going to a concert tonight."
+   },
+   {
+    "zh": "这场音乐会非常好。",
+    "py": "Zhè chǎng yīn yuè huì fēi cháng hǎo.",
+    "vi": "Buổi hòa nhạc này rất hay.",
+    "en": "This concert is excellent."
+   }
+  ]
+ },
+ {
+  "h": "找出",
+  "lv": 2,
+  "py": "zhǎo chū",
+  "vi": "tìm ra",
+  "ex": [
+   {
+    "zh": "请找出这个问题的答案。",
+    "py": "Qǐng zhǎo chū zhè ge wèn tí de dá àn.",
+    "vi": "Hãy tìm ra đáp án của câu hỏi này.",
+    "en": "Please find the answer to this question."
+   },
+   {
+    "zh": "我找出了一些旧照片。",
+    "py": "Wǒ zhǎo chū le yì xiē jiù zhào piàn.",
+    "vi": "Tôi đã tìm ra mấy tấm ảnh cũ.",
+    "en": "I dug out some old photos."
+   }
+  ]
+ },
+ {
+  "h": "主张",
+  "lv": 3,
+  "py": "zhǔ zhāng",
+  "vi": "chủ trương; quan điểm; đề xướng",
+  "ex": [
+   {
+    "zh": "他主张大家一起解决问题。",
+    "py": "Tā zhǔ zhāng dà jiā yì qǐ jiě jué wèn tí.",
+    "vi": "Anh ấy chủ trương mọi người cùng giải quyết vấn đề.",
+    "en": "He advocates that everyone solve the problem together."
+   },
+   {
+    "zh": "我不同意你的主张。",
+    "py": "Wǒ bù tóng yì nǐ de zhǔ zhāng.",
+    "vi": "Tôi không đồng ý với quan điểm của bạn.",
+    "en": "I don't agree with your view."
+   }
+  ]
+ },
+ {
+  "h": "认出",
+  "lv": 3,
+  "py": "rèn chū",
+  "vi": "nhận ra",
+  "ex": [
+   {
+    "zh": "我一下子就认出了他。",
+    "py": "Wǒ yí xià zi jiù rèn chū le tā.",
+    "vi": "Tôi nhận ra anh ấy ngay lập tức.",
+    "en": "I recognized him at once."
+   },
+   {
+    "zh": "十年没见，我没认出你来。",
+    "py": "Shí nián méi jiàn, wǒ méi rèn chū nǐ lái.",
+    "vi": "Mười năm không gặp, tôi không nhận ra bạn.",
+    "en": "After ten years apart, I didn't recognize you."
+   }
+  ]
+ },
+ {
+  "h": "弟",
+  "lv": 1,
+  "py": "dì",
+  "vi": "em trai",
+  "ex": [
+   {
+    "zh": "我弟今年十岁。",
+    "py": "Wǒ dì jīn nián shí suì.",
+    "vi": "Em trai tôi năm nay mười tuổi.",
+    "en": "My younger brother is ten this year."
+   },
+   {
+    "zh": "他弟也在这个学校。",
+    "py": "Tā dì yě zài zhè ge xué xiào.",
+    "vi": "Em trai anh ấy cũng học ở trường này.",
+    "en": "His younger brother is at this school too."
+   }
+  ]
+ },
+ {
+  "h": "规范",
+  "lv": 3,
+  "py": "guī fàn",
+  "vi": "quy phạm, chuẩn mực; đúng chuẩn",
+  "ex": [
+   {
+    "zh": "他的汉字写得很规范。",
+    "py": "Tā de Hàn zì xiě de hěn guī fàn.",
+    "vi": "Chữ Hán của anh ấy viết rất chuẩn.",
+    "en": "He writes Chinese characters very properly."
+   },
+   {
+    "zh": "公司有自己的工作规范。",
+    "py": "Gōng sī yǒu zì jǐ de gōng zuò guī fàn.",
+    "vi": "Công ty có quy chuẩn làm việc riêng.",
+    "en": "The company has its own work standards."
+   }
+  ]
+ },
+ {
+  "h": "可乐",
+  "lv": 3,
+  "py": "kě lè",
+  "vi": "coca, nước cô-la",
+  "ex": [
+   {
+    "zh": "我想喝一杯可乐。",
+    "py": "Wǒ xiǎng hē yì bēi kě lè.",
+    "vi": "Tôi muốn uống một cốc coca.",
+    "en": "I'd like a glass of cola."
+   },
+   {
+    "zh": "少喝可乐对身体好。",
+    "py": "Shǎo hē kě lè duì shēn tǐ hǎo.",
+    "vi": "Uống ít coca thì tốt cho sức khỏe.",
+    "en": "Drinking less cola is good for your health."
+   }
+  ]
+ },
+ {
+  "h": "电视机",
+  "lv": 1,
+  "py": "diàn shì jī",
+  "vi": "máy tivi",
+  "ex": [
+   {
+    "zh": "我家买了新电视机。",
+    "py": "Wǒ jiā mǎi le xīn diàn shì jī.",
+    "vi": "Nhà tôi mới mua tivi mới.",
+    "en": "My family bought a new TV set."
+   },
+   {
+    "zh": "电视机在桌子上。",
+    "py": "Diàn shì jī zài zhuō zi shàng.",
+    "vi": "Tivi ở trên bàn.",
+    "en": "The TV set is on the table."
+   }
+  ]
+ },
+ {
+  "h": "举手",
+  "lv": 2,
+  "py": "jǔ shǒu",
+  "vi": "giơ tay",
+  "ex": [
+   {
+    "zh": "有问题请举手。",
+    "py": "Yǒu wèn tí qǐng jǔ shǒu.",
+    "vi": "Có câu hỏi thì xin giơ tay.",
+    "en": "Please raise your hand if you have a question."
+   },
+   {
+    "zh": "他举手回答了老师的问题。",
+    "py": "Tā jǔ shǒu huí dá le lǎo shī de wèn tí.",
+    "vi": "Cậu ấy giơ tay trả lời câu hỏi của thầy.",
+    "en": "He raised his hand and answered the teacher's question."
+   }
+  ]
+ },
+ {
+  "h": "自主",
+  "lv": 3,
+  "py": "zì zhǔ",
+  "vi": "tự chủ; tự mình quyết định",
+  "ex": [
+   {
+    "zh": "孩子应该学会自主学习。",
+    "py": "Hái zi yīng gāi xué huì zì zhǔ xué xí.",
+    "vi": "Trẻ con nên học cách tự học.",
+    "en": "Children should learn to study on their own."
+   },
+   {
+    "zh": "这件事你可以自主决定。",
+    "py": "Zhè jiàn shì nǐ kě yǐ zì zhǔ jué dìng.",
+    "vi": "Việc này bạn có thể tự mình quyết định.",
+    "en": "You can decide this matter for yourself."
+   }
+  ]
+ },
+ {
+  "h": "歌迷",
+  "lv": 3,
+  "py": "gē mí",
+  "vi": "người hâm mộ ca nhạc; fan của ca sĩ",
+  "ex": [
+   {
+    "zh": "她有很多年轻的歌迷。",
+    "py": "Tā yǒu hěn duō nián qīng de gē mí.",
+    "vi": "Cô ấy có rất nhiều người hâm mộ trẻ.",
+    "en": "She has many young fans."
+   },
+   {
+    "zh": "歌迷们都在门口等他。",
+    "py": "Gē mí men dōu zài mén kǒu děng tā.",
+    "vi": "Người hâm mộ đều đợi anh ấy ở cửa.",
+    "en": "The fans are all waiting for him at the door."
+   }
+  ]
+ },
+ {
+  "h": "民间",
+  "lv": 3,
+  "py": "mín jiān",
+  "vi": "dân gian",
+  "ex": [
+   {
+    "zh": "这是一个有名的民间故事。",
+    "py": "Zhè shì yí gè yǒu míng de mín jiān gù shi.",
+    "vi": "Đây là một câu chuyện dân gian nổi tiếng.",
+    "en": "This is a famous folk tale."
+   },
+   {
+    "zh": "他对民间音乐很感兴趣。",
+    "py": "Tā duì mín jiān yīn yuè hěn gǎn xìng qù.",
+    "vi": "Anh ấy rất hứng thú với âm nhạc dân gian.",
+    "en": "He is very interested in folk music."
+   }
+  ]
+ },
+ {
+  "h": "解开",
+  "lv": 3,
+  "py": "jiě kāi",
+  "vi": "cởi ra; tháo ra; giải đáp",
+  "ex": [
+   {
+    "zh": "太热了，他解开了衬衣。",
+    "py": "Tài rè le, tā jiě kāi le chèn yī.",
+    "vi": "Nóng quá, anh ấy cởi cúc áo sơ mi ra.",
+    "en": "It was so hot that he unbuttoned his shirt."
+   },
+   {
+    "zh": "这个问题终于解开了。",
+    "py": "Zhè ge wèn tí zhōng yú jiě kāi le.",
+    "vi": "Vấn đề này cuối cùng cũng được giải đáp.",
+    "en": "This puzzle has finally been solved."
+   }
+  ]
+ },
+ {
+  "h": "下雪",
+  "lv": 2,
+  "py": "xià xuě",
+  "vi": "tuyết rơi",
+  "ex": [
+   {
+    "zh": "你看，外面下雪了！",
+    "py": "Nǐ kàn, wài miàn xià xuě le!",
+    "vi": "Bạn nhìn kìa, bên ngoài tuyết rơi rồi!",
+    "en": "Look, it's snowing outside!"
+   },
+   {
+    "zh": "北京冬天常常下雪。",
+    "py": "Běi jīng dōng tiān cháng cháng xià xuě.",
+    "vi": "Mùa đông ở Bắc Kinh thường có tuyết rơi.",
+    "en": "It often snows in Beijing in winter."
+   }
+  ]
+ },
+ {
+  "h": "英文",
+  "lv": 2,
+  "py": "Yīng wén",
+  "vi": "tiếng Anh",
+  "ex": [
+   {
+    "zh": "我喜欢看英文电影。",
+    "py": "Wǒ xǐ huan kàn Yīng wén diàn yǐng.",
+    "vi": "Tôi thích xem phim tiếng Anh.",
+    "en": "I like watching English-language movies."
+   },
+   {
+    "zh": "这个字用英文怎么说？",
+    "py": "Zhè ge zì yòng Yīng wén zěn me shuō?",
+    "vi": "Chữ này tiếng Anh nói thế nào?",
+    "en": "How do you say this word in English?"
+   }
+  ]
+ },
+ {
+  "h": "关上",
+  "lv": 1,
+  "py": "guān shàng",
+  "vi": "đóng lại; tắt đi",
+  "ex": [
+   {
+    "zh": "请你帮我关上门。",
+    "py": "Qǐng nǐ bāng wǒ guān shàng mén.",
+    "vi": "Nhờ bạn đóng cửa giúp tôi.",
+    "en": "Please close the door for me."
+   },
+   {
+    "zh": "睡觉以前请关上电视。",
+    "py": "Shuì jiào yǐ qián qǐng guān shàng diàn shì.",
+    "vi": "Trước khi ngủ hãy tắt tivi.",
+    "en": "Please turn off the TV before going to bed."
+   }
+  ]
+ },
+ {
+  "h": "骑车",
+  "lv": 2,
+  "py": "qí chē",
+  "vi": "đi xe đạp / xe máy",
+  "ex": [
+   {
+    "zh": "我每天骑车去学校。",
+    "py": "Wǒ měi tiān qí chē qù xué xiào.",
+    "vi": "Ngày nào tôi cũng đạp xe đến trường.",
+    "en": "I ride my bike to school every day."
+   },
+   {
+    "zh": "他骑车骑得很快。",
+    "py": "Tā qí chē qí de hěn kuài.",
+    "vi": "Anh ấy đi xe rất nhanh.",
+    "en": "He rides very fast."
+   }
+  ]
+ },
+ {
+  "h": "海边",
+  "lv": 2,
+  "py": "hǎi biān",
+  "vi": "bờ biển",
+  "ex": [
+   {
+    "zh": "我们去海边玩儿吧。",
+    "py": "Wǒ men qù hǎi biān wánr ba.",
+    "vi": "Chúng ta ra bờ biển chơi đi.",
+    "en": "Let's go to the seaside."
+   },
+   {
+    "zh": "他家就在海边。",
+    "py": "Tā jiā jiù zài hǎi biān.",
+    "vi": "Nhà anh ấy ở ngay bờ biển.",
+    "en": "His home is right by the sea."
+   }
+  ]
+ },
+ {
+  "h": "玩儿",
+  "lv": 1,
+  "py": "wán r",
+  "vi": "chơi; vui chơi",
+  "ex": [
+   {
+    "zh": "我们去公园玩儿吧。",
+    "py": "Wǒ men qù gōng yuán wánr ba.",
+    "vi": "Chúng ta đi công viên chơi đi.",
+    "en": "Let's go have fun in the park."
+   },
+   {
+    "zh": "孩子们在外面玩儿。",
+    "py": "Hái zi men zài wài miàn wánr.",
+    "vi": "Bọn trẻ đang chơi ở ngoài.",
+    "en": "The children are playing outside."
+   }
+  ]
+ },
+ {
+  "h": "老太太",
+  "lv": 3,
+  "py": "lǎo tài tai",
+  "vi": "bà cụ; cụ bà",
+  "ex": [
+   {
+    "zh": "这位老太太今年九十岁了。",
+    "py": "Zhè wèi lǎo tài tai jīn nián jiǔ shí suì le.",
+    "vi": "Bà cụ này năm nay chín mươi tuổi rồi.",
+    "en": "This old lady is ninety this year."
+   },
+   {
+    "zh": "他帮老太太拿东西。",
+    "py": "Tā bāng lǎo tài tai ná dōng xi.",
+    "vi": "Anh ấy giúp bà cụ xách đồ.",
+    "en": "He helped the old lady carry her things."
+   }
+  ]
+ },
+ {
+  "h": "建成",
+  "lv": 3,
+  "py": "jiàn chéng",
+  "vi": "xây xong; hoàn thành xây dựng",
+  "ex": [
+   {
+    "zh": "这座大楼去年建成了。",
+    "py": "Zhè zuò dà lóu qù nián jiàn chéng le.",
+    "vi": "Tòa nhà này đã xây xong năm ngoái.",
+    "en": "This building was completed last year."
+   },
+   {
+    "zh": "新的图书馆明年建成。",
+    "py": "Xīn de tú shū guǎn míng nián jiàn chéng.",
+    "vi": "Thư viện mới sẽ xây xong vào năm sau.",
+    "en": "The new library will be completed next year."
+   }
+  ]
+ },
+ {
+  "h": "老朋友",
+  "lv": 2,
+  "py": "lǎo péng you",
+  "vi": "bạn cũ; bạn lâu năm",
+  "ex": [
+   {
+    "zh": "我们是多年的老朋友。",
+    "py": "Wǒ men shì duō nián de lǎo péng you.",
+    "vi": "Chúng tôi là bạn lâu năm.",
+    "en": "We are old friends of many years."
+   },
+   {
+    "zh": "昨天我见到了一个老朋友。",
+    "py": "Zuó tiān wǒ jiàn dào le yí gè lǎo péng you.",
+    "vi": "Hôm qua tôi gặp một người bạn cũ.",
+    "en": "I met an old friend yesterday."
+   }
+  ]
+ },
+ {
+  "h": "一方面",
+  "lv": 3,
+  "py": "yī fāng miàn",
+  "vi": "một mặt",
+  "ex": [
+   {
+    "zh": "一方面要学习，一方面要休息。",
+    "py": "Yì fāng miàn yào xué xí, yì fāng miàn yào xiū xi.",
+    "vi": "Một mặt phải học, một mặt phải nghỉ ngơi.",
+    "en": "On one hand you need to study; on the other, you need to rest."
+   },
+   {
+    "zh": "这一方面我没有经验。",
+    "py": "Zhè yì fāng miàn wǒ méi yǒu jīng yàn.",
+    "vi": "Về mặt này tôi không có kinh nghiệm.",
+    "en": "I have no experience in this respect."
+   }
+  ]
+ },
+ {
+  "h": "车票",
+  "lv": 1,
+  "py": "chē piào",
+  "vi": "vé xe; vé tàu",
+  "ex": [
+   {
+    "zh": "我买了两张车票。",
+    "py": "Wǒ mǎi le liǎng zhāng chē piào.",
+    "vi": "Tôi đã mua hai vé xe.",
+    "en": "I bought two tickets."
+   },
+   {
+    "zh": "你的车票在哪儿？",
+    "py": "Nǐ de chē piào zài nǎr?",
+    "vi": "Vé xe của bạn ở đâu?",
+    "en": "Where is your ticket?"
+   }
+  ]
+ },
+ {
+  "h": "走开",
+  "lv": 2,
+  "py": "zǒu kāi",
+  "vi": "đi chỗ khác; tránh ra",
+  "ex": [
+   {
+    "zh": "请你走开，我在工作。",
+    "py": "Qǐng nǐ zǒu kāi, wǒ zài gōng zuò.",
+    "vi": "Xin bạn đi chỗ khác, tôi đang làm việc.",
+    "en": "Please go away, I'm working."
+   },
+   {
+    "zh": "他没说话就走开了。",
+    "py": "Tā méi shuō huà jiù zǒu kāi le.",
+    "vi": "Anh ấy không nói gì rồi bỏ đi.",
+    "en": "He walked away without saying a word."
+   }
+  ]
+ },
+ {
+  "h": "小声",
+  "lv": 2,
+  "py": "xiǎo shēng",
+  "vi": "nói nhỏ; khẽ",
+  "ex": [
+   {
+    "zh": "请小声一点儿。",
+    "py": "Qǐng xiǎo shēng yì diǎnr.",
+    "vi": "Xin nói nhỏ một chút.",
+    "en": "Please keep your voice down."
+   },
+   {
+    "zh": "孩子睡觉了，我们小声说话。",
+    "py": "Hái zi shuì jiào le, wǒ men xiǎo shēng shuō huà.",
+    "vi": "Con ngủ rồi, chúng ta nói nhỏ thôi.",
+    "en": "The child is asleep, so let's talk quietly."
+   }
+  ]
+ },
+ {
+  "h": "送到",
+  "lv": 2,
+  "py": "sòng dào",
+  "vi": "đưa đến; giao đến",
+  "ex": [
+   {
+    "zh": "请把这些东西送到我家。",
+    "py": "Qǐng bǎ zhè xiē dōng xi sòng dào wǒ jiā.",
+    "vi": "Hãy giao những thứ này đến nhà tôi.",
+    "en": "Please deliver these things to my home."
+   },
+   {
+    "zh": "我把朋友送到了车站。",
+    "py": "Wǒ bǎ péng you sòng dào le chē zhàn.",
+    "vi": "Tôi đã đưa bạn ra đến bến xe.",
+    "en": "I took my friend to the station."
+   }
+  ]
+ },
+ {
+  "h": "世界杯",
+  "lv": 3,
+  "py": "Shì jiè bēi",
+  "vi": "World Cup (giải vô địch thế giới)",
+  "ex": [
+   {
+    "zh": "你看今年的世界杯了吗？",
+    "py": "Nǐ kàn jīn nián de Shì jiè bēi le ma?",
+    "vi": "Bạn có xem World Cup năm nay không?",
+    "en": "Did you watch this year's World Cup?"
+   },
+   {
+    "zh": "世界杯每四年举行一次。",
+    "py": "Shì jiè bēi měi sì nián jǔ xíng yí cì.",
+    "vi": "World Cup bốn năm tổ chức một lần.",
+    "en": "The World Cup is held every four years."
+   }
+  ]
+ },
+ {
+  "h": "变为",
+  "lv": 3,
+  "py": "biàn wéi",
+  "vi": "biến thành; trở thành",
+  "ex": [
+   {
+    "zh": "这里已经变为一个公园。",
+    "py": "Zhè lǐ yǐ jīng biàn wéi yí gè gōng yuán.",
+    "vi": "Nơi này đã trở thành một công viên.",
+    "en": "This place has been turned into a park."
+   },
+   {
+    "zh": "这个小城市变为了大城市。",
+    "py": "Zhè ge xiǎo chéng shì biàn wéi le dà chéng shì.",
+    "vi": "Thành phố nhỏ này đã trở thành thành phố lớn.",
+    "en": "This small city has become a big one."
+   }
+  ]
+ },
+ {
+  "h": "志愿",
+  "lv": 3,
+  "py": "zhì yuàn",
+  "vi": "nguyện vọng; chí hướng; tình nguyện",
+  "ex": [
+   {
+    "zh": "当医生是我的志愿。",
+    "py": "Dāng yī shēng shì wǒ de zhì yuàn.",
+    "vi": "Làm bác sĩ là nguyện vọng của tôi.",
+    "en": "Being a doctor is my aspiration."
+   },
+   {
+    "zh": "他志愿去那里当老师。",
+    "py": "Tā zhì yuàn qù nà lǐ dāng lǎo shī.",
+    "vi": "Anh ấy tình nguyện đến đó làm giáo viên.",
+    "en": "He volunteered to go there as a teacher."
+   }
+  ]
+ },
+ {
+  "h": "回国",
+  "lv": 2,
+  "py": "huí guó",
+  "vi": "về nước",
+  "ex": [
+   {
+    "zh": "我打算明年回国工作。",
+    "py": "Wǒ dǎ suàn míng nián huí guó gōng zuò.",
+    "vi": "Tôi định sang năm về nước làm việc.",
+    "en": "I plan to go back to my country to work next year."
+   },
+   {
+    "zh": "他回国以后当了老师。",
+    "py": "Tā huí guó yǐ hòu dāng le lǎo shī.",
+    "vi": "Sau khi về nước anh ấy làm giáo viên.",
+    "en": "After returning home he became a teacher."
+   }
+  ]
+ },
+ {
+  "h": "推开",
+  "lv": 3,
+  "py": "tuī kāi",
+  "vi": "đẩy ra; đẩy mở",
+  "ex": [
+   {
+    "zh": "他推开门走了进来。",
+    "py": "Tā tuī kāi mén zǒu le jìn lái.",
+    "vi": "Anh ấy đẩy cửa bước vào.",
+    "en": "He pushed the door open and walked in."
+   },
+   {
+    "zh": "她推开窗户看外面。",
+    "py": "Tā tuī kāi chuāng hu kàn wài miàn.",
+    "vi": "Cô ấy đẩy cửa sổ ra nhìn bên ngoài.",
+    "en": "She pushed the window open to look outside."
+   }
+  ]
+ },
+ {
+  "h": "收音机",
+  "lv": 3,
+  "py": "shōu yīn jī",
+  "vi": "máy thu thanh; radio",
+  "ex": [
+   {
+    "zh": "爷爷喜欢听收音机。",
+    "py": "Yé ye xǐ huan tīng shōu yīn jī.",
+    "vi": "Ông thích nghe radio.",
+    "en": "Grandpa likes listening to the radio."
+   },
+   {
+    "zh": "这个收音机已经用了很多年。",
+    "py": "Zhè ge shōu yīn jī yǐ jīng yòng le hěn duō nián.",
+    "vi": "Chiếc radio này đã dùng nhiều năm rồi.",
+    "en": "This radio has been in use for many years."
+   }
+  ]
+ },
+ {
+  "h": "长城",
+  "lv": 3,
+  "py": "Cháng chéng",
+  "vi": "Vạn Lý Trường Thành",
+  "ex": [
+   {
+    "zh": "我想去北京爬长城。",
+    "py": "Wǒ xiǎng qù Běi jīng pá Cháng chéng.",
+    "vi": "Tôi muốn đến Bắc Kinh leo Trường Thành.",
+    "en": "I want to go to Beijing and climb the Great Wall."
+   },
+   {
+    "zh": "长城是世界有名的地方。",
+    "py": "Cháng chéng shì shì jiè yǒu míng de dì fang.",
+    "vi": "Trường Thành là địa danh nổi tiếng thế giới.",
+    "en": "The Great Wall is a world-famous place."
+   }
+  ]
+ },
+ {
+  "h": "班长",
+  "lv": 2,
+  "py": "bān zhǎng",
+  "vi": "lớp trưởng",
+  "ex": [
+   {
+    "zh": "他是我们班的班长。",
+    "py": "Tā shì wǒ men bān de bān zhǎng.",
+    "vi": "Cậu ấy là lớp trưởng lớp chúng tôi.",
+    "en": "He is our class monitor."
+   },
+   {
+    "zh": "班长，今天有作业吗？",
+    "py": "Bān zhǎng, jīn tiān yǒu zuò yè ma?",
+    "vi": "Lớp trưởng ơi, hôm nay có bài tập không?",
+    "en": "Class monitor, is there homework today?"
+   }
+  ]
+ },
+ {
+  "h": "电子邮件",
+  "lv": 3,
+  "py": "diàn zǐ yóu jiàn",
+  "vi": "thư điện tử; email",
+  "ex": [
+   {
+    "zh": "我给他发了一个电子邮件。",
+    "py": "Wǒ gěi tā fā le yí gè diàn zǐ yóu jiàn.",
+    "vi": "Tôi đã gửi cho anh ấy một email.",
+    "en": "I sent him an email."
+   },
+   {
+    "zh": "请用电子邮件通知大家。",
+    "py": "Qǐng yòng diàn zǐ yóu jiàn tōng zhī dà jiā.",
+    "vi": "Hãy thông báo cho mọi người bằng email.",
+    "en": "Please notify everyone by email."
+   }
+  ]
+ },
+ {
+  "h": "日报",
+  "lv": 2,
+  "py": "rì bào",
+  "vi": "nhật báo; báo hằng ngày",
+  "ex": [
+   {
+    "zh": "爸爸每天都看日报。",
+    "py": "Bà ba měi tiān dōu kàn rì bào.",
+    "vi": "Ngày nào bố cũng đọc nhật báo.",
+    "en": "Dad reads the daily paper every day."
+   },
+   {
+    "zh": "我在日报上看到了这个新闻。",
+    "py": "Wǒ zài rì bào shàng kàn dào le zhè ge xīn wén.",
+    "vi": "Tôi đọc được tin này trên nhật báo.",
+    "en": "I saw this news in the daily paper."
+   }
+  ]
+ },
+ {
+  "h": "走进",
+  "lv": 2,
+  "py": "zǒu jìn",
+  "vi": "bước vào; đi vào",
+  "ex": [
+   {
+    "zh": "老师走进了教室。",
+    "py": "Lǎo shī zǒu jìn le jiào shì.",
+    "vi": "Thầy giáo bước vào lớp.",
+    "en": "The teacher walked into the classroom."
+   },
+   {
+    "zh": "他走进商店买了一瓶水。",
+    "py": "Tā zǒu jìn shāng diàn mǎi le yì píng shuǐ.",
+    "vi": "Anh ấy vào cửa hàng mua một chai nước.",
+    "en": "He walked into the shop and bought a bottle of water."
+   }
+  ]
+ },
+ {
+  "h": "衬衣",
+  "lv": 3,
+  "py": "chèn yī",
+  "vi": "áo sơ mi",
+  "ex": [
+   {
+    "zh": "这件白衬衣很适合你。",
+    "py": "Zhè jiàn bái chèn yī hěn shì hé nǐ.",
+    "vi": "Chiếc sơ mi trắng này rất hợp với bạn.",
+    "en": "This white shirt suits you well."
+   },
+   {
+    "zh": "他每天穿衬衣上班。",
+    "py": "Tā měi tiān chuān chèn yī shàng bān.",
+    "vi": "Ngày nào anh ấy cũng mặc sơ mi đi làm.",
+    "en": "He wears a shirt to work every day."
+   }
+  ]
+ },
+ {
+  "h": "结实",
+  "lv": 3,
+  "py": "jiē shi",
+  "vi": "chắc chắn, bền; khỏe mạnh, rắn chắc",
+  "ex": [
+   {
+    "zh": "这双鞋很结实。",
+    "py": "Zhè shuāng xié hěn jiē shi.",
+    "vi": "Đôi giày này rất bền.",
+    "en": "This pair of shoes is very sturdy."
+   },
+   {
+    "zh": "他经常锻炼，身体很结实。",
+    "py": "Tā jīng cháng duàn liàn, shēn tǐ hěn jiē shi.",
+    "vi": "Anh ấy thường xuyên tập luyện, cơ thể rất rắn chắc.",
+    "en": "He exercises often and is very sturdy."
+   }
+  ]
+ },
+ {
+  "h": "体育场",
+  "lv": 2,
+  "py": "tǐ yù chǎng",
+  "vi": "sân vận động",
+  "ex": [
+   {
+    "zh": "体育场里有很多人。",
+    "py": "Tǐ yù chǎng lǐ yǒu hěn duō rén.",
+    "vi": "Trong sân vận động có rất nhiều người.",
+    "en": "There are many people in the stadium."
+   },
+   {
+    "zh": "我们在体育场门口见面。",
+    "py": "Wǒ men zài tǐ yù chǎng mén kǒu jiàn miàn.",
+    "vi": "Chúng ta gặp nhau ở cổng sân vận động.",
+    "en": "We'll meet at the stadium entrance."
+   }
+  ]
+ },
+ {
+  "h": "组长",
+  "lv": 2,
+  "py": "zǔ zhǎng",
+  "vi": "tổ trưởng; trưởng nhóm",
+  "ex": [
+   {
+    "zh": "他是我们小组的组长。",
+    "py": "Tā shì wǒ men xiǎo zǔ de zǔ zhǎng.",
+    "vi": "Anh ấy là trưởng nhóm của chúng tôi.",
+    "en": "He is the leader of our group."
+   },
+   {
+    "zh": "组长让大家明天早点来。",
+    "py": "Zǔ zhǎng ràng dà jiā míng tiān zǎo diǎn lái.",
+    "vi": "Tổ trưởng bảo mọi người ngày mai đến sớm.",
+    "en": "The group leader asked everyone to come early tomorrow."
+   }
+  ]
+ },
+ {
+  "h": "专题",
+  "lv": 3,
+  "py": "zhuān tí",
+  "vi": "chuyên đề",
+  "ex": [
+   {
+    "zh": "今天的节目是环境专题。",
+    "py": "Jīn tiān de jié mù shì huán jìng zhuān tí.",
+    "vi": "Chương trình hôm nay là chuyên đề môi trường.",
+    "en": "Today's program is a special on the environment."
+   },
+   {
+    "zh": "老师让我们做一个专题报告。",
+    "py": "Lǎo shī ràng wǒ men zuò yí gè zhuān tí bào gào.",
+    "vi": "Thầy giáo bảo chúng tôi làm một báo cáo chuyên đề.",
+    "en": "The teacher asked us to do a report on a special topic."
+   }
+  ]
+ },
+ {
+  "h": "工夫",
+  "lv": 3,
+  "py": "gōng fu",
+  "vi": "thời gian (bỏ ra); công sức; lúc rảnh",
+  "ex": [
+   {
+    "zh": "他花了很多工夫学汉语。",
+    "py": "Tā huā le hěn duō gōng fu xué Hàn yǔ.",
+    "vi": "Anh ấy bỏ rất nhiều công sức học tiếng Trung.",
+    "en": "He put a lot of time and effort into learning Chinese."
+   },
+   {
+    "zh": "我现在没工夫跟你聊天。",
+    "py": "Wǒ xiàn zài méi gōng fu gēn nǐ liáo tiān.",
+    "vi": "Bây giờ tôi không rảnh để trò chuyện với bạn.",
+    "en": "I don't have time to chat with you now."
+   }
+  ]
+ },
+ {
+  "h": "里边",
+  "lv": 1,
+  "py": "lǐ bian",
+  "vi": "bên trong",
+  "ex": [
+   {
+    "zh": "书包里边有什么？",
+    "py": "Shū bāo lǐ bian yǒu shén me?",
+    "vi": "Trong cặp sách có gì?",
+    "en": "What's inside the schoolbag?"
+   },
+   {
+    "zh": "外面很冷，请到里边坐。",
+    "py": "Wài miàn hěn lěng, qǐng dào lǐ bian zuò.",
+    "vi": "Bên ngoài lạnh lắm, mời vào trong ngồi.",
+    "en": "It's cold outside; please come in and sit."
+   }
+  ]
+ },
+ {
+  "h": "地铁站",
+  "lv": 2,
+  "py": "dì tiě zhàn",
+  "vi": "ga tàu điện ngầm",
+  "ex": [
+   {
+    "zh": "地铁站离这儿不远。",
+    "py": "Dì tiě zhàn lí zhèr bù yuǎn.",
+    "vi": "Ga tàu điện ngầm cách đây không xa.",
+    "en": "The subway station isn't far from here."
+   },
+   {
+    "zh": "我们在地铁站见面吧。",
+    "py": "Wǒ men zài dì tiě zhàn jiàn miàn ba.",
+    "vi": "Chúng ta gặp nhau ở ga tàu điện ngầm nhé.",
+    "en": "Let's meet at the subway station."
+   }
+  ]
+ },
+ {
+  "h": "没事儿",
+  "lv": 1,
+  "py": "méi shì r",
+  "vi": "không sao; không có việc gì",
+  "ex": [
+   {
+    "zh": "没事儿，我们明天再去。",
+    "py": "Méi shìr, wǒ men míng tiān zài qù.",
+    "vi": "Không sao, mai chúng ta đi cũng được.",
+    "en": "No problem, we'll go tomorrow."
+   },
+   {
+    "zh": "我今天下午没事儿。",
+    "py": "Wǒ jīn tiān xià wǔ méi shìr.",
+    "vi": "Chiều nay tôi không có việc gì.",
+    "en": "I'm free this afternoon."
+   }
+  ]
+ },
+ {
+  "h": "站住",
+  "lv": 2,
+  "py": "zhàn zhù",
+  "vi": "đứng lại; đứng vững",
+  "ex": [
+   {
+    "zh": "站住，你不能进去！",
+    "py": "Zhàn zhù, nǐ bù néng jìn qù!",
+    "vi": "Đứng lại, bạn không được vào!",
+    "en": "Stop, you can't go in!"
+   },
+   {
+    "zh": "车开得很快，我没站住。",
+    "py": "Chē kāi de hěn kuài, wǒ méi zhàn zhù.",
+    "vi": "Xe chạy nhanh quá, tôi đứng không vững.",
+    "en": "The bus was going fast and I couldn't keep my footing."
+   }
+  ]
+ },
+ {
+  "h": "大使馆",
+  "lv": 3,
+  "py": "dà shǐ guǎn",
+  "vi": "đại sứ quán",
+  "ex": [
+   {
+    "zh": "我明天要去大使馆办护照。",
+    "py": "Wǒ míng tiān yào qù dà shǐ guǎn bàn hù zhào.",
+    "vi": "Ngày mai tôi phải đến đại sứ quán làm hộ chiếu.",
+    "en": "I'm going to the embassy tomorrow to sort out my passport."
+   },
+   {
+    "zh": "大使馆离这儿不太远。",
+    "py": "Dà shǐ guǎn lí zhèr bú tài yuǎn.",
+    "vi": "Đại sứ quán cách đây không xa lắm.",
+    "en": "The embassy isn't too far from here."
+   }
+  ]
+ },
+ {
+  "h": "分组",
+  "lv": 3,
+  "py": "fēn zǔ",
+  "vi": "chia nhóm",
+  "ex": [
+   {
+    "zh": "老师让我们分组讨论。",
+    "py": "Lǎo shī ràng wǒ men fēn zǔ tǎo lùn.",
+    "vi": "Thầy giáo cho chúng tôi chia nhóm thảo luận.",
+    "en": "The teacher had us discuss in groups."
+   },
+   {
+    "zh": "比赛以前要先分组。",
+    "py": "Bǐ sài yǐ qián yào xiān fēn zǔ.",
+    "vi": "Trước khi thi đấu phải chia nhóm trước.",
+    "en": "We need to split into groups before the competition."
+   }
+  ]
+ },
+ {
+  "h": "代表团",
+  "lv": 3,
+  "py": "dài biǎo tuán",
+  "vi": "đoàn đại biểu",
+  "ex": [
+   {
+    "zh": "代表团明天到北京。",
+    "py": "Dài biǎo tuán míng tiān dào Běi jīng.",
+    "vi": "Đoàn đại biểu ngày mai đến Bắc Kinh.",
+    "en": "The delegation arrives in Beijing tomorrow."
+   },
+   {
+    "zh": "他是这个代表团的团长。",
+    "py": "Tā shì zhè ge dài biǎo tuán de tuán zhǎng.",
+    "vi": "Ông ấy là trưởng đoàn đại biểu này.",
+    "en": "He is the head of this delegation."
+   }
+  ]
+ },
+ {
+  "h": "所长",
+  "lv": 3,
+  "py": "suǒ zhǎng",
+  "vi": "viện trưởng; trưởng sở, trưởng đồn",
+  "ex": [
+   {
+    "zh": "所长正在开会。",
+    "py": "Suǒ zhǎng zhèng zài kāi huì.",
+    "vi": "Viện trưởng đang họp.",
+    "en": "The director is in a meeting."
+   },
+   {
+    "zh": "他是这个研究所的所长。",
+    "py": "Tā shì zhè ge yán jiū suǒ de suǒ zhǎng.",
+    "vi": "Ông ấy là viện trưởng của viện nghiên cứu này.",
+    "en": "He is the director of this research institute."
+   }
+  ]
+ },
+ {
+  "h": "公共汽车",
+  "lv": 2,
+  "py": "gōng gòng qì chē",
+  "vi": "xe buýt",
+  "ex": [
+   {
+    "zh": "我每天坐公共汽车上班。",
+    "py": "Wǒ měi tiān zuò gōng gòng qì chē shàng bān.",
+    "vi": "Ngày nào tôi cũng đi xe buýt đi làm.",
+    "en": "I take the bus to work every day."
+   },
+   {
+    "zh": "公共汽车上人很多。",
+    "py": "Gōng gòng qì chē shàng rén hěn duō.",
+    "vi": "Trên xe buýt rất đông người.",
+    "en": "The bus is very crowded."
+   }
+  ]
+ },
+ {
+  "h": "票价",
+  "lv": 3,
+  "py": "piào jià",
+  "vi": "giá vé",
+  "ex": [
+   {
+    "zh": "这场比赛的票价很贵。",
+    "py": "Zhè chǎng bǐ sài de piào jià hěn guì.",
+    "vi": "Giá vé trận đấu này rất đắt.",
+    "en": "Tickets for this match are expensive."
+   },
+   {
+    "zh": "地铁的票价是多少？",
+    "py": "Dì tiě de piào jià shì duō shao?",
+    "vi": "Giá vé tàu điện ngầm là bao nhiêu?",
+    "en": "How much is the subway fare?"
+   }
+  ]
+ },
+ {
+  "h": "华人",
+  "lv": 3,
+  "py": "Huá rén",
+  "vi": "người Hoa",
+  "ex": [
+   {
+    "zh": "这个城市有很多华人。",
+    "py": "Zhè ge chéng shì yǒu hěn duō Huá rén.",
+    "vi": "Thành phố này có rất nhiều người Hoa.",
+    "en": "There are many ethnic Chinese in this city."
+   },
+   {
+    "zh": "他是在美国长大的华人。",
+    "py": "Tā shì zài Měi guó zhǎng dà de Huá rén.",
+    "vi": "Anh ấy là người Hoa lớn lên ở Mỹ.",
+    "en": "He is an ethnic Chinese who grew up in the US."
+   }
+  ]
+ },
+ {
+  "h": "有的是",
+  "lv": 3,
+  "py": "yǒu de shì",
+  "vi": "có đầy; có rất nhiều, không thiếu",
+  "ex": [
+   {
+    "zh": "别着急，我们有的是时间。",
+    "py": "Bié zháo jí, wǒ men yǒu de shì shí jiān.",
+    "vi": "Đừng vội, chúng ta có đầy thời gian.",
+    "en": "Don't worry, we have plenty of time."
+   },
+   {
+    "zh": "这种水果市场上有的是。",
+    "py": "Zhè zhǒng shuǐ guǒ shì chǎng shàng yǒu de shì.",
+    "vi": "Loại quả này ngoài chợ có đầy.",
+    "en": "There's plenty of this fruit at the market."
+   }
+  ]
+ },
+ {
+  "h": "皮包",
+  "lv": 3,
+  "py": "pí bāo",
+  "vi": "túi da; cặp da",
+  "ex": [
+   {
+    "zh": "她买了一个新皮包。",
+    "py": "Tā mǎi le yí gè xīn pí bāo.",
+    "vi": "Cô ấy đã mua một cái túi da mới.",
+    "en": "She bought a new leather bag."
+   },
+   {
+    "zh": "我的皮包忘在出租车上了。",
+    "py": "Wǒ de pí bāo wàng zài chū zū chē shàng le.",
+    "vi": "Tôi để quên túi da trên taxi rồi.",
+    "en": "I left my leather bag in the taxi."
+   }
+  ]
+ },
+ {
+  "h": "后边",
+  "lv": 1,
+  "py": "hòu bian",
+  "vi": "phía sau; đằng sau",
+  "ex": [
+   {
+    "zh": "学校后边有一个公园。",
+    "py": "Xué xiào hòu bian yǒu yí gè gōng yuán.",
+    "vi": "Phía sau trường có một công viên.",
+    "en": "There is a park behind the school."
+   },
+   {
+    "zh": "他坐在我后边。",
+    "py": "Tā zuò zài wǒ hòu bian.",
+    "vi": "Anh ấy ngồi phía sau tôi.",
+    "en": "He sits behind me."
+   }
+  ]
+ },
+ {
+  "h": "连续剧",
+  "lv": 3,
+  "py": "lián xù jù",
+  "vi": "phim truyền hình nhiều tập",
+  "ex": [
+   {
+    "zh": "妈妈每天晚上看连续剧。",
+    "py": "Mā ma měi tiān wǎn shang kàn lián xù jù.",
+    "vi": "Tối nào mẹ cũng xem phim truyền hình.",
+    "en": "Mom watches TV dramas every evening."
+   },
+   {
+    "zh": "这个连续剧非常有意思。",
+    "py": "Zhè ge lián xù jù fēi cháng yǒu yì si.",
+    "vi": "Bộ phim truyền hình này rất thú vị.",
+    "en": "This TV series is very interesting."
+   }
+  ]
+ },
+ {
+  "h": "拿出",
+  "lv": 2,
+  "py": "ná chū",
+  "vi": "lấy ra; đưa ra",
+  "ex": [
+   {
+    "zh": "他从包里拿出一本书。",
+    "py": "Tā cóng bāo lǐ ná chū yì běn shū.",
+    "vi": "Anh ấy lấy từ trong túi ra một quyển sách.",
+    "en": "He took a book out of his bag."
+   },
+   {
+    "zh": "请大家拿出笔和本子。",
+    "py": "Qǐng dà jiā ná chū bǐ hé běn zi.",
+    "vi": "Mời mọi người lấy bút và vở ra.",
+    "en": "Everyone, please take out your pens and notebooks."
+   }
+  ]
+ },
+ {
+  "h": "西边",
+  "lv": 1,
+  "py": "xī biān",
+  "vi": "phía tây",
+  "ex": [
+   {
+    "zh": "我家在学校西边。",
+    "py": "Wǒ jiā zài xué xiào xī biān.",
+    "vi": "Nhà tôi ở phía tây trường học.",
+    "en": "My home is to the west of the school."
+   },
+   {
+    "zh": "医院在商店的西边。",
+    "py": "Yī yuàn zài shāng diàn de xī biān.",
+    "vi": "Bệnh viện ở phía tây cửa hàng.",
+    "en": "The hospital is west of the shop."
+   }
+  ]
+ },
+ {
+  "h": "上边",
+  "lv": 1,
+  "py": "shàng bian",
+  "vi": "phía trên; bên trên",
+  "ex": [
+   {
+    "zh": "桌子上边有一个杯子。",
+    "py": "Zhuō zi shàng bian yǒu yí gè bēi zi.",
+    "vi": "Trên bàn có một cái cốc.",
+    "en": "There is a cup on the table."
+   },
+   {
+    "zh": "你的名字写在上边。",
+    "py": "Nǐ de míng zi xiě zài shàng bian.",
+    "vi": "Tên của bạn viết ở phía trên.",
+    "en": "Your name is written at the top."
+   }
+  ]
+ },
+ {
+  "h": "晴天",
+  "lv": 2,
+  "py": "qíng tiān",
+  "vi": "trời nắng; ngày nắng",
+  "ex": [
+   {
+    "zh": "明天是晴天，我们去公园吧。",
+    "py": "Míng tiān shì qíng tiān, wǒ men qù gōng yuán ba.",
+    "vi": "Ngày mai trời nắng, chúng ta đi công viên nhé.",
+    "en": "Tomorrow will be sunny; let's go to the park."
+   },
+   {
+    "zh": "我喜欢晴天，不喜欢下雨。",
+    "py": "Wǒ xǐ huan qíng tiān, bù xǐ huan xià yǔ.",
+    "vi": "Tôi thích trời nắng, không thích trời mưa.",
+    "en": "I like sunny days and don't like rain."
+   }
+  ]
+ },
+ {
+  "h": "全年",
+  "lv": 2,
+  "py": "quán nián",
+  "vi": "cả năm; quanh năm",
+  "ex": [
+   {
+    "zh": "这家商店全年都开门。",
+    "py": "Zhè jiā shāng diàn quán nián dōu kāi mén.",
+    "vi": "Cửa hàng này mở cửa quanh năm.",
+    "en": "This shop is open all year round."
+   },
+   {
+    "zh": "这里全年都很热。",
+    "py": "Zhè lǐ quán nián dōu hěn rè.",
+    "vi": "Ở đây quanh năm đều rất nóng.",
+    "en": "It's hot here all year long."
+   }
+  ]
+ },
+ {
+  "h": "爬山",
+  "lv": 2,
+  "py": "pá shān",
+  "vi": "leo núi",
+  "ex": [
+   {
+    "zh": "周末我们去爬山吧。",
+    "py": "Zhōu mò wǒ men qù pá shān ba.",
+    "vi": "Cuối tuần chúng ta đi leo núi nhé.",
+    "en": "Let's go hiking this weekend."
+   },
+   {
+    "zh": "爬山对身体很好。",
+    "py": "Pá shān duì shēn tǐ hěn hǎo.",
+    "vi": "Leo núi rất tốt cho sức khỏe.",
+    "en": "Climbing mountains is good for your health."
+   }
+  ]
+ },
+ {
+  "h": "那会儿",
+  "lv": 2,
+  "py": "nà huì r",
+  "vi": "hồi đó; lúc ấy",
+  "ex": [
+   {
+    "zh": "那会儿我还在上小学。",
+    "py": "Nà huìr wǒ hái zài shàng xiǎo xué.",
+    "vi": "Hồi đó tôi vẫn đang học tiểu học.",
+    "en": "Back then I was still in primary school."
+   },
+   {
+    "zh": "那会儿我们常常一起玩儿。",
+    "py": "Nà huìr wǒ men cháng cháng yì qǐ wánr.",
+    "vi": "Hồi đó chúng tôi thường chơi cùng nhau.",
+    "en": "Back then we often played together."
+   }
+  ]
+ },
+ {
+  "h": "东边",
+  "lv": 1,
+  "py": "dōng bian",
+  "vi": "phía đông",
+  "ex": [
+   {
+    "zh": "学校在我家东边。",
+    "py": "Xué xiào zài wǒ jiā dōng bian.",
+    "vi": "Trường học ở phía đông nhà tôi.",
+    "en": "The school is to the east of my home."
+   },
+   {
+    "zh": "东边有一个大商店。",
+    "py": "Dōng bian yǒu yí gè dà shāng diàn.",
+    "vi": "Phía đông có một cửa hàng lớn.",
+    "en": "There is a big shop to the east."
+   }
+  ]
+ },
+ {
+  "h": "白菜",
+  "lv": 3,
+  "py": "bái cài",
+  "vi": "cải thảo",
+  "ex": [
+   {
+    "zh": "冬天的白菜很便宜。",
+    "py": "Dōng tiān de bái cài hěn pián yi.",
+    "vi": "Cải thảo mùa đông rất rẻ.",
+    "en": "Chinese cabbage is cheap in winter."
+   },
+   {
+    "zh": "妈妈做的白菜很好吃。",
+    "py": "Mā ma zuò de bái cài hěn hǎo chī.",
+    "vi": "Món cải thảo mẹ nấu rất ngon.",
+    "en": "The cabbage my mom cooks is delicious."
+   }
+  ]
+ },
+ {
+  "h": "球鞋",
+  "lv": 2,
+  "py": "qiú xié",
+  "vi": "giày thể thao",
+  "ex": [
+   {
+    "zh": "我想买一双新球鞋。",
+    "py": "Wǒ xiǎng mǎi yì shuāng xīn qiú xié.",
+    "vi": "Tôi muốn mua một đôi giày thể thao mới.",
+    "en": "I want to buy a new pair of sneakers."
+   },
+   {
+    "zh": "打球的时候要穿球鞋。",
+    "py": "Dǎ qiú de shí hou yào chuān qiú xié.",
+    "vi": "Khi chơi bóng phải đi giày thể thao.",
+    "en": "You should wear sneakers when playing ball."
+   }
+  ]
+ },
+ {
+  "h": "交朋友",
+  "lv": 2,
+  "py": "jiāo péng you",
+  "vi": "kết bạn",
+  "ex": [
+   {
+    "zh": "他很喜欢交朋友。",
+    "py": "Tā hěn xǐ huan jiāo péng you.",
+    "vi": "Anh ấy rất thích kết bạn.",
+    "en": "He loves making friends."
+   },
+   {
+    "zh": "我想和你交朋友。",
+    "py": "Wǒ xiǎng hé nǐ jiāo péng you.",
+    "vi": "Tôi muốn kết bạn với bạn.",
+    "en": "I'd like to be friends with you."
+   }
+  ]
+ },
+ {
+  "h": "晚报",
+  "lv": 2,
+  "py": "wǎn bào",
+  "vi": "báo buổi chiều",
+  "ex": [
+   {
+    "zh": "爷爷每天都买晚报。",
+    "py": "Yé ye měi tiān dōu mǎi wǎn bào.",
+    "vi": "Ngày nào ông cũng mua báo buổi chiều.",
+    "en": "Grandpa buys the evening paper every day."
+   },
+   {
+    "zh": "今天的晚报你看了吗？",
+    "py": "Jīn tiān de wǎn bào nǐ kàn le ma?",
+    "vi": "Báo chiều hôm nay bạn đọc chưa?",
+    "en": "Have you read today's evening paper?"
+   }
+  ]
+ },
+ {
+  "h": "南边",
+  "lv": 1,
+  "py": "nán bian",
+  "vi": "phía nam",
+  "ex": [
+   {
+    "zh": "我家在公园南边。",
+    "py": "Wǒ jiā zài gōng yuán nán bian.",
+    "vi": "Nhà tôi ở phía nam công viên.",
+    "en": "My home is to the south of the park."
+   },
+   {
+    "zh": "南边的天气很热。",
+    "py": "Nán bian de tiān qì hěn rè.",
+    "vi": "Thời tiết ở phía nam rất nóng.",
+    "en": "The weather in the south is hot."
+   }
+  ]
+ },
+ {
+  "h": "北边",
+  "lv": 1,
+  "py": "běi biān",
+  "vi": "phía bắc",
+  "ex": [
+   {
+    "zh": "学校北边有一个医院。",
+    "py": "Xué xiào běi biān yǒu yí gè yī yuàn.",
+    "vi": "Phía bắc trường học có một bệnh viện.",
+    "en": "There is a hospital north of the school."
+   },
+   {
+    "zh": "火车站在商店的北边。",
+    "py": "Huǒ chē zhàn zài shāng diàn de běi biān.",
+    "vi": "Ga tàu hỏa ở phía bắc cửa hàng.",
+    "en": "The train station is north of the shop."
+   }
+  ]
+ },
+ {
+  "h": "药水",
+  "lv": 2,
+  "py": "yào shuǐ",
+  "vi": "thuốc nước",
+  "ex": [
+   {
+    "zh": "这种药水一天喝三次。",
+    "py": "Zhè zhǒng yào shuǐ yì tiān hē sān cì.",
+    "vi": "Loại thuốc nước này uống ngày ba lần.",
+    "en": "Take this liquid medicine three times a day."
+   },
+   {
+    "zh": "医生给了我一瓶药水。",
+    "py": "Yī shēng gěi le wǒ yì píng yào shuǐ.",
+    "vi": "Bác sĩ cho tôi một lọ thuốc nước.",
+    "en": "The doctor gave me a bottle of liquid medicine."
+   }
+  ]
+ },
+ {
+  "h": "积极性",
+  "lv": 3,
+  "py": "jī jí xìng",
+  "vi": "tính tích cực; sự hăng hái",
+  "ex": [
+   {
+    "zh": "学生们学习的积极性很高。",
+    "py": "Xué sheng men xué xí de jī jí xìng hěn gāo.",
+    "vi": "Học sinh rất hăng hái học tập.",
+    "en": "The students are highly motivated to study."
+   },
+   {
+    "zh": "老师的话提高了大家的积极性。",
+    "py": "Lǎo shī de huà tí gāo le dà jiā de jī jí xìng.",
+    "vi": "Lời thầy giáo đã nâng cao tinh thần tích cực của mọi người.",
+    "en": "The teacher's words boosted everyone's enthusiasm."
+   }
+  ]
+ },
+ {
+  "h": "问路",
+  "lv": 2,
+  "py": "wèn lù",
+  "vi": "hỏi đường",
+  "ex": [
+   {
+    "zh": "有一个人向我问路。",
+    "py": "Yǒu yí gè rén xiàng wǒ wèn lù.",
+    "vi": "Có một người hỏi đường tôi.",
+    "en": "Someone asked me for directions."
+   },
+   {
+    "zh": "我不认识路，要去问路。",
+    "py": "Wǒ bú rèn shi lù, yào qù wèn lù.",
+    "vi": "Tôi không biết đường, phải đi hỏi đường.",
+    "en": "I don't know the way, so I need to ask for directions."
+   }
+  ]
+ },
+ {
+  "h": "下边",
+  "lv": 1,
+  "py": "xià bian",
+  "vi": "phía dưới; bên dưới",
+  "ex": [
+   {
+    "zh": "桌子下边有一个包。",
+    "py": "Zhuō zi xià bian yǒu yí gè bāo.",
+    "vi": "Dưới bàn có một cái túi.",
+    "en": "There is a bag under the table."
+   },
+   {
+    "zh": "请看下边的问题。",
+    "py": "Qǐng kàn xià bian de wèn tí.",
+    "vi": "Hãy xem câu hỏi bên dưới.",
+    "en": "Please look at the questions below."
+   }
+  ]
+ },
+ {
+  "h": "午睡",
+  "lv": 2,
+  "py": "wǔ shuì",
+  "vi": "ngủ trưa",
+  "ex": [
+   {
+    "zh": "我每天中午都午睡。",
+    "py": "Wǒ měi tiān zhōng wǔ dōu wǔ shuì.",
+    "vi": "Trưa nào tôi cũng ngủ trưa.",
+    "en": "I take a nap every noon."
+   },
+   {
+    "zh": "午睡以后我去打球。",
+    "py": "Wǔ shuì yǐ hòu wǒ qù dǎ qiú.",
+    "vi": "Ngủ trưa xong tôi đi chơi bóng.",
+    "en": "After my nap I'm going to play ball."
+   }
+  ]
+ },
+ {
+  "h": "药片",
+  "lv": 2,
+  "py": "yào piàn",
+  "vi": "viên thuốc",
+  "ex": [
+   {
+    "zh": "这种药片一次吃两片。",
+    "py": "Zhè zhǒng yào piàn yí cì chī liǎng piàn.",
+    "vi": "Loại thuốc viên này mỗi lần uống hai viên.",
+    "en": "Take two of these tablets at a time."
+   },
+   {
+    "zh": "他吃了药片就睡觉了。",
+    "py": "Tā chī le yào piàn jiù shuì jiào le.",
+    "vi": "Anh ấy uống thuốc xong là đi ngủ.",
+    "en": "He took the tablets and went to sleep."
+   }
+  ]
+ },
+ {
+  "h": "初一",
+  "lv": 3,
+  "py": "chū yī",
+  "vi": "mồng một (âm lịch); lớp 7 (năm đầu trung học cơ sở)",
+  "ex": [
+   {
+    "zh": "我弟弟今年上初一。",
+    "py": "Wǒ dì di jīn nián shàng chū yī.",
+    "vi": "Em trai tôi năm nay lên lớp 7.",
+    "en": "My younger brother starts junior high this year."
+   },
+   {
+    "zh": "大年初一我们去看奶奶。",
+    "py": "Dà nián chū yī wǒ men qù kàn nǎi nai.",
+    "vi": "Mồng một Tết chúng tôi đi thăm bà.",
+    "en": "On Lunar New Year's Day we go to see Grandma."
+   }
+  ]
+ },
+ {
+  "h": "音节",
+  "lv": 2,
+  "py": "yīn jié",
+  "vi": "âm tiết",
+  "ex": [
+   {
+    "zh": "这个词有两个音节。",
+    "py": "Zhè ge cí yǒu liǎng gè yīn jié.",
+    "vi": "Từ này có hai âm tiết.",
+    "en": "This word has two syllables."
+   },
+   {
+    "zh": "请读一下这个音节。",
+    "py": "Qǐng dú yí xià zhè ge yīn jié.",
+    "vi": "Hãy đọc âm tiết này.",
+    "en": "Please read this syllable."
+   }
+  ]
+ },
+ {
+  "h": "一点点",
+  "lv": 2,
+  "py": "yī diǎn diǎn",
+  "vi": "một chút xíu",
+  "ex": [
+   {
+    "zh": "我只会说一点点汉语。",
+    "py": "Wǒ zhǐ huì shuō yì diǎn diǎn Hàn yǔ.",
+    "vi": "Tôi chỉ biết nói một chút xíu tiếng Trung.",
+    "en": "I can only speak a tiny bit of Chinese."
+   },
+   {
+    "zh": "请给我一点点时间。",
+    "py": "Qǐng gěi wǒ yì diǎn diǎn shí jiān.",
+    "vi": "Xin cho tôi một chút xíu thời gian.",
+    "en": "Please give me just a little time."
+   }
+  ]
+ },
+ {
+  "h": "银牌",
+  "lv": 3,
+  "py": "yín pái",
+  "vi": "huy chương bạc",
+  "ex": [
+   {
+    "zh": "她在这次比赛中得了银牌。",
+    "py": "Tā zài zhè cì bǐ sài zhōng dé le yín pái.",
+    "vi": "Cô ấy giành huy chương bạc trong cuộc thi này.",
+    "en": "She won a silver medal in this competition."
+   },
+   {
+    "zh": "他对银牌的成绩不太满意。",
+    "py": "Tā duì yín pái de chéng jì bú tài mǎn yì.",
+    "vi": "Anh ấy không hài lòng lắm với thành tích huy chương bạc.",
+    "en": "He isn't very satisfied with a silver medal."
+   }
+  ]
+ },
+ {
+  "h": "请进",
+  "lv": 1,
+  "py": "qǐng jìn",
+  "vi": "mời vào",
+  "ex": [
+   {
+    "zh": "请进，我们正在等你。",
+    "py": "Qǐng jìn, wǒ men zhèng zài děng nǐ.",
+    "vi": "Mời vào, chúng tôi đang đợi bạn.",
+    "en": "Please come in, we've been waiting for you."
+   },
+   {
+    "zh": "门开着，请进吧。",
+    "py": "Mén kāi zhe, qǐng jìn ba.",
+    "vi": "Cửa đang mở, mời vào.",
+    "en": "The door is open, please come in."
+   }
+  ]
+ },
+ {
+  "h": "老头儿",
+  "lv": 3,
+  "py": "lǎo tóu r",
+  "vi": "ông già; ông lão",
+  "ex": [
+   {
+    "zh": "那个老头儿每天在公园散步。",
+    "py": "Nà ge lǎo tóur měi tiān zài gōng yuán sàn bù.",
+    "vi": "Ông lão ấy ngày nào cũng đi dạo ở công viên.",
+    "en": "That old man takes a walk in the park every day."
+   },
+   {
+    "zh": "楼下住着一个热情的老头儿。",
+    "py": "Lóu xià zhù zhe yí gè rè qíng de lǎo tóur.",
+    "vi": "Dưới lầu có một ông lão rất nhiệt tình.",
+    "en": "A warm-hearted old man lives downstairs."
+   }
+  ]
+ },
+ {
+  "h": "划船",
+  "lv": 3,
+  "py": "huá chuán",
+  "vi": "chèo thuyền",
+  "ex": [
+   {
+    "zh": "周末我们去公园划船吧。",
+    "py": "Zhōu mò wǒ men qù gōng yuán huá chuán ba.",
+    "vi": "Cuối tuần chúng ta ra công viên chèo thuyền nhé.",
+    "en": "Let's go boating in the park this weekend."
+   },
+   {
+    "zh": "他从小就会划船。",
+    "py": "Tā cóng xiǎo jiù huì huá chuán.",
+    "vi": "Anh ấy biết chèo thuyền từ nhỏ.",
+    "en": "He has known how to row since he was little."
+   }
+  ]
+ },
+ {
+  "h": "春节",
+  "lv": 2,
+  "py": "Chūn jié",
+  "vi": "Tết Nguyên đán (Tết âm lịch)",
+  "ex": [
+   {
+    "zh": "春节我要回家看爸爸妈妈。",
+    "py": "Chūn jié wǒ yào huí jiā kàn bà ba mā ma.",
+    "vi": "Tết tôi sẽ về nhà thăm bố mẹ.",
+    "en": "I'm going home to see my parents for Spring Festival."
+   },
+   {
+    "zh": "春节是中国最重要的节日。",
+    "py": "Chūn jié shì Zhōng guó zuì zhòng yào de jié rì.",
+    "vi": "Tết Nguyên đán là ngày lễ quan trọng nhất của Trung Quốc.",
+    "en": "Spring Festival is China's most important holiday."
+   }
+  ]
+ },
+ {
+  "h": "交费",
+  "lv": 3,
+  "py": "jiāo fèi",
+  "vi": "nộp phí; đóng tiền",
+  "ex": [
+   {
+    "zh": "请先去一楼交费。",
+    "py": "Qǐng xiān qù yī lóu jiāo fèi.",
+    "vi": "Xin hãy xuống tầng một đóng tiền trước.",
+    "en": "Please go to the first floor to pay first."
+   },
+   {
+    "zh": "现在可以用手机交费。",
+    "py": "Xiàn zài kě yǐ yòng shǒu jī jiāo fèi.",
+    "vi": "Bây giờ có thể đóng phí bằng điện thoại.",
+    "en": "You can now pay fees with your phone."
+   }
+  ]
+ },
+ {
+  "h": "凉水",
+  "lv": 3,
+  "py": "liáng shuǐ",
+  "vi": "nước lạnh; nước lã",
+  "ex": [
+   {
+    "zh": "他喜欢用凉水洗脸。",
+    "py": "Tā xǐ huan yòng liáng shuǐ xǐ liǎn.",
+    "vi": "Anh ấy thích rửa mặt bằng nước lạnh.",
+    "en": "He likes to wash his face with cold water."
+   },
+   {
+    "zh": "冬天最好不要喝凉水。",
+    "py": "Dōng tiān zuì hǎo bú yào hē liáng shuǐ.",
+    "vi": "Mùa đông tốt nhất đừng uống nước lạnh.",
+    "en": "It's best not to drink cold water in winter."
+   }
+  ]
+ },
+ {
+  "h": "阴天",
+  "lv": 2,
+  "py": "yīn tiān",
+  "vi": "trời âm u; ngày nhiều mây",
+  "ex": [
+   {
+    "zh": "今天是阴天，可能会下雨。",
+    "py": "Jīn tiān shì yīn tiān, kě néng huì xià yǔ.",
+    "vi": "Hôm nay trời âm u, có thể sẽ mưa.",
+    "en": "It's overcast today; it might rain."
+   },
+   {
+    "zh": "阴天的时候我不想出门。",
+    "py": "Yīn tiān de shí hou wǒ bù xiǎng chū mén.",
+    "vi": "Những hôm trời âm u tôi không muốn ra ngoài.",
+    "en": "I don't feel like going out on overcast days."
+   }
+  ]
+ },
+ {
+  "h": "前边",
+  "lv": 1,
+  "py": "qián bian",
+  "vi": "phía trước",
+  "ex": [
+   {
+    "zh": "前边有一个商店。",
+    "py": "Qián bian yǒu yí gè shāng diàn.",
+    "vi": "Phía trước có một cửa hàng.",
+    "en": "There is a shop up ahead."
+   },
+   {
+    "zh": "他坐在我前边。",
+    "py": "Tā zuò zài wǒ qián bian.",
+    "vi": "Anh ấy ngồi phía trước tôi.",
+    "en": "He sits in front of me."
+   }
+  ]
+ },
+ {
+  "h": "西医",
+  "lv": 2,
+  "py": "xī yī",
+  "vi": "Tây y; bác sĩ Tây y",
+  "ex": [
+   {
+    "zh": "他爸爸是一位西医。",
+    "py": "Tā bà ba shì yí wèi xī yī.",
+    "vi": "Bố anh ấy là bác sĩ Tây y.",
+    "en": "His father is a doctor of Western medicine."
+   },
+   {
+    "zh": "我生病的时候常常看西医。",
+    "py": "Wǒ shēng bìng de shí hou cháng cháng kàn xī yī.",
+    "vi": "Khi ốm tôi thường khám Tây y.",
+    "en": "When I'm sick I usually see a Western-medicine doctor."
+   }
+  ]
+ },
+ {
+  "h": "听讲",
+  "lv": 2,
+  "py": "tīng jiǎng",
+  "vi": "nghe giảng",
+  "ex": [
+   {
+    "zh": "上课的时候要认真听讲。",
+    "py": "Shàng kè de shí hou yào rèn zhēn tīng jiǎng.",
+    "vi": "Trong giờ học phải chăm chú nghe giảng.",
+    "en": "You should listen carefully in class."
+   },
+   {
+    "zh": "他上课不听讲，老师不高兴。",
+    "py": "Tā shàng kè bù tīng jiǎng, lǎo shī bù gāo xìng.",
+    "vi": "Cậu ấy không nghe giảng trong giờ, thầy giáo không vui.",
+    "en": "He doesn't pay attention in class, and the teacher is unhappy."
+   }
+  ]
+ },
+ {
+  "h": "中小学",
+  "lv": 2,
+  "py": "zhōng xiǎo xué",
+  "vi": "trường tiểu học và trung học",
+  "ex": [
+   {
+    "zh": "中小学明天开始放假。",
+    "py": "Zhōng xiǎo xué míng tiān kāi shǐ fàng jià.",
+    "vi": "Các trường tiểu học và trung học bắt đầu nghỉ từ mai.",
+    "en": "Primary and secondary schools go on holiday starting tomorrow."
+   },
+   {
+    "zh": "这个地方有很多中小学。",
+    "py": "Zhè ge dì fang yǒu hěn duō zhōng xiǎo xué.",
+    "vi": "Nơi này có nhiều trường tiểu học và trung học.",
+    "en": "There are many primary and secondary schools here."
+   }
+  ]
+ },
+ {
+  "h": "教学楼",
+  "lv": 1,
+  "py": "jiào xué lóu",
+  "vi": "tòa nhà giảng dạy; dãy nhà học",
+  "ex": [
+   {
+    "zh": "我们的教室在教学楼二楼。",
+    "py": "Wǒ men de jiào shì zài jiào xué lóu èr lóu.",
+    "vi": "Lớp học của chúng tôi ở tầng hai nhà học.",
+    "en": "Our classroom is on the second floor of the teaching building."
+   },
+   {
+    "zh": "教学楼前边有很多树。",
+    "py": "Jiào xué lóu qián bian yǒu hěn duō shù.",
+    "vi": "Phía trước nhà học có rất nhiều cây.",
+    "en": "There are many trees in front of the teaching building."
+   }
+  ]
+ },
+ {
+  "h": "衣架",
+  "lv": 3,
+  "py": "yī jià",
+  "vi": "móc áo; giá treo quần áo",
+  "ex": [
+   {
+    "zh": "请把衣服挂在衣架上。",
+    "py": "Qǐng bǎ yī fu guà zài yī jià shàng.",
+    "vi": "Hãy treo quần áo lên móc.",
+    "en": "Please hang the clothes on the hanger."
+   },
+   {
+    "zh": "我需要买几个衣架。",
+    "py": "Wǒ xū yào mǎi jǐ gè yī jià.",
+    "vi": "Tôi cần mua mấy cái móc áo.",
+    "en": "I need to buy a few hangers."
+   }
+  ]
+ },
+ {
+  "h": "外文",
+  "lv": 3,
+  "py": "wài wén",
+  "vi": "tiếng nước ngoài; ngoại văn",
+  "ex": [
+   {
+    "zh": "这家书店有很多外文书。",
+    "py": "Zhè jiā shū diàn yǒu hěn duō wài wén shū.",
+    "vi": "Hiệu sách này có nhiều sách tiếng nước ngoài.",
+    "en": "This bookstore has many foreign-language books."
+   },
+   {
+    "zh": "他能看懂外文报纸。",
+    "py": "Tā néng kàn dǒng wài wén bào zhǐ.",
+    "vi": "Anh ấy đọc hiểu được báo tiếng nước ngoài.",
+    "en": "He can read foreign-language newspapers."
+   }
+  ]
+ },
+ {
+  "h": "一路平安",
+  "lv": 2,
+  "py": "yī lù píng ān",
+  "vi": "thượng lộ bình an",
+  "ex": [
+   {
+    "zh": "祝你一路平安！",
+    "py": "Zhù nǐ yí lù píng ān!",
+    "vi": "Chúc bạn thượng lộ bình an!",
+    "en": "Have a safe trip!"
+   },
+   {
+    "zh": "明天你就走了，一路平安。",
+    "py": "Míng tiān nǐ jiù zǒu le, yí lù píng ān.",
+    "vi": "Ngày mai bạn đi rồi, thượng lộ bình an nhé.",
+    "en": "You're leaving tomorrow; have a safe journey."
+   }
+  ]
+ },
+ {
+  "h": "空儿",
+  "lv": 3,
+  "py": "kòng r",
+  "vi": "thời gian rảnh",
+  "ex": [
+   {
+    "zh": "你明天有空儿吗？",
+    "py": "Nǐ míng tiān yǒu kòngr ma?",
+    "vi": "Ngày mai bạn có rảnh không?",
+    "en": "Are you free tomorrow?"
+   },
+   {
+    "zh": "等我有空儿了再去看你。",
+    "py": "Děng wǒ yǒu kòngr le zài qù kàn nǐ.",
+    "vi": "Đợi khi nào rảnh tôi sẽ đến thăm bạn.",
+    "en": "I'll come see you when I have some free time."
+   }
+  ]
+ },
+ {
+  "h": "不一会儿",
+  "lv": 2,
+  "py": "bù yī huì r",
+  "vi": "chẳng mấy chốc; một lát sau",
+  "ex": [
+   {
+    "zh": "不一会儿，他就回来了。",
+    "py": "Bù yí huìr, tā jiù huí lái le.",
+    "vi": "Chẳng mấy chốc anh ấy đã quay lại.",
+    "en": "He came back before long."
+   },
+   {
+    "zh": "不一会儿雨就停了。",
+    "py": "Bù yí huìr yǔ jiù tíng le.",
+    "vi": "Một lát sau mưa đã tạnh.",
+    "en": "The rain stopped in no time."
+   }
+  ]
+ },
+ {
+  "h": "请坐",
+  "lv": 1,
+  "py": "qǐng zuò",
+  "vi": "mời ngồi",
+  "ex": [
+   {
+    "zh": "你好，请坐，请喝茶。",
+    "py": "Nǐ hǎo, qǐng zuò, qǐng hē chá.",
+    "vi": "Chào bạn, mời ngồi, mời uống trà.",
+    "en": "Hello, please have a seat and some tea."
+   },
+   {
+    "zh": "大家请坐，我们开始上课。",
+    "py": "Dà jiā qǐng zuò, wǒ men kāi shǐ shàng kè.",
+    "vi": "Mời mọi người ngồi, chúng ta bắt đầu học.",
+    "en": "Please sit down, everyone; let's begin class."
+   }
+  ]
+ },
+ {
+  "h": "半年",
+  "lv": 1,
+  "py": "bàn nián",
+  "vi": "nửa năm",
+  "ex": [
+   {
+    "zh": "我学了半年汉语。",
+    "py": "Wǒ xué le bàn nián Hàn yǔ.",
+    "vi": "Tôi đã học tiếng Trung nửa năm.",
+    "en": "I've studied Chinese for half a year."
+   },
+   {
+    "zh": "他来中国半年了。",
+    "py": "Tā lái Zhōng guó bàn nián le.",
+    "vi": "Anh ấy đến Trung Quốc được nửa năm rồi.",
+    "en": "He has been in China for half a year."
+   }
+  ]
+ },
+ {
+  "h": "听写",
+  "lv": 1,
+  "py": "tīng xiě",
+  "vi": "nghe viết; chính tả",
+  "ex": [
+   {
+    "zh": "今天上课有听写。",
+    "py": "Jīn tiān shàng kè yǒu tīng xiě.",
+    "vi": "Hôm nay trong giờ học có nghe viết.",
+    "en": "There's a dictation in class today."
+   },
+   {
+    "zh": "我们现在开始听写。",
+    "py": "Wǒ men xiàn zài kāi shǐ tīng xiě.",
+    "vi": "Bây giờ chúng ta bắt đầu nghe viết.",
+    "en": "Let's start the dictation now."
+   }
+  ]
+ },
+ {
+  "h": "不太",
+  "lv": 2,
+  "py": "bù tài",
+  "vi": "không … lắm",
+  "ex": [
+   {
+    "zh": "我今天不太舒服。",
+    "py": "Wǒ jīn tiān bú tài shū fu.",
+    "vi": "Hôm nay tôi không khỏe lắm.",
+    "en": "I'm not feeling very well today."
+   },
+   {
+    "zh": "这个菜不太好吃。",
+    "py": "Zhè ge cài bú tài hǎo chī.",
+    "vi": "Món này không ngon lắm.",
+    "en": "This dish isn't very tasty."
+   }
+  ]
+ },
+ {
+  "h": "生词",
+  "lv": 2,
+  "py": "shēng cí",
+  "vi": "từ mới",
+  "ex": [
+   {
+    "zh": "这一课有很多生词。",
+    "py": "Zhè yí kè yǒu hěn duō shēng cí.",
+    "vi": "Bài này có rất nhiều từ mới.",
+    "en": "This lesson has many new words."
+   },
+   {
+    "zh": "我每天学习十个生词。",
+    "py": "Wǒ měi tiān xué xí shí gè shēng cí.",
+    "vi": "Mỗi ngày tôi học mười từ mới.",
+    "en": "I learn ten new words every day."
+   }
+  ]
+ },
+ {
+  "h": "画儿",
+  "lv": 2,
+  "py": "huà r",
+  "vi": "bức tranh",
+  "ex": [
+   {
+    "zh": "墙上有一张画儿。",
+    "py": "Qiáng shàng yǒu yì zhāng huàr.",
+    "vi": "Trên tường có một bức tranh.",
+    "en": "There is a picture on the wall."
+   },
+   {
+    "zh": "这张画儿是谁画的？",
+    "py": "Zhè zhāng huàr shì shéi huà de?",
+    "vi": "Bức tranh này do ai vẽ?",
+    "en": "Who painted this picture?"
+   }
+  ]
+ },
+ {
+  "h": "红酒",
+  "lv": 3,
+  "py": "hóng jiǔ",
+  "vi": "rượu vang đỏ",
+  "ex": [
+   {
+    "zh": "他买了一瓶红酒送给朋友。",
+    "py": "Tā mǎi le yì píng hóng jiǔ sòng gěi péng you.",
+    "vi": "Anh ấy mua một chai vang đỏ tặng bạn.",
+    "en": "He bought a bottle of red wine as a gift for a friend."
+   },
+   {
+    "zh": "晚饭的时候我们喝了一点红酒。",
+    "py": "Wǎn fàn de shí hou wǒ men hē le yì diǎn hóng jiǔ.",
+    "vi": "Bữa tối chúng tôi uống một chút vang đỏ.",
+    "en": "We had a little red wine with dinner."
+   }
+  ]
+ },
+ {
+  "h": "见过",
+  "lv": 2,
+  "py": "jiàn guo",
+  "vi": "đã gặp; đã từng thấy",
+  "ex": [
+   {
+    "zh": "我以前见过他。",
+    "py": "Wǒ yǐ qián jiàn guo tā.",
+    "vi": "Trước đây tôi đã gặp anh ấy.",
+    "en": "I've met him before."
+   },
+   {
+    "zh": "你见过这么大的苹果吗？",
+    "py": "Nǐ jiàn guo zhè me dà de píng guǒ ma?",
+    "vi": "Bạn đã thấy quả táo nào to thế này chưa?",
+    "en": "Have you ever seen such a big apple?"
+   }
+  ]
+ },
+ {
+  "h": "快点儿",
+  "lv": 2,
+  "py": "kuài diǎn r",
+  "vi": "nhanh lên",
+  "ex": [
+   {
+    "zh": "快点儿，车就要开了。",
+    "py": "Kuài diǎnr, chē jiù yào kāi le.",
+    "vi": "Nhanh lên, xe sắp chạy rồi.",
+    "en": "Hurry up, the bus is about to leave."
+   },
+   {
+    "zh": "你能走快点儿吗？",
+    "py": "Nǐ néng zǒu kuài diǎnr ma?",
+    "vi": "Bạn đi nhanh lên một chút được không?",
+    "en": "Can you walk a bit faster?"
+   }
+  ]
+ },
+ {
+  "h": "那时候",
+  "lv": 2,
+  "py": "nà shí hou",
+  "vi": "lúc đó; hồi đó",
+  "ex": [
+   {
+    "zh": "那时候我还不认识他。",
+    "py": "Nà shí hou wǒ hái bú rèn shi tā.",
+    "vi": "Lúc đó tôi vẫn chưa quen anh ấy.",
+    "en": "I didn't know him yet at that time."
+   },
+   {
+    "zh": "那时候我们都很年轻。",
+    "py": "Nà shí hou wǒ men dōu hěn nián qīng.",
+    "vi": "Hồi đó chúng tôi đều còn rất trẻ.",
+    "en": "We were all very young back then."
+   }
+  ]
+ },
+ {
+  "h": "挺好",
+  "lv": 2,
+  "py": "tǐng hǎo",
+  "vi": "khá tốt; rất tốt",
+  "ex": [
+   {
+    "zh": "这个电影挺好的。",
+    "py": "Zhè ge diàn yǐng tǐng hǎo de.",
+    "vi": "Bộ phim này khá hay.",
+    "en": "This movie is pretty good."
+   },
+   {
+    "zh": "我最近身体挺好的。",
+    "py": "Wǒ zuì jìn shēn tǐ tǐng hǎo de.",
+    "vi": "Dạo này sức khỏe tôi khá tốt.",
+    "en": "I've been in pretty good health lately."
+   }
+  ]
+ },
+ {
+  "h": "下周",
+  "lv": 2,
+  "py": "xià zhōu",
+  "vi": "tuần sau",
+  "ex": [
+   {
+    "zh": "我们下周有考试。",
+    "py": "Wǒ men xià zhōu yǒu kǎo shì.",
+    "vi": "Tuần sau chúng tôi có bài thi.",
+    "en": "We have an exam next week."
+   },
+   {
+    "zh": "下周我要去上海。",
+    "py": "Xià zhōu wǒ yào qù Shàng hǎi.",
+    "vi": "Tuần sau tôi sẽ đi Thượng Hải.",
+    "en": "I'm going to Shanghai next week."
+   }
+  ]
+ },
+ {
+  "h": "笑话儿",
+  "lv": 2,
+  "py": "xiào hua r",
+  "vi": "chuyện cười",
+  "ex": [
+   {
+    "zh": "他给我们讲了一个笑话儿。",
+    "py": "Tā gěi wǒ men jiǎng le yí gè xiào huar.",
+    "vi": "Anh ấy kể cho chúng tôi một chuyện cười.",
+    "en": "He told us a joke."
+   },
+   {
+    "zh": "这个笑话儿真有意思。",
+    "py": "Zhè ge xiào huar zhēn yǒu yì si.",
+    "vi": "Chuyện cười này thật thú vị.",
+    "en": "This joke is really funny."
+   }
+  ]
+ },
+ {
+  "h": "一下儿",
+  "lv": 1,
+  "py": "yī xià r",
+  "vi": "một chút, một lát (sau động từ)",
+  "ex": [
+   {
+    "zh": "请你等一下儿。",
+    "py": "Qǐng nǐ děng yí xiàr.",
+    "vi": "Xin bạn đợi một chút.",
+    "en": "Please wait a moment."
+   },
+   {
+    "zh": "我想休息一下儿。",
+    "py": "Wǒ xiǎng xiū xi yí xiàr.",
+    "vi": "Tôi muốn nghỉ một lát.",
+    "en": "I'd like to rest for a bit."
+   }
+  ]
+ },
+ {
+  "h": "有空儿",
+  "lv": 2,
+  "py": "yǒu kòng r",
+  "vi": "rảnh; có thời gian rảnh",
+  "ex": [
+   {
+    "zh": "你周末有空儿吗？",
+    "py": "Nǐ zhōu mò yǒu kòngr ma?",
+    "vi": "Cuối tuần bạn có rảnh không?",
+    "en": "Are you free this weekend?"
+   },
+   {
+    "zh": "有空儿来我家玩儿吧。",
+    "py": "Yǒu kòngr lái wǒ jiā wánr ba.",
+    "vi": "Khi nào rảnh thì đến nhà tôi chơi nhé.",
+    "en": "Come over to my place when you're free."
+   }
+  ]
+ },
+ {
+  "h": "有一点儿",
+  "lv": 2,
+  "py": "yǒu yī diǎn r",
+  "vi": "hơi; có một chút",
+  "ex": [
+   {
+    "zh": "今天有一点儿冷。",
+    "py": "Jīn tiān yǒu yì diǎnr lěng.",
+    "vi": "Hôm nay hơi lạnh.",
+    "en": "It's a little cold today."
+   },
+   {
+    "zh": "我有一点儿累。",
+    "py": "Wǒ yǒu yì diǎnr lèi.",
+    "vi": "Tôi hơi mệt.",
+    "en": "I'm a little tired."
+   }
+  ]
+ },
+ {
+  "h": "有一些",
+  "lv": 1,
+  "py": "yǒu yī xiē",
+  "vi": "có một số; hơi",
+  "ex": [
+   {
+    "zh": "我有一些问题想问你。",
+    "py": "Wǒ yǒu yì xiē wèn tí xiǎng wèn nǐ.",
+    "vi": "Tôi có một số câu hỏi muốn hỏi bạn.",
+    "en": "I have some questions I'd like to ask you."
+   },
+   {
+    "zh": "桌子上有一些水果。",
+    "py": "Zhuō zi shàng yǒu yì xiē shuǐ guǒ.",
+    "vi": "Trên bàn có một ít hoa quả.",
+    "en": "There is some fruit on the table."
+   }
+  ]
+ }
+]

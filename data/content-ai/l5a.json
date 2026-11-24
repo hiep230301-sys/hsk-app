@@ -1,0 +1,5762 @@
+[
+ {
+  "h": "杀",
+  "lv": 5,
+  "py": "shā",
+  "vi": "giết; sát hại",
+  "ex": [
+   {
+    "zh": "他在小说里杀了一个坏人。",
+    "py": "Tā zài xiǎo shuō lǐ shā le yí gè huài rén.",
+    "vi": "Trong tiểu thuyết, anh ta đã giết một kẻ xấu.",
+    "en": "In the novel, he killed a bad guy."
+   },
+   {
+    "zh": "这种药能杀死水里的病毒。",
+    "py": "Zhè zhǒng yào néng shā sǐ shuǐ lǐ de bìng dú.",
+    "vi": "Loại thuốc này có thể diệt vi-rút trong nước.",
+    "en": "This medicine can kill the viruses in water."
+   }
+  ]
+ },
+ {
+  "h": "神",
+  "lv": 5,
+  "py": "shén",
+  "vi": "thần; thần thánh; thần kỳ",
+  "ex": [
+   {
+    "zh": "古代的人相信山里住着神。",
+    "py": "Gǔ dài de rén xiāng xìn shān lǐ zhù zhe shén.",
+    "vi": "Người xưa tin rằng trong núi có thần ở.",
+    "en": "People in ancient times believed gods lived in the mountains."
+   },
+   {
+    "zh": "很多人相信世界上有神。",
+    "py": "Hěn duō rén xiāng xìn shì jiè shàng yǒu shén.",
+    "vi": "Nhiều người tin rằng trên đời có thần.",
+    "en": "Many people believe there are gods in the world."
+   }
+  ]
+ },
+ {
+  "h": "枪",
+  "lv": 5,
+  "py": "qiāng",
+  "vi": "súng; cây thương",
+  "ex": [
+   {
+    "zh": "警察不能随便开枪。",
+    "py": "Jǐng chá bù néng suí biàn kāi qiāng.",
+    "vi": "Cảnh sát không được tùy tiện nổ súng.",
+    "en": "The police cannot fire their guns at will."
+   },
+   {
+    "zh": "那个男人手里拿着一把枪。",
+    "py": "Nà ge nán rén shǒu lǐ ná zhe yì bǎ qiāng.",
+    "vi": "Người đàn ông đó cầm một khẩu súng trong tay.",
+    "en": "That man is holding a gun in his hand."
+   }
+  ]
+ },
+ {
+  "h": "疯",
+  "lv": 5,
+  "py": "fēng",
+  "vi": "điên; phát điên",
+  "ex": [
+   {
+    "zh": "你是不是疯了,这么冷还去游泳?",
+    "py": "Nǐ shì bú shì fēng le, zhè me lěng hái qù yóu yǒng?",
+    "vi": "Cậu điên rồi à, lạnh thế này mà còn đi bơi?",
+    "en": "Are you crazy, going swimming when it's this cold?"
+   },
+   {
+    "zh": "孩子们在公园里玩疯了。",
+    "py": "Hái zi men zài gōng yuán lǐ wán fēng le.",
+    "vi": "Bọn trẻ chơi đùa điên cuồng trong công viên.",
+    "en": "The kids went wild playing in the park."
+   }
+  ]
+ },
+ {
+  "h": "呆",
+  "lv": 5,
+  "py": "dāi",
+  "vi": "ngây người; đờ đẫn; ở lại",
+  "ex": [
+   {
+    "zh": "听到这个消息,他一下子呆住了。",
+    "py": "Tīng dào zhè ge xiāo xi, tā yí xià zi dāi zhù le.",
+    "vi": "Nghe tin này, anh ấy bỗng ngây người ra.",
+    "en": "Hearing the news, he was suddenly stunned."
+   },
+   {
+    "zh": "我想在家里多呆几天。",
+    "py": "Wǒ xiǎng zài jiā lǐ duō dāi jǐ tiān.",
+    "vi": "Tôi muốn ở nhà thêm vài ngày.",
+    "en": "I want to stay at home for a few more days."
+   }
+  ]
+ },
+ {
+  "h": "鬼",
+  "lv": 5,
+  "py": "guǐ",
+  "vi": "ma; quỷ",
+  "ex": [
+   {
+    "zh": "这个世界上根本没有鬼。",
+    "py": "Zhè ge shì jiè shàng gēn běn méi yǒu guǐ.",
+    "vi": "Trên đời này hoàn toàn không có ma.",
+    "en": "There are no ghosts in this world at all."
+   },
+   {
+    "zh": "他晚上不敢一个人睡,怕有鬼。",
+    "py": "Tā wǎn shang bù gǎn yí gè rén shuì, pà yǒu guǐ.",
+    "vi": "Buổi tối nó không dám ngủ một mình vì sợ có ma.",
+    "en": "He doesn't dare sleep alone at night for fear of ghosts."
+   }
+  ]
+ },
+ {
+  "h": "版",
+  "lv": 5,
+  "py": "bǎn",
+  "vi": "bản; phiên bản; trang (báo)",
+  "ex": [
+   {
+    "zh": "这本书的新版下个月出来。",
+    "py": "Zhè běn shū de xīn bǎn xià ge yuè chū lái.",
+    "vi": "Bản mới của cuốn sách này sẽ ra vào tháng sau.",
+    "en": "The new edition of this book comes out next month."
+   },
+   {
+    "zh": "这个软件的手机版很好用。",
+    "py": "Zhè ge ruǎn jiàn de shǒu jī bǎn hěn hǎo yòng.",
+    "vi": "Bản dành cho điện thoại của phần mềm này rất dễ dùng.",
+    "en": "The mobile version of this software is very easy to use."
+   }
+  ]
+ },
+ {
+  "h": "俱乐部",
+  "lv": 5,
+  "py": "jù lè bù",
+  "vi": "câu lạc bộ",
+  "ex": [
+   {
+    "zh": "他参加了学校的足球俱乐部。",
+    "py": "Tā cān jiā le xué xiào de zú qiú jù lè bù.",
+    "vi": "Cậu ấy đã tham gia câu lạc bộ bóng đá của trường.",
+    "en": "He joined the school's football club."
+   },
+   {
+    "zh": "这家俱乐部每个周末都有活动。",
+    "py": "Zhè jiā jù lè bù měi gè zhōu mò dōu yǒu huó dòng.",
+    "vi": "Câu lạc bộ này cuối tuần nào cũng có hoạt động.",
+    "en": "This club has activities every weekend."
+   }
+  ]
+ },
+ {
+  "h": "舞",
+  "lv": 5,
+  "py": "wǔ",
+  "vi": "điệu múa; múa, nhảy",
+  "ex": [
+   {
+    "zh": "她给大家跳了一个舞。",
+    "py": "Tā gěi dà jiā tiào le yí gè wǔ.",
+    "vi": "Cô ấy đã múa một điệu cho mọi người xem.",
+    "en": "She performed a dance for everyone."
+   },
+   {
+    "zh": "这个舞是她自己编的。",
+    "py": "Zhè ge wǔ shì tā zì jǐ biān de.",
+    "vi": "Điệu múa này do cô ấy tự biên đạo.",
+    "en": "She choreographed this dance herself."
+   }
+  ]
+ },
+ {
+  "h": "恨",
+  "lv": 5,
+  "py": "hèn",
+  "vi": "hận; ghét; căm thù",
+  "ex": [
+   {
+    "zh": "他恨自己当时没有说真话。",
+    "py": "Tā hèn zì jǐ dāng shí méi yǒu shuō zhēn huà.",
+    "vi": "Anh ấy hận mình lúc đó đã không nói thật.",
+    "en": "He hates himself for not telling the truth back then."
+   },
+   {
+    "zh": "我不恨他,只是不想再见到他。",
+    "py": "Wǒ bú hèn tā, zhǐ shì bù xiǎng zài jiàn dào tā.",
+    "vi": "Tôi không hận anh ta, chỉ là không muốn gặp lại nữa.",
+    "en": "I don't hate him; I just don't want to see him again."
+   }
+  ]
+ },
+ {
+  "h": "射",
+  "lv": 5,
+  "py": "shè",
+  "vi": "bắn; sút; chiếu (tia sáng)",
+  "ex": [
+   {
+    "zh": "他一脚把球射进了球门。",
+    "py": "Tā yì jiǎo bǎ qiú shè jìn le qiú mén.",
+    "vi": "Anh ấy tung chân sút bóng vào khung thành.",
+    "en": "He shot the ball into the goal with one kick."
+   },
+   {
+    "zh": "阳光从窗户射进了房间。",
+    "py": "Yáng guāng cóng chuāng hu shè jìn le fáng jiān.",
+    "vi": "Ánh nắng chiếu qua cửa sổ vào phòng.",
+    "en": "Sunlight shone into the room through the window."
+   }
+  ]
+ },
+ {
+  "h": "偷",
+  "lv": 5,
+  "py": "tōu",
+  "vi": "ăn trộm; lén lút",
+  "ex": [
+   {
+    "zh": "我的自行车昨天被人偷了。",
+    "py": "Wǒ de zì xíng chē zuó tiān bèi rén tōu le.",
+    "vi": "Xe đạp của tôi hôm qua bị người ta lấy trộm.",
+    "en": "My bicycle was stolen yesterday."
+   },
+   {
+    "zh": "他偷了商店里的一块手表。",
+    "py": "Tā tōu le shāng diàn lǐ de yí kuài shǒu biǎo.",
+    "vi": "Hắn đã trộm một chiếc đồng hồ trong cửa hàng.",
+    "en": "He stole a watch from the shop."
+   }
+  ]
+ },
+ {
+  "h": "基地",
+  "lv": 5,
+  "py": "jī dì",
+  "vi": "căn cứ; cơ sở",
+  "ex": [
+   {
+    "zh": "这里是我们公司的生产基地。",
+    "py": "Zhè lǐ shì wǒ men gōng sī de shēng chǎn jī dì.",
+    "vi": "Đây là cơ sở sản xuất của công ty chúng tôi.",
+    "en": "This is our company's production base."
+   },
+   {
+    "zh": "运动员们在训练基地住了三个月。",
+    "py": "Yùn dòng yuán men zài xùn liàn jī dì zhù le sān gè yuè.",
+    "vi": "Các vận động viên đã ở căn cứ huấn luyện ba tháng.",
+    "en": "The athletes stayed at the training base for three months."
+   }
+  ]
+ },
+ {
+  "h": "剩下",
+  "lv": 5,
+  "py": "shèng xià",
+  "vi": "còn lại; thừa lại",
+  "ex": [
+   {
+    "zh": "剩下的工作我明天再做。",
+    "py": "Shèng xià de gōng zuò wǒ míng tiān zài zuò.",
+    "vi": "Phần việc còn lại mai tôi làm tiếp.",
+    "en": "I'll do the remaining work tomorrow."
+   },
+   {
+    "zh": "大家都走了,只剩下我一个人。",
+    "py": "Dà jiā dōu zǒu le, zhǐ shèng xià wǒ yí gè rén.",
+    "vi": "Mọi người đi hết rồi, chỉ còn lại mình tôi.",
+    "en": "Everyone has left; I'm the only one remaining."
+   }
+  ]
+ },
+ {
+  "h": "吓",
+  "lv": 5,
+  "py": "xià",
+  "vi": "dọa; làm sợ hãi",
+  "ex": [
+   {
+    "zh": "你突然出现,吓了我一跳。",
+    "py": "Nǐ tū rán chū xiàn, xià le wǒ yí tiào.",
+    "vi": "Cậu đột nhiên xuất hiện làm tôi giật cả mình.",
+    "en": "You appeared so suddenly that you gave me a fright."
+   },
+   {
+    "zh": "别吓孩子了,他年纪还小。",
+    "py": "Bié xià hái zi le, tā nián jì hái xiǎo.",
+    "vi": "Đừng dọa thằng bé nữa, nó còn nhỏ mà.",
+    "en": "Stop scaring the child; he's still little."
+   }
+  ]
+ },
+ {
+  "h": "基金",
+  "lv": 5,
+  "py": "jī jīn",
+  "vi": "quỹ (tài chính)",
+  "ex": [
+   {
+    "zh": "他把一部分钱拿去买了基金。",
+    "py": "Tā bǎ yí bù fen qián ná qù mǎi le jī jīn.",
+    "vi": "Anh ấy lấy một phần tiền đi mua chứng chỉ quỹ.",
+    "en": "He used part of his money to buy funds."
+   },
+   {
+    "zh": "这个基金专门帮助没钱上学的孩子。",
+    "py": "Zhè ge jī jīn zhuān mén bāng zhù méi qián shàng xué de hái zi.",
+    "vi": "Quỹ này chuyên giúp đỡ trẻ em không có tiền đi học.",
+    "en": "This fund specifically helps children who can't afford school."
+   }
+  ]
+ },
+ {
+  "h": "可怜",
+  "lv": 5,
+  "py": "kě lián",
+  "vi": "đáng thương; thương hại",
+  "ex": [
+   {
+    "zh": "这只小狗没有家,真可怜。",
+    "py": "Zhè zhī xiǎo gǒu méi yǒu jiā, zhēn kě lián.",
+    "vi": "Chú chó con này không có nhà, thật đáng thương.",
+    "en": "This puppy has no home; it's so pitiful."
+   },
+   {
+    "zh": "我不需要别人可怜我。",
+    "py": "Wǒ bù xū yào bié rén kě lián wǒ.",
+    "vi": "Tôi không cần người khác thương hại mình.",
+    "en": "I don't need other people to pity me."
+   }
+  ]
+ },
+ {
+  "h": "吐",
+  "lv": 5,
+  "py": "tǔ",
+  "vi": "nhổ; nhả ra; nói ra",
+  "ex": [
+   {
+    "zh": "他把嘴里的骨头吐了出来。",
+    "py": "Tā bǎ zuǐ lǐ de gǔ tou tǔ le chū lái.",
+    "vi": "Anh ấy nhả miếng xương trong miệng ra.",
+    "en": "He spat out the bone that was in his mouth."
+   },
+   {
+    "zh": "他终于把心里的话都吐了出来。",
+    "py": "Tā zhōng yú bǎ xīn lǐ de huà dōu tǔ le chū lái.",
+    "vi": "Cuối cùng anh ấy cũng nói hết những lời trong lòng ra.",
+    "en": "He finally poured out everything that was on his mind."
+   }
+  ]
+ },
+ {
+  "h": "毒",
+  "lv": 5,
+  "py": "dú",
+  "vi": "chất độc; độc; ma túy",
+  "ex": [
+   {
+    "zh": "这种植物有毒,千万不能吃。",
+    "py": "Zhè zhǒng zhí wù yǒu dú, qiān wàn bù néng chī.",
+    "vi": "Loại cây này có độc, tuyệt đối không được ăn.",
+    "en": "This plant is poisonous; you must never eat it."
+   },
+   {
+    "zh": "这条蛇的毒非常厉害。",
+    "py": "Zhè tiáo shé de dú fēi cháng lì hai.",
+    "vi": "Nọc độc của con rắn này cực kỳ mạnh.",
+    "en": "This snake's venom is extremely potent."
+   }
+  ]
+ },
+ {
+  "h": "中央",
+  "lv": 5,
+  "py": "zhōng yāng",
+  "vi": "trung tâm; chính giữa; trung ương",
+  "ex": [
+   {
+    "zh": "广场中央有一棵很大的树。",
+    "py": "Guǎng chǎng zhōng yāng yǒu yì kē hěn dà de shù.",
+    "vi": "Giữa quảng trường có một cái cây rất to.",
+    "en": "There is a very big tree in the centre of the square."
+   },
+   {
+    "zh": "这是中央政府做出的决定。",
+    "py": "Zhè shì zhōng yāng zhèng fǔ zuò chū de jué dìng.",
+    "vi": "Đây là quyết định do chính phủ trung ương đưa ra.",
+    "en": "This is a decision made by the central government."
+   }
+  ]
+ },
+ {
+  "h": "屋",
+  "lv": 5,
+  "py": "wū",
+  "vi": "nhà; phòng",
+  "ex": [
+   {
+    "zh": "外面太冷了,快进屋吧。",
+    "py": "Wài miàn tài lěng le, kuài jìn wū ba.",
+    "vi": "Bên ngoài lạnh quá, mau vào nhà đi.",
+    "en": "It's too cold outside; come into the house quickly."
+   },
+   {
+    "zh": "屋里没有人,灯却开着。",
+    "py": "Wū lǐ méi yǒu rén, dēng què kāi zhe.",
+    "vi": "Trong phòng không có ai nhưng đèn vẫn bật.",
+    "en": "There is nobody in the room, yet the light is on."
+   }
+  ]
+ },
+ {
+  "h": "启动",
+  "lv": 5,
+  "py": "qǐ dòng",
+  "vi": "khởi động; bắt đầu triển khai",
+  "ex": [
+   {
+    "zh": "这台电脑启动得特别慢。",
+    "py": "Zhè tái diàn nǎo qǐ dòng de tè bié màn.",
+    "vi": "Chiếc máy tính này khởi động cực kỳ chậm.",
+    "en": "This computer starts up extremely slowly."
+   },
+   {
+    "zh": "公司下个月将启动一个新项目。",
+    "py": "Gōng sī xià ge yuè jiāng qǐ dòng yí gè xīn xiàng mù.",
+    "vi": "Tháng sau công ty sẽ khởi động một dự án mới.",
+    "en": "The company will launch a new project next month."
+   }
+  ]
+ },
+ {
+  "h": "逃",
+  "lv": 5,
+  "py": "táo",
+  "vi": "trốn; chạy trốn",
+  "ex": [
+   {
+    "zh": "小偷从后门逃走了。",
+    "py": "Xiǎo tōu cóng hòu mén táo zǒu le.",
+    "vi": "Tên trộm đã trốn thoát qua cửa sau.",
+    "en": "The thief escaped through the back door."
+   },
+   {
+    "zh": "遇到困难的时候,逃是没有用的。",
+    "py": "Yù dào kùn nan de shí hou, táo shì méi yǒu yòng de.",
+    "vi": "Khi gặp khó khăn, trốn chạy chẳng có ích gì.",
+    "en": "When you run into difficulties, running away is useless."
+   }
+  ]
+ },
+ {
+  "h": "打击",
+  "lv": 5,
+  "py": "dǎ jī",
+  "vi": "đả kích; đòn giáng; trấn áp",
+  "ex": [
+   {
+    "zh": "这次失败对他是一个很大的打击。",
+    "py": "Zhè cì shī bài duì tā shì yí gè hěn dà de dǎ jī.",
+    "vi": "Thất bại lần này là một đòn giáng mạnh với anh ấy.",
+    "en": "This failure was a heavy blow to him."
+   },
+   {
+    "zh": "政府决定严厉打击这种违法行为。",
+    "py": "Zhèng fǔ jué dìng yán lì dǎ jī zhè zhǒng wéi fǎ xíng wéi.",
+    "vi": "Chính phủ quyết định trấn áp nghiêm khắc hành vi phạm pháp này.",
+    "en": "The government decided to crack down hard on this illegal behaviour."
+   }
+  ]
+ },
+ {
+  "h": "之外",
+  "lv": 5,
+  "py": "zhī wài",
+  "vi": "ngoài; ngoài ra",
+  "ex": [
+   {
+    "zh": "除了工作之外,他还喜欢画画。",
+    "py": "Chú le gōng zuò zhī wài, tā hái xǐ huan huà huà.",
+    "vi": "Ngoài công việc ra, anh ấy còn thích vẽ tranh.",
+    "en": "Apart from work, he also likes painting."
+   },
+   {
+    "zh": "这件事在我的计划之外。",
+    "py": "Zhè jiàn shì zài wǒ de jì huà zhī wài.",
+    "vi": "Việc này nằm ngoài kế hoạch của tôi.",
+    "en": "This matter was outside my plans."
+   }
+  ]
+ },
+ {
+  "h": "狂",
+  "lv": 5,
+  "py": "kuáng",
+  "vi": "điên cuồng; dữ dội; ngông cuồng",
+  "ex": [
+   {
+    "zh": "他这个人说话太狂了。",
+    "py": "Tā zhè ge rén shuō huà tài kuáng le.",
+    "vi": "Con người anh ta ăn nói ngông cuồng quá.",
+    "en": "He talks far too arrogantly."
+   },
+   {
+    "zh": "听到好消息,大家高兴得发狂。",
+    "py": "Tīng dào hǎo xiāo xi, dà jiā gāo xìng de fā kuáng.",
+    "vi": "Nghe tin vui, mọi người mừng đến phát cuồng.",
+    "en": "On hearing the good news, everyone went wild with joy."
+   }
+  ]
+ },
+ {
+  "h": "人士",
+  "lv": 5,
+  "py": "rén shì",
+  "vi": "nhân sĩ; người (thuộc một giới)",
+  "ex": [
+   {
+    "zh": "很多专业人士参加了这次会议。",
+    "py": "Hěn duō zhuān yè rén shì cān jiā le zhè cì huì yì.",
+    "vi": "Nhiều người trong giới chuyên môn đã tham dự hội nghị lần này.",
+    "en": "Many professionals attended this conference."
+   },
+   {
+    "zh": "这个活动欢迎各界人士参加。",
+    "py": "Zhè ge huó dòng huān yíng gè jiè rén shì cān jiā.",
+    "vi": "Hoạt động này hoan nghênh người thuộc mọi giới tham gia.",
+    "en": "This event welcomes people from all walks of life."
+   }
+  ]
+ },
+ {
+  "h": "集团",
+  "lv": 5,
+  "py": "jí tuán",
+  "vi": "tập đoàn",
+  "ex": [
+   {
+    "zh": "他在一家大集团工作了十年。",
+    "py": "Tā zài yì jiā dà jí tuán gōng zuò le shí nián.",
+    "vi": "Anh ấy đã làm việc ở một tập đoàn lớn mười năm.",
+    "en": "He worked at a large corporation for ten years."
+   },
+   {
+    "zh": "这个集团有二十多家公司。",
+    "py": "Zhè ge jí tuán yǒu èr shí duō jiā gōng sī.",
+    "vi": "Tập đoàn này có hơn hai mươi công ty.",
+    "en": "This group has more than twenty companies."
+   }
+  ]
+ },
+ {
+  "h": "为止",
+  "lv": 5,
+  "py": "wéi zhǐ",
+  "vi": "cho đến (khi); tính đến",
+  "ex": [
+   {
+    "zh": "到现在为止,我还没收到他的消息。",
+    "py": "Dào xiàn zài wéi zhǐ, wǒ hái méi shōu dào tā de xiāo xi.",
+    "vi": "Cho đến giờ, tôi vẫn chưa nhận được tin của anh ấy.",
+    "en": "Up to now, I still haven't heard from him."
+   },
+   {
+    "zh": "今天的课就到这里为止。",
+    "py": "Jīn tiān de kè jiù dào zhè lǐ wéi zhǐ.",
+    "vi": "Buổi học hôm nay dừng ở đây.",
+    "en": "Today's class ends here."
+   }
+  ]
+ },
+ {
+  "h": "真相",
+  "lv": 5,
+  "py": "zhēn xiàng",
+  "vi": "sự thật; chân tướng",
+  "ex": [
+   {
+    "zh": "我们一定要查出事情的真相。",
+    "py": "Wǒ men yí dìng yào chá chū shì qing de zhēn xiàng.",
+    "vi": "Chúng ta nhất định phải tìm ra sự thật của sự việc.",
+    "en": "We must find out the truth of the matter."
+   },
+   {
+    "zh": "他不敢告诉父母真相。",
+    "py": "Tā bù gǎn gào su fù mǔ zhēn xiàng.",
+    "vi": "Cậu ấy không dám nói sự thật với bố mẹ.",
+    "en": "He doesn't dare tell his parents the truth."
+   }
+  ]
+ },
+ {
+  "h": "病毒",
+  "lv": 5,
+  "py": "bìng dú",
+  "vi": "vi-rút",
+  "ex": [
+   {
+    "zh": "我的电脑中了病毒,打不开了。",
+    "py": "Wǒ de diàn nǎo zhòng le bìng dú, dǎ bù kāi le.",
+    "vi": "Máy tính của tôi bị nhiễm vi-rút, không mở được nữa.",
+    "en": "My computer got a virus and won't start."
+   },
+   {
+    "zh": "这种病毒主要通过空气传播。",
+    "py": "Zhè zhǒng bìng dú zhǔ yào tōng guò kōng qì chuán bō.",
+    "vi": "Loại vi-rút này chủ yếu lây lan qua không khí.",
+    "en": "This virus spreads mainly through the air."
+   }
+  ]
+ },
+ {
+  "h": "价",
+  "lv": 5,
+  "py": "jià",
+  "vi": "giá; giá trị",
+  "ex": [
+   {
+    "zh": "这种手机最近降价了。",
+    "py": "Zhè zhǒng shǒu jī zuì jìn jiàng jià le.",
+    "vi": "Loại điện thoại này gần đây đã giảm giá.",
+    "en": "This type of phone has dropped in price recently."
+   },
+   {
+    "zh": "这家店的东西价高,但是质量好。",
+    "py": "Zhè jiā diàn de dōng xi jià gāo, dàn shì zhì liàng hǎo.",
+    "vi": "Đồ ở cửa hàng này giá cao nhưng chất lượng tốt.",
+    "en": "Things in this shop are pricey, but the quality is good."
+   }
+  ]
+ },
+ {
+  "h": "命令",
+  "lv": 5,
+  "py": "mìng lìng",
+  "vi": "mệnh lệnh; ra lệnh",
+  "ex": [
+   {
+    "zh": "军人必须服从上级的命令。",
+    "py": "Jūn rén bì xū fú cóng shàng jí de mìng lìng.",
+    "vi": "Quân nhân phải phục tùng mệnh lệnh của cấp trên.",
+    "en": "Soldiers must obey the orders of their superiors."
+   },
+   {
+    "zh": "老板命令我们今天把工作做完。",
+    "py": "Lǎo bǎn mìng lìng wǒ men jīn tiān bǎ gōng zuò zuò wán.",
+    "vi": "Sếp ra lệnh cho chúng tôi hôm nay phải làm xong việc.",
+    "en": "The boss ordered us to finish the work today."
+   }
+  ]
+ },
+ {
+  "h": "神经",
+  "lv": 5,
+  "py": "shén jīng",
+  "vi": "thần kinh",
+  "ex": [
+   {
+    "zh": "他最近工作太忙,神经很紧张。",
+    "py": "Tā zuì jìn gōng zuò tài máng, shén jīng hěn jǐn zhāng.",
+    "vi": "Dạo này anh ấy bận việc quá, thần kinh rất căng thẳng.",
+    "en": "He has been so busy at work lately that his nerves are on edge."
+   },
+   {
+    "zh": "医生说他的神经受了伤。",
+    "py": "Yī shēng shuō tā de shén jīng shòu le shāng.",
+    "vi": "Bác sĩ nói dây thần kinh của anh ấy bị tổn thương.",
+    "en": "The doctor said his nerve was injured."
+   }
+  ]
+ },
+ {
+  "h": "一辈子",
+  "lv": 5,
+  "py": "yí bèi zi",
+  "vi": "cả đời; suốt đời",
+  "ex": [
+   {
+    "zh": "我一辈子都不会忘记这件事。",
+    "py": "Wǒ yí bèi zi dōu bú huì wàng jì zhè jiàn shì.",
+    "vi": "Cả đời tôi sẽ không quên chuyện này.",
+    "en": "I will never forget this for as long as I live."
+   },
+   {
+    "zh": "他在这个小城住了一辈子。",
+    "py": "Tā zài zhè ge xiǎo chéng zhù le yí bèi zi.",
+    "vi": "Ông ấy đã sống cả đời ở thị trấn nhỏ này.",
+    "en": "He lived in this small town all his life."
+   }
+  ]
+ },
+ {
+  "h": "全世界",
+  "lv": 5,
+  "py": "quán shì jiè",
+  "vi": "toàn thế giới; cả thế giới",
+  "ex": [
+   {
+    "zh": "全世界的人都在关心这件事。",
+    "py": "Quán shì jiè de rén dōu zài guān xīn zhè jiàn shì.",
+    "vi": "Người dân khắp thế giới đều đang quan tâm đến việc này.",
+    "en": "People all over the world are following this matter."
+   },
+   {
+    "zh": "他的梦想是去全世界旅行。",
+    "py": "Tā de mèng xiǎng shì qù quán shì jiè lǚ xíng.",
+    "vi": "Ước mơ của anh ấy là đi du lịch khắp thế giới.",
+    "en": "His dream is to travel around the whole world."
+   }
+  ]
+ },
+ {
+  "h": "评论",
+  "lv": 5,
+  "py": "píng lùn",
+  "vi": "bình luận; lời bình",
+  "ex": [
+   {
+    "zh": "很多人在网上评论这部电影。",
+    "py": "Hěn duō rén zài wǎng shàng píng lùn zhè bù diàn yǐng.",
+    "vi": "Rất nhiều người bình luận về bộ phim này trên mạng.",
+    "en": "Many people are commenting on this film online."
+   },
+   {
+    "zh": "这篇文章下面有几百条评论。",
+    "py": "Zhè piān wén zhāng xià miàn yǒu jǐ bǎi tiáo píng lùn.",
+    "vi": "Bên dưới bài viết này có mấy trăm bình luận.",
+    "en": "There are several hundred comments under this article."
+   }
+  ]
+ },
+ {
+  "h": "冒",
+  "lv": 5,
+  "py": "mào",
+  "vi": "bốc lên; bất chấp; mạo hiểm",
+  "ex": [
+   {
+    "zh": "他冒着大雨跑到学校来了。",
+    "py": "Tā mào zhe dà yǔ pǎo dào xué xiào lái le.",
+    "vi": "Cậu ấy đội mưa to chạy đến trường.",
+    "en": "He braved the heavy rain and ran to school."
+   },
+   {
+    "zh": "锅里的水已经开始冒热气了。",
+    "py": "Guō lǐ de shuǐ yǐ jīng kāi shǐ mào rè qì le.",
+    "vi": "Nước trong nồi đã bắt đầu bốc hơi nóng.",
+    "en": "The water in the pot has started to give off steam."
+   }
+  ]
+ },
+ {
+  "h": "烂",
+  "lv": 5,
+  "py": "làn",
+  "vi": "nát; nhừ; thối; rách; tồi tệ",
+  "ex": [
+   {
+    "zh": "这些苹果放得太久,都烂了。",
+    "py": "Zhè xiē píng guǒ fàng de tài jiǔ, dōu làn le.",
+    "vi": "Mấy quả táo này để lâu quá nên thối hết rồi.",
+    "en": "These apples were kept too long and have all gone rotten."
+   },
+   {
+    "zh": "肉煮得很烂,老人也能吃。",
+    "py": "Ròu zhǔ de hěn làn, lǎo rén yě néng chī.",
+    "vi": "Thịt nấu rất nhừ, người già cũng ăn được.",
+    "en": "The meat is cooked very tender, so even old people can eat it."
+   }
+  ]
+ },
+ {
+  "h": "时光",
+  "lv": 5,
+  "py": "shí guāng",
+  "vi": "thời gian; quãng thời gian",
+  "ex": [
+   {
+    "zh": "我很怀念在大学的那段时光。",
+    "py": "Wǒ hěn huái niàn zài dà xué de nà duàn shí guāng.",
+    "vi": "Tôi rất nhớ quãng thời gian ở đại học.",
+    "en": "I really miss those days at university."
+   },
+   {
+    "zh": "和家人在一起的时光最快乐。",
+    "py": "Hé jiā rén zài yì qǐ de shí guāng zuì kuài lè.",
+    "vi": "Thời gian ở bên gia đình là vui nhất.",
+    "en": "The time spent with family is the happiest."
+   }
+  ]
+ },
+ {
+  "h": "礼",
+  "lv": 5,
+  "py": "lǐ",
+  "vi": "lễ; nghi lễ; quà",
+  "ex": [
+   {
+    "zh": "学生见到老师要行礼。",
+    "py": "Xué shēng jiàn dào lǎo shī yào xíng lǐ.",
+    "vi": "Học sinh gặp thầy cô phải chào.",
+    "en": "Students should salute when they see a teacher."
+   },
+   {
+    "zh": "朋友结婚,我送了一份礼。",
+    "py": "Péng you jié hūn, wǒ sòng le yí fèn lǐ.",
+    "vi": "Bạn tôi cưới, tôi đã tặng một món quà.",
+    "en": "My friend got married, and I gave a gift."
+   }
+  ]
+ },
+ {
+  "h": "道德",
+  "lv": 5,
+  "py": "dào dé",
+  "vi": "đạo đức",
+  "ex": [
+   {
+    "zh": "这种行为是不道德的。",
+    "py": "Zhè zhǒng xíng wéi shì bú dào dé de.",
+    "vi": "Hành vi này là trái đạo đức.",
+    "en": "This kind of behaviour is immoral."
+   },
+   {
+    "zh": "父母应该从小教孩子讲道德。",
+    "py": "Fù mǔ yīng gāi cóng xiǎo jiāo hái zi jiǎng dào dé.",
+    "vi": "Cha mẹ nên dạy con sống có đạo đức từ nhỏ.",
+    "en": "Parents should teach children about morality from an early age."
+   }
+  ]
+ },
+ {
+  "h": "编辑",
+  "lv": 5,
+  "py": "biān jí",
+  "vi": "biên tập; biên tập viên",
+  "ex": [
+   {
+    "zh": "她在一家出版社当编辑。",
+    "py": "Tā zài yì jiā chū bǎn shè dāng biān jí.",
+    "vi": "Cô ấy làm biên tập viên ở một nhà xuất bản.",
+    "en": "She works as an editor at a publishing house."
+   },
+   {
+    "zh": "这段视频我编辑了一个晚上。",
+    "py": "Zhè duàn shì pín wǒ biān jí le yí gè wǎn shang.",
+    "vi": "Đoạn video này tôi đã biên tập cả một buổi tối.",
+    "en": "I spent a whole evening editing this video."
+   }
+  ]
+ },
+ {
+  "h": "证实",
+  "lv": 5,
+  "py": "zhèng shí",
+  "vi": "chứng thực; xác nhận",
+  "ex": [
+   {
+    "zh": "这个消息还没有得到证实。",
+    "py": "Zhè ge xiāo xi hái méi yǒu dé dào zhèng shí.",
+    "vi": "Tin này vẫn chưa được xác nhận.",
+    "en": "This news has not yet been confirmed."
+   },
+   {
+    "zh": "警察证实了他说的是真话。",
+    "py": "Jǐng chá zhèng shí le tā shuō de shì zhēn huà.",
+    "vi": "Cảnh sát đã xác nhận điều anh ấy nói là thật.",
+    "en": "The police confirmed that what he said was true."
+   }
+  ]
+ },
+ {
+  "h": "只不过",
+  "lv": 5,
+  "py": "zhǐ bu guò",
+  "vi": "chỉ là; chẳng qua là",
+  "ex": [
+   {
+    "zh": "我只不过是开个玩笑,你别生气。",
+    "py": "Wǒ zhǐ bu guò shì kāi ge wán xiào, nǐ bié shēng qì.",
+    "vi": "Tôi chỉ đùa một chút thôi, cậu đừng giận.",
+    "en": "I was only joking; don't be angry."
+   },
+   {
+    "zh": "他只不过是个孩子,不要怪他。",
+    "py": "Tā zhǐ bu guò shì ge hái zi, bú yào guài tā.",
+    "vi": "Nó chẳng qua chỉ là một đứa trẻ, đừng trách nó.",
+    "en": "He's merely a child; don't blame him."
+   }
+  ]
+ },
+ {
+  "h": "试图",
+  "lv": 5,
+  "py": "shì tú",
+  "vi": "cố gắng; tìm cách",
+  "ex": [
+   {
+    "zh": "他试图说服父母,但是没成功。",
+    "py": "Tā shì tú shuō fú fù mǔ, dàn shì méi chéng gōng.",
+    "vi": "Cậu ấy cố thuyết phục bố mẹ nhưng không thành công.",
+    "en": "He tried to persuade his parents but did not succeed."
+   },
+   {
+    "zh": "小偷试图从窗户逃走。",
+    "py": "Xiǎo tōu shì tú cóng chuāng hu táo zǒu.",
+    "vi": "Tên trộm tìm cách trốn qua cửa sổ.",
+    "en": "The thief attempted to escape through the window."
+   }
+  ]
+ },
+ {
+  "h": "所在",
+  "lv": 5,
+  "py": "suǒ zài",
+  "vi": "nơi; chỗ; nơi tọa lạc",
+  "ex": [
+   {
+    "zh": "我们学校所在的城市很漂亮。",
+    "py": "Wǒ men xué xiào suǒ zài de chéng shì hěn piào liang.",
+    "vi": "Thành phố nơi trường chúng tôi tọa lạc rất đẹp.",
+    "en": "The city where our school is located is very beautiful."
+   },
+   {
+    "zh": "这就是问题的关键所在。",
+    "py": "Zhè jiù shì wèn tí de guān jiàn suǒ zài.",
+    "vi": "Đây chính là điểm mấu chốt của vấn đề.",
+    "en": "This is exactly where the crux of the problem lies."
+   }
+  ]
+ },
+ {
+  "h": "贷款",
+  "lv": 5,
+  "py": "dài kuǎn",
+  "vi": "khoản vay; vay tiền",
+  "ex": [
+   {
+    "zh": "他们向银行贷款买了一套房子。",
+    "py": "Tā men xiàng yín háng dài kuǎn mǎi le yí tào fáng zi.",
+    "vi": "Họ vay tiền ngân hàng để mua một căn nhà.",
+    "en": "They took out a bank loan to buy a home."
+   },
+   {
+    "zh": "我每个月要还三千块的贷款。",
+    "py": "Wǒ měi gè yuè yào huán sān qiān kuài de dài kuǎn.",
+    "vi": "Mỗi tháng tôi phải trả ba nghìn tệ tiền vay.",
+    "en": "I have to repay three thousand yuan of my loan every month."
+   }
+  ]
+ },
+ {
+  "h": "害",
+  "lv": 5,
+  "py": "hài",
+  "vi": "làm hại; tác hại; gây hại",
+  "ex": [
+   {
+    "zh": "抽烟不但害自己,也害别人。",
+    "py": "Chōu yān bú dàn hài zì jǐ, yě hài bié rén.",
+    "vi": "Hút thuốc không chỉ hại mình mà còn hại người khác.",
+    "en": "Smoking harms not only yourself but others as well."
+   },
+   {
+    "zh": "你这样做会害了他的。",
+    "py": "Nǐ zhè yàng zuò huì hài le tā de.",
+    "vi": "Cậu làm thế này sẽ hại cậu ấy đấy.",
+    "en": "Doing this will end up harming him."
+   }
+  ]
+ },
+ {
+  "h": "立",
+  "lv": 5,
+  "py": "lì",
+  "vi": "đứng; dựng; lập",
+  "ex": [
+   {
+    "zh": "门口立着一块很大的牌子。",
+    "py": "Mén kǒu lì zhe yí kuài hěn dà de pái zi.",
+    "vi": "Trước cửa dựng một tấm biển rất to.",
+    "en": "A large sign stands at the entrance."
+   },
+   {
+    "zh": "他立在窗前,看着外面的雨。",
+    "py": "Tā lì zài chuāng qián, kàn zhe wài miàn de yǔ.",
+    "vi": "Anh ấy đứng trước cửa sổ, nhìn mưa bên ngoài.",
+    "en": "He stood at the window, watching the rain outside."
+   }
+  ]
+ },
+ {
+  "h": "突破",
+  "lv": 5,
+  "py": "tū pò",
+  "vi": "đột phá; vượt qua",
+  "ex": [
+   {
+    "zh": "这项技术最近有了新的突破。",
+    "py": "Zhè xiàng jì shù zuì jìn yǒu le xīn de tū pò.",
+    "vi": "Công nghệ này gần đây đã có bước đột phá mới.",
+    "en": "This technology has recently seen a new breakthrough."
+   },
+   {
+    "zh": "今年公司的收入突破了一亿元。",
+    "py": "Jīn nián gōng sī de shōu rù tū pò le yí yì yuán.",
+    "vi": "Năm nay doanh thu của công ty đã vượt mốc một trăm triệu tệ.",
+    "en": "This year the company's revenue passed one hundred million yuan."
+   }
+  ]
+ },
+ {
+  "h": "回头",
+  "lv": 5,
+  "py": "huí tóu",
+  "vi": "quay đầu lại; lát nữa",
+  "ex": [
+   {
+    "zh": "他回头看了我一眼就走了。",
+    "py": "Tā huí tóu kàn le wǒ yì yǎn jiù zǒu le.",
+    "vi": "Anh ấy quay đầu nhìn tôi một cái rồi đi.",
+    "en": "He turned his head, glanced at me, and left."
+   },
+   {
+    "zh": "我现在很忙,回头再给你打电话。",
+    "py": "Wǒ xiàn zài hěn máng, huí tóu zài gěi nǐ dǎ diàn huà.",
+    "vi": "Giờ tôi đang bận, lát nữa sẽ gọi lại cho cậu.",
+    "en": "I'm busy right now; I'll call you back later."
+   }
+  ]
+ },
+ {
+  "h": "主管",
+  "lv": 5,
+  "py": "zhǔ guǎn",
+  "vi": "chủ quản; phụ trách; người quản lý",
+  "ex": [
+   {
+    "zh": "这件事你得先问问主管。",
+    "py": "Zhè jiàn shì nǐ děi xiān wèn wen zhǔ guǎn.",
+    "vi": "Việc này cậu phải hỏi người quản lý trước.",
+    "en": "You have to ask the supervisor about this first."
+   },
+   {
+    "zh": "她是我们公司主管销售的经理。",
+    "py": "Tā shì wǒ men gōng sī zhǔ guǎn xiāo shòu de jīng lǐ.",
+    "vi": "Chị ấy là giám đốc phụ trách bán hàng của công ty chúng tôi.",
+    "en": "She is the manager in charge of sales at our company."
+   }
+  ]
+ },
+ {
+  "h": "之下",
+  "lv": 5,
+  "py": "zhī xià",
+  "vi": "dưới; ở dưới",
+  "ex": [
+   {
+    "zh": "在老师的帮助之下,他进步很快。",
+    "py": "Zài lǎo shī de bāng zhù zhī xià, tā jìn bù hěn kuài.",
+    "vi": "Dưới sự giúp đỡ của thầy cô, cậu ấy tiến bộ rất nhanh.",
+    "en": "With his teacher's help, he made rapid progress."
+   },
+   {
+    "zh": "今天的气温在零度之下。",
+    "py": "Jīn tiān de qì wēn zài líng dù zhī xià.",
+    "vi": "Nhiệt độ hôm nay dưới 0 độ.",
+    "en": "Today's temperature is below zero."
+   }
+  ]
+ },
+ {
+  "h": "能量",
+  "lv": 5,
+  "py": "néng liàng",
+  "vi": "năng lượng",
+  "ex": [
+   {
+    "zh": "运动以后需要补充能量。",
+    "py": "Yùn dòng yǐ hòu xū yào bǔ chōng néng liàng.",
+    "vi": "Sau khi vận động cần bổ sung năng lượng.",
+    "en": "You need to replenish your energy after exercise."
+   },
+   {
+    "zh": "太阳给地球带来了大量的能量。",
+    "py": "Tài yáng gěi dì qiú dài lái le dà liàng de néng liàng.",
+    "vi": "Mặt trời mang đến cho Trái đất một lượng lớn năng lượng.",
+    "en": "The sun brings a huge amount of energy to the Earth."
+   }
+  ]
+ },
+ {
+  "h": "清理",
+  "lv": 5,
+  "py": "qīng lǐ",
+  "vi": "dọn dẹp; thu dọn; xử lý",
+  "ex": [
+   {
+    "zh": "周末我要把房间清理一下。",
+    "py": "Zhōu mò wǒ yào bǎ fáng jiān qīng lǐ yí xià.",
+    "vi": "Cuối tuần tôi phải dọn dẹp phòng một chút.",
+    "en": "I'm going to clean up my room this weekend."
+   },
+   {
+    "zh": "工人们正在清理路上的垃圾。",
+    "py": "Gōng rén men zhèng zài qīng lǐ lù shàng de lā jī.",
+    "vi": "Các công nhân đang dọn rác trên đường.",
+    "en": "The workers are clearing the rubbish off the road."
+   }
+  ]
+ },
+ {
+  "h": "成交",
+  "lv": 5,
+  "py": "chéng jiāo",
+  "vi": "chốt giao dịch; thỏa thuận xong",
+  "ex": [
+   {
+    "zh": "他们谈了很久,最后终于成交了。",
+    "py": "Tā men tán le hěn jiǔ, zuì hòu zhōng yú chéng jiāo le.",
+    "vi": "Họ đàm phán rất lâu, cuối cùng cũng chốt được giao dịch.",
+    "en": "They negotiated for a long time and finally closed the deal."
+   },
+   {
+    "zh": "这套房子的成交价是两百万。",
+    "py": "Zhè tào fáng zi de chéng jiāo jià shì liǎng bǎi wàn.",
+    "vi": "Giá chốt của căn nhà này là hai triệu tệ.",
+    "en": "The final sale price of this home was two million yuan."
+   }
+  ]
+ },
+ {
+  "h": "一句话",
+  "lv": 5,
+  "py": "yí jù huà",
+  "vi": "nói tóm lại; một câu thôi",
+  "ex": [
+   {
+    "zh": "一句话,这件事我不同意。",
+    "py": "Yí jù huà, zhè jiàn shì wǒ bù tóng yì.",
+    "vi": "Nói tóm lại, việc này tôi không đồng ý.",
+    "en": "In a word, I don't agree to this."
+   },
+   {
+    "zh": "一句话,我们必须马上开始。",
+    "py": "Yí jù huà, wǒ men bì xū mǎ shàng kāi shǐ.",
+    "vi": "Tóm lại một câu, chúng ta phải bắt đầu ngay.",
+    "en": "In short, we must start right away."
+   }
+  ]
+ },
+ {
+  "h": "自杀",
+  "lv": 5,
+  "py": "zì shā",
+  "vi": "tự sát; tự tử",
+  "ex": [
+   {
+    "zh": "小说里的那个人物最后自杀了。",
+    "py": "Xiǎo shuō lǐ de nà ge rén wù zuì hòu zì shā le.",
+    "vi": "Nhân vật đó trong tiểu thuyết cuối cùng đã tự sát.",
+    "en": "That character in the novel kills himself in the end."
+   },
+   {
+    "zh": "他的朋友及时发现,阻止了他自杀。",
+    "py": "Tā de péng you jí shí fā xiàn, zǔ zhǐ le tā zì shā.",
+    "vi": "Bạn anh ấy phát hiện kịp thời và ngăn anh ấy tự tử.",
+    "en": "His friend found out in time and stopped him from taking his own life."
+   }
+  ]
+ },
+ {
+  "h": "旁",
+  "lv": 5,
+  "py": "páng",
+  "vi": "bên cạnh; bên",
+  "ex": [
+   {
+    "zh": "路旁种着很多漂亮的花。",
+    "py": "Lù páng zhòng zhe hěn duō piào liang de huā.",
+    "vi": "Bên đường trồng rất nhiều hoa đẹp.",
+    "en": "Many beautiful flowers are planted by the roadside."
+   },
+   {
+    "zh": "他站在一旁,一句话也没说。",
+    "py": "Tā zhàn zài yì páng, yí jù huà yě méi shuō.",
+    "vi": "Anh ấy đứng một bên, không nói một lời nào.",
+    "en": "He stood to one side and didn't say a word."
+   }
+  ]
+ },
+ {
+  "h": "线索",
+  "lv": 5,
+  "py": "xiàn suǒ",
+  "vi": "manh mối; đầu mối; mạch truyện",
+  "ex": [
+   {
+    "zh": "警察在现场发现了重要的线索。",
+    "py": "Jǐng chá zài xiàn chǎng fā xiàn le zhòng yào de xiàn suǒ.",
+    "vi": "Cảnh sát đã phát hiện manh mối quan trọng tại hiện trường.",
+    "en": "The police found an important clue at the scene."
+   },
+   {
+    "zh": "这个故事有两条线索。",
+    "py": "Zhè ge gù shi yǒu liǎng tiáo xiàn suǒ.",
+    "vi": "Câu chuyện này có hai mạch truyện.",
+    "en": "This story has two plot threads."
+   }
+  ]
+ },
+ {
+  "h": "频道",
+  "lv": 5,
+  "py": "pín dào",
+  "vi": "kênh (truyền hình)",
+  "ex": [
+   {
+    "zh": "这个频道每天晚上都有新闻。",
+    "py": "Zhè ge pín dào měi tiān wǎn shang dōu yǒu xīn wén.",
+    "vi": "Kênh này tối nào cũng có thời sự.",
+    "en": "This channel has news every evening."
+   },
+   {
+    "zh": "你想看哪个频道的节目?",
+    "py": "Nǐ xiǎng kàn nǎ ge pín dào de jié mù?",
+    "vi": "Cậu muốn xem chương trình của kênh nào?",
+    "en": "Which channel's programme do you want to watch?"
+   }
+  ]
+ },
+ {
+  "h": "盒",
+  "lv": 5,
+  "py": "hé",
+  "vi": "hộp",
+  "ex": [
+   {
+    "zh": "我买了一盒巧克力送给她。",
+    "py": "Wǒ mǎi le yì hé qiǎo kè lì sòng gěi tā.",
+    "vi": "Tôi đã mua một hộp sô-cô-la tặng cô ấy.",
+    "en": "I bought a box of chocolates for her."
+   },
+   {
+    "zh": "桌子上放着一个漂亮的小盒。",
+    "py": "Zhuō zi shàng fàng zhe yí gè piào liang de xiǎo hé.",
+    "vi": "Trên bàn có đặt một chiếc hộp nhỏ xinh.",
+    "en": "There is a pretty little box on the table."
+   }
+  ]
+ },
+ {
+  "h": "警告",
+  "lv": 5,
+  "py": "jǐng gào",
+  "vi": "cảnh cáo; lời cảnh báo",
+  "ex": [
+   {
+    "zh": "医生警告他不能再喝酒了。",
+    "py": "Yī shēng jǐng gào tā bù néng zài hē jiǔ le.",
+    "vi": "Bác sĩ cảnh báo anh ấy không được uống rượu nữa.",
+    "en": "The doctor warned him that he must not drink any more."
+   },
+   {
+    "zh": "他没有听朋友的警告。",
+    "py": "Tā méi yǒu tīng péng you de jǐng gào.",
+    "vi": "Anh ấy đã không nghe lời cảnh báo của bạn.",
+    "en": "He didn't listen to his friend's warning."
+   }
+  ]
+ },
+ {
+  "h": "神奇",
+  "lv": 5,
+  "py": "shén qí",
+  "vi": "thần kỳ; kỳ diệu",
+  "ex": [
+   {
+    "zh": "大自然真是太神奇了。",
+    "py": "Dà zì rán zhēn shì tài shén qí le.",
+    "vi": "Thiên nhiên quả thật quá kỳ diệu.",
+    "en": "Nature is truly amazing."
+   },
+   {
+    "zh": "这种药的效果非常神奇。",
+    "py": "Zhè zhǒng yào de xiào guǒ fēi cháng shén qí.",
+    "vi": "Hiệu quả của loại thuốc này vô cùng thần kỳ.",
+    "en": "The effect of this medicine is quite miraculous."
+   }
+  ]
+ },
+ {
+  "h": "发射",
+  "lv": 5,
+  "py": "fā shè",
+  "vi": "phóng; bắn; phát ra",
+  "ex": [
+   {
+    "zh": "这颗卫星是去年发射的。",
+    "py": "Zhè kē wèi xīng shì qù nián fā shè de.",
+    "vi": "Vệ tinh này được phóng vào năm ngoái.",
+    "en": "This satellite was launched last year."
+   },
+   {
+    "zh": "火箭发射的时候,大家都很激动。",
+    "py": "Huǒ jiàn fā shè de shí hou, dà jiā dōu hěn jī dòng.",
+    "vi": "Lúc tên lửa được phóng, mọi người đều rất xúc động.",
+    "en": "Everyone was very excited when the rocket was launched."
+   }
+  ]
+ },
+ {
+  "h": "脑子",
+  "lv": 5,
+  "py": "nǎo zi",
+  "vi": "óc; đầu óc; trí óc",
+  "ex": [
+   {
+    "zh": "他脑子很好,学什么都很快。",
+    "py": "Tā nǎo zi hěn hǎo, xué shén me dōu hěn kuài.",
+    "vi": "Cậu ấy sáng dạ, học gì cũng nhanh.",
+    "en": "He has a good brain and learns everything quickly."
+   },
+   {
+    "zh": "我现在脑子很乱,让我想一想。",
+    "py": "Wǒ xiàn zài nǎo zi hěn luàn, ràng wǒ xiǎng yi xiǎng.",
+    "vi": "Giờ đầu óc tôi đang rối, để tôi nghĩ đã.",
+    "en": "My mind is a mess right now; let me think."
+   }
+  ]
+ },
+ {
+  "h": "代价",
+  "lv": 5,
+  "py": "dài jià",
+  "vi": "cái giá; giá phải trả",
+  "ex": [
+   {
+    "zh": "成功是要付出代价的。",
+    "py": "Chéng gōng shì yào fù chū dài jià de.",
+    "vi": "Thành công là phải trả giá.",
+    "en": "Success comes at a price."
+   },
+   {
+    "zh": "他为这个错误付出了很大的代价。",
+    "py": "Tā wèi zhè ge cuò wù fù chū le hěn dà de dài jià.",
+    "vi": "Anh ấy đã phải trả giá rất đắt cho sai lầm này.",
+    "en": "He paid a heavy price for this mistake."
+   }
+  ]
+ },
+ {
+  "h": "局长",
+  "lv": 5,
+  "py": "jú zhǎng",
+  "vi": "cục trưởng; giám đốc sở",
+  "ex": [
+   {
+    "zh": "局长今天上午要来检查工作。",
+    "py": "Jú zhǎng jīn tiān shàng wǔ yào lái jiǎn chá gōng zuò.",
+    "vi": "Sáng nay cục trưởng sẽ đến kiểm tra công việc.",
+    "en": "The bureau chief is coming this morning to inspect our work."
+   },
+   {
+    "zh": "他父亲是教育局的局长。",
+    "py": "Tā fù qīn shì jiào yù jú de jú zhǎng.",
+    "vi": "Bố anh ấy là giám đốc sở giáo dục.",
+    "en": "His father is the head of the education bureau."
+   }
+  ]
+ },
+ {
+  "h": "瞧",
+  "lv": 5,
+  "py": "qiáo",
+  "vi": "nhìn; xem",
+  "ex": [
+   {
+    "zh": "你快来瞧,外面下大雪了!",
+    "py": "Nǐ kuài lái qiáo, wài miàn xià dà xuě le!",
+    "vi": "Cậu mau lại xem, bên ngoài tuyết rơi dày rồi!",
+    "en": "Come and look, it's snowing heavily outside!"
+   },
+   {
+    "zh": "让我瞧瞧你新买的手机。",
+    "py": "Ràng wǒ qiáo qiao nǐ xīn mǎi de shǒu jī.",
+    "vi": "Cho tôi xem chiếc điện thoại cậu mới mua nào.",
+    "en": "Let me have a look at your new phone."
+   }
+  ]
+ },
+ {
+  "h": "之内",
+  "lv": 5,
+  "py": "zhī nèi",
+  "vi": "trong; trong vòng",
+  "ex": [
+   {
+    "zh": "请在三天之内把报告交给我。",
+    "py": "Qǐng zài sān tiān zhī nèi bǎ bào gào jiāo gěi wǒ.",
+    "vi": "Xin hãy nộp báo cáo cho tôi trong vòng ba ngày.",
+    "en": "Please hand the report in to me within three days."
+   },
+   {
+    "zh": "这件事不在我的工作范围之内。",
+    "py": "Zhè jiàn shì bú zài wǒ de gōng zuò fàn wéi zhī nèi.",
+    "vi": "Việc này không nằm trong phạm vi công việc của tôi.",
+    "en": "This matter is not within the scope of my job."
+   }
+  ]
+ },
+ {
+  "h": "厅",
+  "lv": 5,
+  "py": "tīng",
+  "vi": "sảnh; phòng lớn; sở (cấp tỉnh)",
+  "ex": [
+   {
+    "zh": "他们家的厅很大,能坐二十个人。",
+    "py": "Tā men jiā de tīng hěn dà, néng zuò èr shí gè rén.",
+    "vi": "Phòng khách nhà họ rất rộng, ngồi được hai mươi người.",
+    "en": "Their living room is very big and can seat twenty people."
+   },
+   {
+    "zh": "会议在二楼的厅里举行。",
+    "py": "Huì yì zài èr lóu de tīng lǐ jǔ xíng.",
+    "vi": "Cuộc họp được tổ chức ở sảnh tầng hai.",
+    "en": "The meeting is being held in the hall on the second floor."
+   }
+  ]
+ },
+ {
+  "h": "回报",
+  "lv": 5,
+  "py": "huí bào",
+  "vi": "báo đáp; đền đáp; lợi ích thu về",
+  "ex": [
+   {
+    "zh": "他帮助别人从来不求回报。",
+    "py": "Tā bāng zhù bié rén cóng lái bù qiú huí bào.",
+    "vi": "Anh ấy giúp người khác chưa bao giờ mong được đền đáp.",
+    "en": "He never expects anything in return for helping others."
+   },
+   {
+    "zh": "我要努力工作,回报父母。",
+    "py": "Wǒ yào nǔ lì gōng zuò, huí bào fù mǔ.",
+    "vi": "Tôi phải làm việc chăm chỉ để báo đáp cha mẹ.",
+    "en": "I want to work hard to repay my parents."
+   }
+  ]
+ },
+ {
+  "h": "评估",
+  "lv": 5,
+  "py": "píng gū",
+  "vi": "đánh giá; thẩm định",
+  "ex": [
+   {
+    "zh": "专家正在评估这个项目的风险。",
+    "py": "Zhuān jiā zhèng zài píng gū zhè ge xiàng mù de fēng xiǎn.",
+    "vi": "Các chuyên gia đang đánh giá rủi ro của dự án này.",
+    "en": "Experts are assessing the risks of this project."
+   },
+   {
+    "zh": "公司每年对员工进行一次评估。",
+    "py": "Gōng sī měi nián duì yuán gōng jìn xíng yí cì píng gū.",
+    "vi": "Mỗi năm công ty đánh giá nhân viên một lần.",
+    "en": "The company evaluates its employees once a year."
+   }
+  ]
+ },
+ {
+  "h": "活力",
+  "lv": 5,
+  "py": "huó lì",
+  "vi": "sức sống; sinh lực",
+  "ex": [
+   {
+    "zh": "这些年轻人充满了活力。",
+    "py": "Zhè xiē nián qīng rén chōng mǎn le huó lì.",
+    "vi": "Những người trẻ này tràn đầy sức sống.",
+    "en": "These young people are full of energy."
+   },
+   {
+    "zh": "这座城市越来越有活力了。",
+    "py": "Zhè zuò chéng shì yuè lái yuè yǒu huó lì le.",
+    "vi": "Thành phố này ngày càng có sức sống.",
+    "en": "This city is becoming more and more vibrant."
+   }
+  ]
+ },
+ {
+  "h": "委托",
+  "lv": 5,
+  "py": "wěi tuō",
+  "vi": "ủy thác; nhờ; ủy quyền",
+  "ex": [
+   {
+    "zh": "我委托朋友帮我照顾小狗。",
+    "py": "Wǒ wěi tuō péng you bāng wǒ zhào gù xiǎo gǒu.",
+    "vi": "Tôi nhờ bạn chăm sóc chú chó con giúp tôi.",
+    "en": "I entrusted a friend with looking after my puppy."
+   },
+   {
+    "zh": "他受公司委托来处理这件事。",
+    "py": "Tā shòu gōng sī wěi tuō lái chǔ lǐ zhè jiàn shì.",
+    "vi": "Anh ấy được công ty ủy thác đến xử lý việc này.",
+    "en": "He was commissioned by the company to handle this matter."
+   }
+  ]
+ },
+ {
+  "h": "偶像",
+  "lv": 5,
+  "py": "ǒu xiàng",
+  "vi": "thần tượng",
+  "ex": [
+   {
+    "zh": "这位歌手是很多年轻人的偶像。",
+    "py": "Zhè wèi gē shǒu shì hěn duō nián qīng rén de ǒu xiàng.",
+    "vi": "Ca sĩ này là thần tượng của rất nhiều bạn trẻ.",
+    "en": "This singer is an idol for many young people."
+   },
+   {
+    "zh": "我从小就把爸爸当作偶像。",
+    "py": "Wǒ cóng xiǎo jiù bǎ bà ba dàng zuò ǒu xiàng.",
+    "vi": "Từ nhỏ tôi đã coi bố là thần tượng.",
+    "en": "I have looked up to my dad as my idol since I was little."
+   }
+  ]
+ },
+ {
+  "h": "注射",
+  "lv": 5,
+  "py": "zhù shè",
+  "vi": "tiêm; chích",
+  "ex": [
+   {
+    "zh": "护士给病人注射了一种新药。",
+    "py": "Hù shi gěi bìng rén zhù shè le yì zhǒng xīn yào.",
+    "vi": "Y tá đã tiêm cho bệnh nhân một loại thuốc mới.",
+    "en": "The nurse injected the patient with a new drug."
+   },
+   {
+    "zh": "这种药只能注射,不能吃。",
+    "py": "Zhè zhǒng yào zhǐ néng zhù shè, bù néng chī.",
+    "vi": "Loại thuốc này chỉ được tiêm, không được uống.",
+    "en": "This medicine can only be injected, not taken by mouth."
+   }
+  ]
+ },
+ {
+  "h": "冲突",
+  "lv": 5,
+  "py": "chōng tū",
+  "vi": "xung đột; mâu thuẫn; trùng nhau",
+  "ex": [
+   {
+    "zh": "两个会议的时间冲突了。",
+    "py": "Liǎng gè huì yì de shí jiān chōng tū le.",
+    "vi": "Thời gian của hai cuộc họp bị trùng nhau.",
+    "en": "The times of the two meetings clash."
+   },
+   {
+    "zh": "他们之间发生了很大的冲突。",
+    "py": "Tā men zhī jiān fā shēng le hěn dà de chōng tū.",
+    "vi": "Giữa họ đã xảy ra một cuộc xung đột lớn.",
+    "en": "A serious conflict broke out between them."
+   }
+  ]
+ },
+ {
+  "h": "鼠",
+  "lv": 5,
+  "py": "shǔ",
+  "vi": "chuột",
+  "ex": [
+   {
+    "zh": "我弟弟是鼠年出生的。",
+    "py": "Wǒ dì di shì shǔ nián chū shēng de.",
+    "vi": "Em trai tôi sinh năm Tý (năm con chuột).",
+    "en": "My younger brother was born in the Year of the Rat."
+   },
+   {
+    "zh": "猫和鼠的故事孩子们都爱听。",
+    "py": "Māo hé shǔ de gù shi hái zi men dōu ài tīng.",
+    "vi": "Chuyện mèo và chuột thì đứa trẻ nào cũng thích nghe.",
+    "en": "Children all love to hear stories about the cat and the mouse."
+   }
+  ]
+ },
+ {
+  "h": "提示",
+  "lv": 5,
+  "py": "tí shì",
+  "vi": "nhắc; gợi ý; lời nhắc",
+  "ex": [
+   {
+    "zh": "请按照屏幕上的提示操作。",
+    "py": "Qǐng àn zhào píng mù shàng de tí shì cāo zuò.",
+    "vi": "Vui lòng thao tác theo hướng dẫn trên màn hình.",
+    "en": "Please follow the prompts on the screen."
+   },
+   {
+    "zh": "老师提示我们注意考试时间。",
+    "py": "Lǎo shī tí shì wǒ men zhù yì kǎo shì shí jiān.",
+    "vi": "Thầy giáo nhắc chúng tôi chú ý thời gian thi.",
+    "en": "The teacher reminded us to watch the exam time."
+   }
+  ]
+ },
+ {
+  "h": "除非",
+  "lv": 5,
+  "py": "chú fēi",
+  "vi": "trừ phi; trừ khi",
+  "ex": [
+   {
+    "zh": "除非你亲自去请,否则他不会来。",
+    "py": "Chú fēi nǐ qīn zì qù qǐng, fǒu zé tā bú huì lái.",
+    "vi": "Trừ phi cậu đích thân đi mời, nếu không anh ấy sẽ không đến.",
+    "en": "He won't come unless you go and invite him in person."
+   },
+   {
+    "zh": "我明天一定去,除非下大雨。",
+    "py": "Wǒ míng tiān yí dìng qù, chú fēi xià dà yǔ.",
+    "vi": "Ngày mai tôi nhất định đi, trừ khi mưa to.",
+    "en": "I'll definitely go tomorrow unless it rains heavily."
+   }
+  ]
+ },
+ {
+  "h": "艰难",
+  "lv": 5,
+  "py": "jiān nán",
+  "vi": "gian nan; khó khăn",
+  "ex": [
+   {
+    "zh": "那是他一生中最艰难的时期。",
+    "py": "Nà shì tā yì shēng zhōng zuì jiān nán de shí qī.",
+    "vi": "Đó là giai đoạn gian nan nhất trong đời ông ấy.",
+    "en": "That was the hardest period of his life."
+   },
+   {
+    "zh": "他们的生活十分艰难。",
+    "py": "Tā men de shēng huó shí fēn jiān nán.",
+    "vi": "Cuộc sống của họ vô cùng khó khăn.",
+    "en": "Their life is extremely hard."
+   }
+  ]
+ },
+ {
+  "h": "专辑",
+  "lv": 5,
+  "py": "zhuān jí",
+  "vi": "album; tuyển tập",
+  "ex": [
+   {
+    "zh": "这位歌手下个月要出新专辑。",
+    "py": "Zhè wèi gē shǒu xià ge yuè yào chū xīn zhuān jí.",
+    "vi": "Ca sĩ này tháng sau sẽ ra album mới.",
+    "en": "This singer is releasing a new album next month."
+   },
+   {
+    "zh": "这张专辑里有十二首歌。",
+    "py": "Zhè zhāng zhuān jí lǐ yǒu shí èr shǒu gē.",
+    "vi": "Album này có mười hai bài hát.",
+    "en": "There are twelve songs on this album."
+   }
+  ]
+ },
+ {
+  "h": "虎",
+  "lv": 5,
+  "py": "hǔ",
+  "vi": "hổ; cọp",
+  "ex": [
+   {
+    "zh": "我哥哥是虎年出生的。",
+    "py": "Wǒ gē ge shì hǔ nián chū shēng de.",
+    "vi": "Anh trai tôi sinh năm Dần (năm con hổ).",
+    "en": "My older brother was born in the Year of the Tiger."
+   },
+   {
+    "zh": "听说这座山里以前有过虎。",
+    "py": "Tīng shuō zhè zuò shān lǐ yǐ qián yǒu guo hǔ.",
+    "vi": "Nghe nói trước đây trong núi này từng có hổ.",
+    "en": "I've heard there used to be tigers in these mountains."
+   }
+  ]
+ },
+ {
+  "h": "喷",
+  "lv": 5,
+  "py": "pēn",
+  "vi": "phun; xịt",
+  "ex": [
+   {
+    "zh": "她出门前喜欢喷一点香水。",
+    "py": "Tā chū mén qián xǐ huan pēn yì diǎn xiāng shuǐ.",
+    "vi": "Trước khi ra ngoài cô ấy thích xịt một chút nước hoa.",
+    "en": "She likes to spray on a little perfume before going out."
+   },
+   {
+    "zh": "水突然从管子里喷了出来。",
+    "py": "Shuǐ tū rán cóng guǎn zi lǐ pēn le chū lái.",
+    "vi": "Nước đột nhiên phun ra từ đường ống.",
+    "en": "Water suddenly spurted out of the pipe."
+   }
+  ]
+ },
+ {
+  "h": "卫星",
+  "lv": 5,
+  "py": "wèi xīng",
+  "vi": "vệ tinh",
+  "ex": [
+   {
+    "zh": "月亮是地球的卫星。",
+    "py": "Yuè liang shì dì qiú de wèi xīng.",
+    "vi": "Mặt trăng là vệ tinh của Trái đất.",
+    "en": "The moon is the Earth's satellite."
+   },
+   {
+    "zh": "我们可以通过卫星看电视节目。",
+    "py": "Wǒ men kě yǐ tōng guò wèi xīng kàn diàn shì jié mù.",
+    "vi": "Chúng ta có thể xem chương trình truyền hình qua vệ tinh.",
+    "en": "We can watch television programmes via satellite."
+   }
+  ]
+ },
+ {
+  "h": "时机",
+  "lv": 5,
+  "py": "shí jī",
+  "vi": "thời cơ; thời điểm thích hợp",
+  "ex": [
+   {
+    "zh": "现在是买房子的好时机。",
+    "py": "Xiàn zài shì mǎi fáng zi de hǎo shí jī.",
+    "vi": "Bây giờ là thời điểm tốt để mua nhà.",
+    "en": "Now is a good time to buy a home."
+   },
+   {
+    "zh": "时机还没到,我们再等一等。",
+    "py": "Shí jī hái méi dào, wǒ men zài děng yi děng.",
+    "vi": "Thời cơ chưa đến, chúng ta đợi thêm chút nữa.",
+    "en": "The moment hasn't come yet; let's wait a little longer."
+   }
+  ]
+ },
+ {
+  "h": "治安",
+  "lv": 5,
+  "py": "zhì ān",
+  "vi": "trị an; an ninh trật tự",
+  "ex": [
+   {
+    "zh": "这个小区的治安非常好。",
+    "py": "Zhè ge xiǎo qū de zhì ān fēi cháng hǎo.",
+    "vi": "An ninh ở khu dân cư này rất tốt.",
+    "en": "Public security in this neighbourhood is very good."
+   },
+   {
+    "zh": "警察的工作是保护社会治安。",
+    "py": "Jǐng chá de gōng zuò shì bǎo hù shè huì zhì ān.",
+    "vi": "Công việc của cảnh sát là bảo vệ trật tự an ninh xã hội.",
+    "en": "The job of the police is to maintain public order."
+   }
+  ]
+ },
+ {
+  "h": "渴望",
+  "lv": 5,
+  "py": "kě wàng",
+  "vi": "khao khát; mong mỏi",
+  "ex": [
+   {
+    "zh": "孩子们渴望得到父母的关心。",
+    "py": "Hái zi men kě wàng dé dào fù mǔ de guān xīn.",
+    "vi": "Trẻ em khao khát được cha mẹ quan tâm.",
+    "en": "Children long for their parents' care."
+   },
+   {
+    "zh": "他一直渴望去国外留学。",
+    "py": "Tā yì zhí kě wàng qù guó wài liú xué.",
+    "vi": "Anh ấy luôn khao khát được đi du học nước ngoài.",
+    "en": "He has always longed to study abroad."
+   }
+  ]
+ },
+ {
+  "h": "扮演",
+  "lv": 5,
+  "py": "bàn yǎn",
+  "vi": "đóng vai; sắm vai",
+  "ex": [
+   {
+    "zh": "她在这部电影里扮演一位母亲。",
+    "py": "Tā zài zhè bù diàn yǐng lǐ bàn yǎn yí wèi mǔ qīn.",
+    "vi": "Cô ấy đóng vai một người mẹ trong bộ phim này.",
+    "en": "She plays a mother in this film."
+   },
+   {
+    "zh": "父母在孩子的成长中扮演重要角色。",
+    "py": "Fù mǔ zài hái zi de chéng zhǎng zhōng bàn yǎn zhòng yào jué sè.",
+    "vi": "Cha mẹ đóng vai trò quan trọng trong sự trưởng thành của con.",
+    "en": "Parents play an important role in a child's growth."
+   }
+  ]
+ },
+ {
+  "h": "资产",
+  "lv": 5,
+  "py": "zī chǎn",
+  "vi": "tài sản",
+  "ex": [
+   {
+    "zh": "这家公司的资产超过十亿元。",
+    "py": "Zhè jiā gōng sī de zī chǎn chāo guò shí yì yuán.",
+    "vi": "Tài sản của công ty này vượt quá một tỷ tệ.",
+    "en": "This company's assets exceed one billion yuan."
+   },
+   {
+    "zh": "健康是我们最重要的资产。",
+    "py": "Jiàn kāng shì wǒ men zuì zhòng yào de zī chǎn.",
+    "vi": "Sức khỏe là tài sản quan trọng nhất của chúng ta.",
+    "en": "Health is our most important asset."
+   }
+  ]
+ },
+ {
+  "h": "运行",
+  "lv": 5,
+  "py": "yùn xíng",
+  "vi": "vận hành; chạy; chuyển động",
+  "ex": [
+   {
+    "zh": "这台机器已经运行了十年。",
+    "py": "Zhè tái jī qì yǐ jīng yùn xíng le shí nián.",
+    "vi": "Chiếc máy này đã vận hành được mười năm.",
+    "en": "This machine has been running for ten years."
+   },
+   {
+    "zh": "地铁每天从早上五点开始运行。",
+    "py": "Dì tiě měi tiān cóng zǎo shang wǔ diǎn kāi shǐ yùn xíng.",
+    "vi": "Tàu điện ngầm mỗi ngày bắt đầu chạy từ năm giờ sáng.",
+    "en": "The subway starts running at five every morning."
+   }
+  ]
+ },
+ {
+  "h": "局面",
+  "lv": 5,
+  "py": "jú miàn",
+  "vi": "cục diện; tình thế",
+  "ex": [
+   {
+    "zh": "我们要想办法改变现在的局面。",
+    "py": "Wǒ men yào xiǎng bàn fǎ gǎi biàn xiàn zài de jú miàn.",
+    "vi": "Chúng ta phải tìm cách thay đổi cục diện hiện nay.",
+    "en": "We must find a way to change the current situation."
+   },
+   {
+    "zh": "比赛的局面对我们很有利。",
+    "py": "Bǐ sài de jú miàn duì wǒ men hěn yǒu lì.",
+    "vi": "Thế trận đang rất có lợi cho chúng ta.",
+    "en": "The state of the game is very much in our favour."
+   }
+  ]
+ },
+ {
+  "h": "期望",
+  "lv": 5,
+  "py": "qī wàng",
+  "vi": "kỳ vọng; mong đợi",
+  "ex": [
+   {
+    "zh": "父母对他的期望很高。",
+    "py": "Fù mǔ duì tā de qī wàng hěn gāo.",
+    "vi": "Cha mẹ kỳ vọng rất cao ở cậu ấy.",
+    "en": "His parents have high expectations of him."
+   },
+   {
+    "zh": "我们期望明年能有更好的成绩。",
+    "py": "Wǒ men qī wàng míng nián néng yǒu gèng hǎo de chéng jì.",
+    "vi": "Chúng tôi mong năm sau sẽ có thành tích tốt hơn.",
+    "en": "We hope to achieve better results next year."
+   }
+  ]
+ },
+ {
+  "h": "补偿",
+  "lv": 5,
+  "py": "bǔ cháng",
+  "vi": "bồi thường; đền bù; bù đắp",
+  "ex": [
+   {
+    "zh": "公司给了他一笔钱作为补偿。",
+    "py": "Gōng sī gěi le tā yì bǐ qián zuò wéi bǔ cháng.",
+    "vi": "Công ty đã đưa anh ấy một khoản tiền để đền bù.",
+    "en": "The company gave him a sum of money as compensation."
+   },
+   {
+    "zh": "他想多陪陪孩子,补偿过去的时间。",
+    "py": "Tā xiǎng duō péi pei hái zi, bǔ cháng guò qù de shí jiān.",
+    "vi": "Anh ấy muốn ở bên con nhiều hơn để bù đắp thời gian đã qua.",
+    "en": "He wants to spend more time with his child to make up for the past."
+   }
+  ]
+ },
+ {
+  "h": "显",
+  "lv": 5,
+  "py": "xiǎn",
+  "vi": "lộ ra; tỏ ra; trông có vẻ",
+  "ex": [
+   {
+    "zh": "她穿这件衣服显得很年轻。",
+    "py": "Tā chuān zhè jiàn yī fu xiǎn de hěn nián qīng.",
+    "vi": "Cô ấy mặc bộ này trông rất trẻ.",
+    "en": "She looks very young in this outfit."
+   },
+   {
+    "zh": "穿黑色的衣服比较显瘦。",
+    "py": "Chuān hēi sè de yī fu bǐ jiào xiǎn shòu.",
+    "vi": "Mặc đồ màu đen trông gầy hơn.",
+    "en": "Wearing black makes you look slimmer."
+   }
+  ]
+ },
+ {
+  "h": "看出",
+  "lv": 5,
+  "py": "kàn chū",
+  "vi": "nhìn ra; nhận ra",
+  "ex": [
+   {
+    "zh": "我一眼就看出他不高兴了。",
+    "py": "Wǒ yì yǎn jiù kàn chū tā bù gāo xìng le.",
+    "vi": "Tôi nhìn một cái là nhận ra anh ấy không vui.",
+    "en": "I could tell at a glance that he was unhappy."
+   },
+   {
+    "zh": "从这件事可以看出他很认真。",
+    "py": "Cóng zhè jiàn shì kě yǐ kàn chū tā hěn rèn zhēn.",
+    "vi": "Từ việc này có thể thấy anh ấy rất nghiêm túc.",
+    "en": "You can see from this that he is very conscientious."
+   }
+  ]
+ },
+ {
+  "h": "年度",
+  "lv": 5,
+  "py": "nián dù",
+  "vi": "năm (tài chính, công tác); thường niên",
+  "ex": [
+   {
+    "zh": "公司正在准备年度总结报告。",
+    "py": "Gōng sī zhèng zài zhǔn bèi nián dù zǒng jié bào gào.",
+    "vi": "Công ty đang chuẩn bị báo cáo tổng kết năm.",
+    "en": "The company is preparing its annual summary report."
+   },
+   {
+    "zh": "他被选为本年度最佳球员。",
+    "py": "Tā bèi xuǎn wéi běn nián dù zuì jiā qiú yuán.",
+    "vi": "Anh ấy được bầu là cầu thủ xuất sắc nhất năm nay.",
+    "en": "He was voted the best player of the year."
+   }
+  ]
+ },
+ {
+  "h": "检验",
+  "lv": 5,
+  "py": "jiǎn yàn",
+  "vi": "kiểm nghiệm; kiểm tra",
+  "ex": [
+   {
+    "zh": "这些产品都经过了严格的检验。",
+    "py": "Zhè xiē chǎn pǐn dōu jīng guò le yán gé de jiǎn yàn.",
+    "vi": "Những sản phẩm này đều đã qua kiểm nghiệm nghiêm ngặt.",
+    "en": "These products have all passed strict inspection."
+   },
+   {
+    "zh": "时间会检验我们的决定对不对。",
+    "py": "Shí jiān huì jiǎn yàn wǒ men de jué dìng duì bú duì.",
+    "vi": "Thời gian sẽ kiểm chứng quyết định của chúng ta đúng hay sai.",
+    "en": "Time will test whether our decision was right."
+   }
+  ]
+ },
+ {
+  "h": "排除",
+  "lv": 5,
+  "py": "pái chú",
+  "vi": "loại trừ; loại bỏ",
+  "ex": [
+   {
+    "zh": "我们不能排除这种可能。",
+    "py": "Wǒ men bù néng pái chú zhè zhǒng kě néng.",
+    "vi": "Chúng ta không thể loại trừ khả năng này.",
+    "en": "We cannot rule out this possibility."
+   },
+   {
+    "zh": "工人很快就排除了机器的问题。",
+    "py": "Gōng rén hěn kuài jiù pái chú le jī qì de wèn tí.",
+    "vi": "Công nhân đã nhanh chóng khắc phục sự cố của máy.",
+    "en": "The worker quickly cleared the problem with the machine."
+   }
+  ]
+ },
+ {
+  "h": "发行",
+  "lv": 5,
+  "py": "fā xíng",
+  "vi": "phát hành",
+  "ex": [
+   {
+    "zh": "这部电影将在全国发行。",
+    "py": "Zhè bù diàn yǐng jiāng zài quán guó fā xíng.",
+    "vi": "Bộ phim này sẽ được phát hành trên toàn quốc.",
+    "en": "This film will be released nationwide."
+   },
+   {
+    "zh": "这本杂志每个月发行一次。",
+    "py": "Zhè běn zá zhì měi gè yuè fā xíng yí cì.",
+    "vi": "Tạp chí này phát hành mỗi tháng một lần.",
+    "en": "This magazine is published once a month."
+   }
+  ]
+ },
+ {
+  "h": "社",
+  "lv": 5,
+  "py": "shè",
+  "vi": "xã; hội; tổ chức, cơ quan",
+  "ex": [
+   {
+    "zh": "他在一家报社工作了很多年。",
+    "py": "Tā zài yì jiā bào shè gōng zuò le hěn duō nián.",
+    "vi": "Ông ấy đã làm việc ở một tòa soạn báo nhiều năm.",
+    "en": "He worked at a newspaper office for many years."
+   },
+   {
+    "zh": "这家旅行社的服务很不错。",
+    "py": "Zhè jiā lǚ xíng shè de fú wù hěn bú cuò.",
+    "vi": "Dịch vụ của công ty du lịch này khá tốt.",
+    "en": "This travel agency's service is quite good."
+   }
+  ]
+ },
+ {
+  "h": "解放",
+  "lv": 5,
+  "py": "jiě fàng",
+  "vi": "giải phóng",
+  "ex": [
+   {
+    "zh": "洗衣机把人们从家务中解放出来。",
+    "py": "Xǐ yī jī bǎ rén men cóng jiā wù zhōng jiě fàng chū lái.",
+    "vi": "Máy giặt đã giải phóng con người khỏi việc nhà.",
+    "en": "The washing machine freed people from housework."
+   },
+   {
+    "zh": "这座城市是一九四九年解放的。",
+    "py": "Zhè zuò chéng shì shì yī jiǔ sì jiǔ nián jiě fàng de.",
+    "vi": "Thành phố này được giải phóng năm 1949.",
+    "en": "This city was liberated in 1949."
+   }
+  ]
+ },
+ {
+  "h": "悲剧",
+  "lv": 5,
+  "py": "bēi jù",
+  "vi": "bi kịch",
+  "ex": [
+   {
+    "zh": "这部电影是一个爱情悲剧。",
+    "py": "Zhè bù diàn yǐng shì yí gè ài qíng bēi jù.",
+    "vi": "Bộ phim này là một bi kịch tình yêu.",
+    "en": "This film is a romantic tragedy."
+   },
+   {
+    "zh": "我们不能让这样的悲剧再发生。",
+    "py": "Wǒ men bù néng ràng zhè yàng de bēi jù zài fā shēng.",
+    "vi": "Chúng ta không thể để bi kịch như vậy xảy ra lần nữa.",
+    "en": "We cannot let a tragedy like this happen again."
+   }
+  ]
+ },
+ {
+  "h": "消防",
+  "lv": 5,
+  "py": "xiāo fáng",
+  "vi": "phòng cháy chữa cháy; cứu hỏa",
+  "ex": [
+   {
+    "zh": "每个楼层都有消防设备。",
+    "py": "Měi gè lóu céng dōu yǒu xiāo fáng shè bèi.",
+    "vi": "Tầng nào cũng có thiết bị phòng cháy chữa cháy.",
+    "en": "Every floor has firefighting equipment."
+   },
+   {
+    "zh": "消防车很快就到了现场。",
+    "py": "Xiāo fáng chē hěn kuài jiù dào le xiàn chǎng.",
+    "vi": "Xe cứu hỏa đã nhanh chóng có mặt tại hiện trường.",
+    "en": "The fire engine arrived at the scene very quickly."
+   }
+  ]
+ },
+ {
+  "h": "太空",
+  "lv": 5,
+  "py": "tài kōng",
+  "vi": "vũ trụ; không gian",
+  "ex": [
+   {
+    "zh": "他的梦想是有一天能飞上太空。",
+    "py": "Tā de mèng xiǎng shì yǒu yì tiān néng fēi shàng tài kōng.",
+    "vi": "Ước mơ của cậu ấy là một ngày nào đó được bay vào vũ trụ.",
+    "en": "His dream is to fly into space one day."
+   },
+   {
+    "zh": "从太空看,地球是蓝色的。",
+    "py": "Cóng tài kōng kàn, dì qiú shì lán sè de.",
+    "vi": "Nhìn từ vũ trụ, Trái đất có màu xanh lam.",
+    "en": "Seen from space, the Earth is blue."
+   }
+  ]
+ },
+ {
+  "h": "夹",
+  "lv": 5,
+  "py": "jiā",
+  "vi": "kẹp; gắp; xen vào giữa",
+  "ex": [
+   {
+    "zh": "妈妈给我夹了很多菜。",
+    "py": "Mā ma gěi wǒ jiā le hěn duō cài.",
+    "vi": "Mẹ gắp cho tôi rất nhiều thức ăn.",
+    "en": "Mum put lots of food on my plate with her chopsticks."
+   },
+   {
+    "zh": "他把照片夹在书里了。",
+    "py": "Tā bǎ zhào piàn jiā zài shū lǐ le.",
+    "vi": "Anh ấy kẹp tấm ảnh vào trong sách.",
+    "en": "He tucked the photo inside the book."
+   }
+  ]
+ },
+ {
+  "h": "指示",
+  "lv": 5,
+  "py": "zhǐ shì",
+  "vi": "chỉ thị; chỉ dẫn",
+  "ex": [
+   {
+    "zh": "我们会按照领导的指示去做。",
+    "py": "Wǒ men huì àn zhào lǐng dǎo de zhǐ shì qù zuò.",
+    "vi": "Chúng tôi sẽ làm theo chỉ thị của lãnh đạo.",
+    "en": "We will act according to the leader's instructions."
+   },
+   {
+    "zh": "经理指示我们马上解决这个问题。",
+    "py": "Jīng lǐ zhǐ shì wǒ men mǎ shàng jiě jué zhè ge wèn tí.",
+    "vi": "Giám đốc chỉ thị chúng tôi giải quyết ngay vấn đề này.",
+    "en": "The manager instructed us to solve this problem at once."
+   }
+  ]
+ },
+ {
+  "h": "出于",
+  "lv": 5,
+  "py": "chū yú",
+  "vi": "xuất phát từ; vì",
+  "ex": [
+   {
+    "zh": "出于安全考虑,比赛改到了明天。",
+    "py": "Chū yú ān quán kǎo lǜ, bǐ sài gǎi dào le míng tiān.",
+    "vi": "Vì lý do an toàn, trận đấu đã dời sang ngày mai.",
+    "en": "For safety reasons, the match was moved to tomorrow."
+   },
+   {
+    "zh": "我这样说完全是出于好心。",
+    "py": "Wǒ zhè yàng shuō wán quán shì chū yú hǎo xīn.",
+    "vi": "Tôi nói vậy hoàn toàn là xuất phát từ ý tốt.",
+    "en": "I said this purely out of good intentions."
+   }
+  ]
+ },
+ {
+  "h": "双手",
+  "lv": 5,
+  "py": "shuāng shǒu",
+  "vi": "hai tay; đôi tay",
+  "ex": [
+   {
+    "zh": "他用双手接过了礼物。",
+    "py": "Tā yòng shuāng shǒu jiē guò le lǐ wù.",
+    "vi": "Anh ấy đưa hai tay nhận lấy món quà.",
+    "en": "He took the gift with both hands."
+   },
+   {
+    "zh": "幸福的生活要靠自己的双手创造。",
+    "py": "Xìng fú de shēng huó yào kào zì jǐ de shuāng shǒu chuàng zào.",
+    "vi": "Cuộc sống hạnh phúc phải do chính đôi tay mình tạo ra.",
+    "en": "A happy life has to be created with your own two hands."
+   }
+  ]
+ },
+ {
+  "h": "得了",
+  "lv": 5,
+  "py": "dé le",
+  "vi": "được rồi; thôi đủ rồi",
+  "ex": [
+   {
+    "zh": "得了,别说了,我都知道了。",
+    "py": "Dé le, bié shuō le, wǒ dōu zhī dào le.",
+    "vi": "Thôi được rồi, đừng nói nữa, tôi biết cả rồi.",
+    "en": "All right, stop talking; I already know everything."
+   },
+   {
+    "zh": "得了,这件事就这么决定吧。",
+    "py": "Dé le, zhè jiàn shì jiù zhè me jué dìng ba.",
+    "vi": "Được rồi, việc này cứ quyết định như vậy đi.",
+    "en": "All right, let's settle the matter this way."
+   }
+  ]
+ },
+ {
+  "h": "悲伤",
+  "lv": 5,
+  "py": "bēi shāng",
+  "vi": "đau buồn; bi thương",
+  "ex": [
+   {
+    "zh": "听到这个消息,她非常悲伤。",
+    "py": "Tīng dào zhè ge xiāo xi, tā fēi cháng bēi shāng.",
+    "vi": "Nghe tin này, cô ấy vô cùng đau buồn.",
+    "en": "She was deeply saddened to hear the news."
+   },
+   {
+    "zh": "时间会慢慢带走心里的悲伤。",
+    "py": "Shí jiān huì màn màn dài zǒu xīn lǐ de bēi shāng.",
+    "vi": "Thời gian sẽ dần xoa dịu nỗi buồn trong lòng.",
+    "en": "Time will slowly take away the sorrow in your heart."
+   }
+  ]
+ },
+ {
+  "h": "顾问",
+  "lv": 5,
+  "py": "gù wèn",
+  "vi": "cố vấn",
+  "ex": [
+   {
+    "zh": "公司请了一位法律顾问。",
+    "py": "Gōng sī qǐng le yí wèi fǎ lǜ gù wèn.",
+    "vi": "Công ty đã mời một cố vấn pháp luật.",
+    "en": "The company has hired a legal adviser."
+   },
+   {
+    "zh": "他退休以后当了学校的顾问。",
+    "py": "Tā tuì xiū yǐ hòu dāng le xué xiào de gù wèn.",
+    "vi": "Sau khi nghỉ hưu, ông ấy làm cố vấn cho trường.",
+    "en": "After retiring, he became an adviser to the school."
+   }
+  ]
+ },
+ {
+  "h": "助理",
+  "lv": 5,
+  "py": "zhù lǐ",
+  "vi": "trợ lý",
+  "ex": [
+   {
+    "zh": "经理的助理帮他安排了会议。",
+    "py": "Jīng lǐ de zhù lǐ bāng tā ān pái le huì yì.",
+    "vi": "Trợ lý của giám đốc đã sắp xếp cuộc họp giúp ông ấy.",
+    "en": "The manager's assistant arranged the meeting for him."
+   },
+   {
+    "zh": "她毕业后在一家公司当助理。",
+    "py": "Tā bì yè hòu zài yì jiā gōng sī dāng zhù lǐ.",
+    "vi": "Sau khi tốt nghiệp, cô ấy làm trợ lý ở một công ty.",
+    "en": "After graduating, she worked as an assistant at a company."
+   }
+  ]
+ },
+ {
+  "h": "消除",
+  "lv": 5,
+  "py": "xiāo chú",
+  "vi": "xóa bỏ; loại bỏ; làm tan biến",
+  "ex": [
+   {
+    "zh": "听音乐可以帮助消除疲劳。",
+    "py": "Tīng yīn yuè kě yǐ bāng zhù xiāo chú pí láo.",
+    "vi": "Nghe nhạc có thể giúp xua tan mệt mỏi.",
+    "en": "Listening to music can help relieve fatigue."
+   },
+   {
+    "zh": "他的解释消除了大家的误会。",
+    "py": "Tā de jiě shì xiāo chú le dà jiā de wù huì.",
+    "vi": "Lời giải thích của anh ấy đã xóa tan hiểu lầm của mọi người.",
+    "en": "His explanation cleared up everyone's misunderstanding."
+   }
+  ]
+ },
+ {
+  "h": "拔",
+  "lv": 5,
+  "py": "bá",
+  "vi": "nhổ; rút; kéo ra",
+  "ex": [
+   {
+    "zh": "我昨天去医院拔了一颗牙。",
+    "py": "Wǒ zuó tiān qù yī yuàn bá le yì kē yá.",
+    "vi": "Hôm qua tôi đến bệnh viện nhổ một cái răng.",
+    "en": "I went to the hospital yesterday and had a tooth pulled."
+   },
+   {
+    "zh": "他把地里的草都拔干净了。",
+    "py": "Tā bǎ dì lǐ de cǎo dōu bá gān jìng le.",
+    "vi": "Anh ấy đã nhổ sạch cỏ ngoài ruộng.",
+    "en": "He pulled up all the weeds in the field."
+   }
+  ]
+ },
+ {
+  "h": "寻求",
+  "lv": 5,
+  "py": "xún qiú",
+  "vi": "tìm kiếm; mưu cầu",
+  "ex": [
+   {
+    "zh": "遇到困难时,可以向朋友寻求帮助。",
+    "py": "Yù dào kùn nan shí, kě yǐ xiàng péng you xún qiú bāng zhù.",
+    "vi": "Khi gặp khó khăn, có thể tìm đến bạn bè nhờ giúp đỡ.",
+    "en": "When you are in difficulty, you can turn to friends for help."
+   },
+   {
+    "zh": "两家公司正在寻求合作的机会。",
+    "py": "Liǎng jiā gōng sī zhèng zài xún qiú hé zuò de jī huì.",
+    "vi": "Hai công ty đang tìm kiếm cơ hội hợp tác.",
+    "en": "The two companies are seeking opportunities to cooperate."
+   }
+  ]
+ },
+ {
+  "h": "冲动",
+  "lv": 5,
+  "py": "chōng dòng",
+  "vi": "bốc đồng; kích động; sự thôi thúc",
+  "ex": [
+   {
+    "zh": "你先冷静一下,不要太冲动。",
+    "py": "Nǐ xiān lěng jìng yí xià, bú yào tài chōng dòng.",
+    "vi": "Cậu bình tĩnh lại đã, đừng quá bốc đồng.",
+    "en": "Calm down first; don't be so impulsive."
+   },
+   {
+    "zh": "我当时一冲动就买了这辆车。",
+    "py": "Wǒ dāng shí yì chōng dòng jiù mǎi le zhè liàng chē.",
+    "vi": "Lúc đó tôi bốc đồng một cái là mua luôn chiếc xe này.",
+    "en": "I bought this car on impulse at the time."
+   }
+  ]
+ },
+ {
+  "h": "公正",
+  "lv": 5,
+  "py": "gōng zhèng",
+  "vi": "công bằng; công chính",
+  "ex": [
+   {
+    "zh": "我们相信法院会公正处理这件事。",
+    "py": "Wǒ men xiāng xìn fǎ yuàn huì gōng zhèng chǔ lǐ zhè jiàn shì.",
+    "vi": "Chúng tôi tin tòa án sẽ xử lý việc này một cách công bằng.",
+    "en": "We believe the court will handle this matter fairly."
+   },
+   {
+    "zh": "这位老师对每个学生都很公正。",
+    "py": "Zhè wèi lǎo shī duì měi gè xué shēng dōu hěn gōng zhèng.",
+    "vi": "Thầy giáo này rất công bằng với mọi học sinh.",
+    "en": "This teacher is fair to every student."
+   }
+  ]
+ },
+ {
+  "h": "暖",
+  "lv": 5,
+  "py": "nuǎn",
+  "vi": "ấm; làm ấm",
+  "ex": [
+   {
+    "zh": "春天来了,天气一天比一天暖。",
+    "py": "Chūn tiān lái le, tiān qì yì tiān bǐ yì tiān nuǎn.",
+    "vi": "Xuân đến rồi, thời tiết ngày một ấm lên.",
+    "en": "Spring is here, and the weather gets warmer day by day."
+   },
+   {
+    "zh": "快进来喝杯热茶,暖一暖身体。",
+    "py": "Kuài jìn lái hē bēi rè chá, nuǎn yi nuǎn shēn tǐ.",
+    "vi": "Mau vào uống cốc trà nóng cho ấm người.",
+    "en": "Come in and have a cup of hot tea to warm yourself up."
+   }
+  ]
+ },
+ {
+  "h": "戒",
+  "lv": 5,
+  "py": "jiè",
+  "vi": "cai; bỏ (thói quen xấu)",
+  "ex": [
+   {
+    "zh": "为了身体健康,他把烟戒了。",
+    "py": "Wèi le shēn tǐ jiàn kāng, tā bǎ yān jiè le.",
+    "vi": "Vì sức khỏe, anh ấy đã bỏ thuốc lá.",
+    "en": "For the sake of his health, he gave up smoking."
+   },
+   {
+    "zh": "医生让他戒酒,他却做不到。",
+    "py": "Yī shēng ràng tā jiè jiǔ, tā què zuò bú dào.",
+    "vi": "Bác sĩ bảo anh ấy cai rượu nhưng anh ấy không làm được.",
+    "en": "The doctor told him to quit drinking, but he can't manage it."
+   }
+  ]
+ },
+ {
+  "h": "规划",
+  "lv": 5,
+  "py": "guī huà",
+  "vi": "quy hoạch; lập kế hoạch",
+  "ex": [
+   {
+    "zh": "这座城市的规划做得很好。",
+    "py": "Zhè zuò chéng shì de guī huà zuò de hěn hǎo.",
+    "vi": "Quy hoạch của thành phố này được làm rất tốt.",
+    "en": "This city has been very well planned."
+   },
+   {
+    "zh": "年轻人应该早点规划自己的未来。",
+    "py": "Nián qīng rén yīng gāi zǎo diǎn guī huà zì jǐ de wèi lái.",
+    "vi": "Người trẻ nên sớm hoạch định tương lai của mình.",
+    "en": "Young people should plan their future early."
+   }
+  ]
+ },
+ {
+  "h": "不许",
+  "lv": 5,
+  "py": "bù xǔ",
+  "vi": "không cho phép; không được",
+  "ex": [
+   {
+    "zh": "考试的时候不许看手机。",
+    "py": "Kǎo shì de shí hou bù xǔ kàn shǒu jī.",
+    "vi": "Trong lúc thi không được xem điện thoại.",
+    "en": "You are not allowed to look at your phone during the exam."
+   },
+   {
+    "zh": "妈妈不许我一个人晚上出门。",
+    "py": "Mā ma bù xǔ wǒ yí gè rén wǎn shang chū mén.",
+    "vi": "Mẹ không cho tôi ra ngoài một mình vào buổi tối.",
+    "en": "Mum doesn't allow me to go out alone at night."
+   }
+  ]
+ },
+ {
+  "h": "不止",
+  "lv": 5,
+  "py": "bù zhǐ",
+  "vi": "không chỉ; hơn; không ngừng",
+  "ex": [
+   {
+    "zh": "这个地方我来过不止一次。",
+    "py": "Zhè ge dì fang wǒ lái guo bù zhǐ yí cì.",
+    "vi": "Nơi này tôi đã đến không chỉ một lần.",
+    "en": "I have been to this place more than once."
+   },
+   {
+    "zh": "参加会议的不止五十个人。",
+    "py": "Cān jiā huì yì de bù zhǐ wǔ shí gè rén.",
+    "vi": "Số người dự họp không chỉ có năm mươi.",
+    "en": "More than fifty people attended the meeting."
+   }
+  ]
+ },
+ {
+  "h": "震惊",
+  "lv": 5,
+  "py": "zhèn jīng",
+  "vi": "chấn động; kinh ngạc; gây sốc",
+  "ex": [
+   {
+    "zh": "这个消息让所有人都很震惊。",
+    "py": "Zhè ge xiāo xi ràng suǒ yǒu rén dōu hěn zhèn jīng.",
+    "vi": "Tin này khiến tất cả mọi người đều sửng sốt.",
+    "en": "The news shocked everyone."
+   },
+   {
+    "zh": "这件事震惊了全世界。",
+    "py": "Zhè jiàn shì zhèn jīng le quán shì jiè.",
+    "vi": "Sự việc này đã làm chấn động cả thế giới.",
+    "en": "This incident shocked the whole world."
+   }
+  ]
+ },
+ {
+  "h": "赔偿",
+  "lv": 5,
+  "py": "péi cháng",
+  "vi": "bồi thường; đền",
+  "ex": [
+   {
+    "zh": "你弄坏了我的手机,应该赔偿。",
+    "py": "Nǐ nòng huài le wǒ de shǒu jī, yīng gāi péi cháng.",
+    "vi": "Cậu làm hỏng điện thoại của tôi thì phải đền.",
+    "en": "You broke my phone, so you should pay for it."
+   },
+   {
+    "zh": "公司同意赔偿他五万块钱。",
+    "py": "Gōng sī tóng yì péi cháng tā wǔ wàn kuài qián.",
+    "vi": "Công ty đồng ý bồi thường cho anh ấy năm mươi nghìn tệ.",
+    "en": "The company agreed to pay him fifty thousand yuan in compensation."
+   }
+  ]
+ },
+ {
+  "h": "代理",
+  "lv": 5,
+  "py": "dài lǐ",
+  "vi": "đại lý; đại diện; làm thay",
+  "ex": [
+   {
+    "zh": "经理出差的时候,由他代理工作。",
+    "py": "Jīng lǐ chū chāi de shí hou, yóu tā dài lǐ gōng zuò.",
+    "vi": "Khi giám đốc đi công tác, anh ấy làm thay công việc.",
+    "en": "When the manager is away on business, he acts in his place."
+   },
+   {
+    "zh": "我们公司代理这个品牌的产品。",
+    "py": "Wǒ men gōng sī dài lǐ zhè ge pǐn pái de chǎn pǐn.",
+    "vi": "Công ty chúng tôi làm đại lý sản phẩm của thương hiệu này.",
+    "en": "Our company is the agent for this brand's products."
+   }
+  ]
+ },
+ {
+  "h": "明明",
+  "lv": 5,
+  "py": "míng míng",
+  "vi": "rõ ràng; rành rành",
+  "ex": [
+   {
+    "zh": "你明明知道,为什么不告诉我?",
+    "py": "Nǐ míng míng zhī dào, wèi shén me bú gào su wǒ?",
+    "vi": "Rõ ràng cậu biết, sao không nói cho tôi?",
+    "en": "You obviously knew, so why didn't you tell me?"
+   },
+   {
+    "zh": "我明明把钥匙放在桌子上了。",
+    "py": "Wǒ míng míng bǎ yào shi fàng zài zhuō zi shàng le.",
+    "vi": "Rõ ràng tôi đã để chìa khóa trên bàn mà.",
+    "en": "I clearly put the keys on the table."
+   }
+  ]
+ },
+ {
+  "h": "群众",
+  "lv": 5,
+  "py": "qún zhòng",
+  "vi": "quần chúng",
+  "ex": [
+   {
+    "zh": "广场上站满了看表演的群众。",
+    "py": "Guǎng chǎng shàng zhàn mǎn le kàn biǎo yǎn de qún zhòng.",
+    "vi": "Quảng trường chật kín quần chúng đứng xem biểu diễn.",
+    "en": "The square was packed with crowds watching the performance."
+   },
+   {
+    "zh": "政府应该多听听群众的意见。",
+    "py": "Zhèng fǔ yīng gāi duō tīng ting qún zhòng de yì jiàn.",
+    "vi": "Chính phủ nên lắng nghe ý kiến của quần chúng nhiều hơn.",
+    "en": "The government should listen more to the opinions of the public."
+   }
+  ]
+ },
+ {
+  "h": "无疑",
+  "lv": 5,
+  "py": "wú yí",
+  "vi": "không nghi ngờ gì; chắc chắn",
+  "ex": [
+   {
+    "zh": "这无疑是今年最好的一部电影。",
+    "py": "Zhè wú yí shì jīn nián zuì hǎo de yí bù diàn yǐng.",
+    "vi": "Đây chắc chắn là bộ phim hay nhất năm nay.",
+    "en": "This is undoubtedly the best film of the year."
+   },
+   {
+    "zh": "他无疑是我们班最努力的学生。",
+    "py": "Tā wú yí shì wǒ men bān zuì nǔ lì de xué shēng.",
+    "vi": "Cậu ấy không nghi ngờ gì là học sinh chăm chỉ nhất lớp tôi.",
+    "en": "He is without doubt the hardest-working student in our class."
+   }
+  ]
+ },
+ {
+  "h": "按摩",
+  "lv": 5,
+  "py": "àn mó",
+  "vi": "mát-xa; xoa bóp",
+  "ex": [
+   {
+    "zh": "工作了一天,我想去按摩一下。",
+    "py": "Gōng zuò le yì tiān, wǒ xiǎng qù àn mó yí xià.",
+    "vi": "Làm việc cả ngày rồi, tôi muốn đi mát-xa một chút.",
+    "en": "After a whole day of work, I'd like to go for a massage."
+   },
+   {
+    "zh": "他每天晚上给妈妈按摩肩膀。",
+    "py": "Tā měi tiān wǎn shang gěi mā ma àn mó jiān bǎng.",
+    "vi": "Tối nào anh ấy cũng xoa bóp vai cho mẹ.",
+    "en": "He massages his mother's shoulders every evening."
+   }
+  ]
+ },
+ {
+  "h": "情形",
+  "lv": 5,
+  "py": "qíng xing",
+  "vi": "tình hình; tình huống",
+  "ex": [
+   {
+    "zh": "我想了解一下当时的情形。",
+    "py": "Wǒ xiǎng liǎo jiě yí xià dāng shí de qíng xing.",
+    "vi": "Tôi muốn tìm hiểu tình hình lúc đó.",
+    "en": "I'd like to find out what the situation was at the time."
+   },
+   {
+    "zh": "在这种情形下,我们只能等。",
+    "py": "Zài zhè zhǒng qíng xing xià, wǒ men zhǐ néng děng.",
+    "vi": "Trong tình huống này, chúng ta chỉ có thể chờ.",
+    "en": "Under these circumstances, all we can do is wait."
+   }
+  ]
+ },
+ {
+  "h": "起码",
+  "lv": 5,
+  "py": "qǐ mǎ",
+  "vi": "ít nhất; tối thiểu",
+  "ex": [
+   {
+    "zh": "从这里到机场起码要一个小时。",
+    "py": "Cóng zhè lǐ dào jī chǎng qǐ mǎ yào yí gè xiǎo shí.",
+    "vi": "Từ đây ra sân bay ít nhất cũng mất một tiếng.",
+    "en": "It takes at least an hour to get from here to the airport."
+   },
+   {
+    "zh": "尊重别人是最起码的礼貌。",
+    "py": "Zūn zhòng bié rén shì zuì qǐ mǎ de lǐ mào.",
+    "vi": "Tôn trọng người khác là phép lịch sự tối thiểu.",
+    "en": "Respecting others is the most basic courtesy."
+   }
+  ]
+ },
+ {
+  "h": "合并",
+  "lv": 5,
+  "py": "hé bìng",
+  "vi": "sáp nhập; gộp lại",
+  "ex": [
+   {
+    "zh": "这两家公司去年合并了。",
+    "py": "Zhè liǎng jiā gōng sī qù nián hé bìng le.",
+    "vi": "Hai công ty này đã sáp nhập vào năm ngoái.",
+    "en": "These two companies merged last year."
+   },
+   {
+    "zh": "学校决定把两个班合并成一个班。",
+    "py": "Xué xiào jué dìng bǎ liǎng gè bān hé bìng chéng yí gè bān.",
+    "vi": "Nhà trường quyết định gộp hai lớp thành một lớp.",
+    "en": "The school decided to merge the two classes into one."
+   }
+  ]
+ },
+ {
+  "h": "以往",
+  "lv": 5,
+  "py": "yǐ wǎng",
+  "vi": "trước đây; ngày trước",
+  "ex": [
+   {
+    "zh": "今年冬天比以往冷得多。",
+    "py": "Jīn nián dōng tiān bǐ yǐ wǎng lěng de duō.",
+    "vi": "Mùa đông năm nay lạnh hơn trước đây nhiều.",
+    "en": "This winter is much colder than in the past."
+   },
+   {
+    "zh": "他的态度和以往完全不同。",
+    "py": "Tā de tài du hé yǐ wǎng wán quán bù tóng.",
+    "vi": "Thái độ của anh ấy hoàn toàn khác trước.",
+    "en": "His attitude is completely different from before."
+   }
+  ]
+ },
+ {
+  "h": "忍不住",
+  "lv": 5,
+  "py": "rěn bu zhù",
+  "vi": "không nhịn được; không kìm được",
+  "ex": [
+   {
+    "zh": "听了这个笑话,大家都忍不住笑了。",
+    "py": "Tīng le zhè ge xiào hua, dà jiā dōu rěn bu zhù xiào le.",
+    "vi": "Nghe chuyện cười này, ai cũng không nhịn được cười.",
+    "en": "On hearing the joke, nobody could help laughing."
+   },
+   {
+    "zh": "看到那张照片,她忍不住哭了。",
+    "py": "Kàn dào nà zhāng zhào piàn, tā rěn bu zhù kū le.",
+    "vi": "Nhìn thấy tấm ảnh đó, cô ấy không kìm được nước mắt.",
+    "en": "When she saw that photo, she couldn't help crying."
+   }
+  ]
+ },
+ {
+  "h": "贸易",
+  "lv": 5,
+  "py": "mào yì",
+  "vi": "thương mại; mậu dịch",
+  "ex": [
+   {
+    "zh": "两国之间的贸易发展得很快。",
+    "py": "Liǎng guó zhī jiān de mào yì fā zhǎn de hěn kuài.",
+    "vi": "Thương mại giữa hai nước phát triển rất nhanh.",
+    "en": "Trade between the two countries is growing rapidly."
+   },
+   {
+    "zh": "他在一家国际贸易公司上班。",
+    "py": "Tā zài yì jiā guó jì mào yì gōng sī shàng bān.",
+    "vi": "Anh ấy làm việc ở một công ty thương mại quốc tế.",
+    "en": "He works at an international trading company."
+   }
+  ]
+ },
+ {
+  "h": "子弹",
+  "lv": 5,
+  "py": "zǐ dàn",
+  "vi": "viên đạn",
+  "ex": [
+   {
+    "zh": "枪里只剩下一颗子弹了。",
+    "py": "Qiāng lǐ zhǐ shèng xià yì kē zǐ dàn le.",
+    "vi": "Trong súng chỉ còn lại một viên đạn.",
+    "en": "There is only one bullet left in the gun."
+   },
+   {
+    "zh": "医生从他腿里取出了一颗子弹。",
+    "py": "Yī shēng cóng tā tuǐ lǐ qǔ chū le yì kē zǐ dàn.",
+    "vi": "Bác sĩ đã lấy một viên đạn ra khỏi chân anh ấy.",
+    "en": "The doctor removed a bullet from his leg."
+   }
+  ]
+ },
+ {
+  "h": "染",
+  "lv": 5,
+  "py": "rǎn",
+  "vi": "nhuộm; nhiễm (bệnh, thói xấu)",
+  "ex": [
+   {
+    "zh": "她把头发染成了红色。",
+    "py": "Tā bǎ tóu fa rǎn chéng le hóng sè.",
+    "vi": "Cô ấy đã nhuộm tóc thành màu đỏ.",
+    "en": "She dyed her hair red."
+   },
+   {
+    "zh": "他在大学时染上了抽烟的坏习惯。",
+    "py": "Tā zài dà xué shí rǎn shàng le chōu yān de huài xí guàn.",
+    "vi": "Hồi đại học anh ấy đã nhiễm thói quen xấu là hút thuốc.",
+    "en": "He picked up the bad habit of smoking at university."
+   }
+  ]
+ },
+ {
+  "h": "码头",
+  "lv": 5,
+  "py": "mǎ tóu",
+  "vi": "bến tàu; bến cảng",
+  "ex": [
+   {
+    "zh": "船慢慢地离开了码头。",
+    "py": "Chuán màn màn de lí kāi le mǎ tóu.",
+    "vi": "Con tàu từ từ rời bến.",
+    "en": "The boat slowly left the dock."
+   },
+   {
+    "zh": "码头上停着很多大大小小的船。",
+    "py": "Mǎ tóu shàng tíng zhe hěn duō dà dà xiǎo xiǎo de chuán.",
+    "vi": "Ở bến có rất nhiều tàu thuyền lớn nhỏ đang đậu.",
+    "en": "Many boats of all sizes are moored at the pier."
+   }
+  ]
+ },
+ {
+  "h": "完了",
+  "lv": 5,
+  "py": "wán le",
+  "vi": "xong rồi; hỏng rồi; thôi chết",
+  "ex": [
+   {
+    "zh": "完了,我把护照忘在家里了!",
+    "py": "Wán le, wǒ bǎ hù zhào wàng zài jiā lǐ le!",
+    "vi": "Thôi chết, tôi để quên hộ chiếu ở nhà rồi!",
+    "en": "Oh no, I left my passport at home!"
+   },
+   {
+    "zh": "要是被老板发现,我们就完了。",
+    "py": "Yào shi bèi lǎo bǎn fā xiàn, wǒ men jiù wán le.",
+    "vi": "Nếu bị sếp phát hiện thì chúng ta tiêu đời.",
+    "en": "If the boss finds out, we're done for."
+   }
+  ]
+ },
+ {
+  "h": "总裁",
+  "lv": 5,
+  "py": "zǒng cái",
+  "vi": "tổng giám đốc; chủ tịch (tập đoàn)",
+  "ex": [
+   {
+    "zh": "他三十岁就当上了公司总裁。",
+    "py": "Tā sān shí suì jiù dāng shàng le gōng sī zǒng cái.",
+    "vi": "Mới ba mươi tuổi anh ấy đã lên làm tổng giám đốc công ty.",
+    "en": "He became president of the company at just thirty."
+   },
+   {
+    "zh": "总裁今天要和员工们见面。",
+    "py": "Zǒng cái jīn tiān yào hé yuán gōng men jiàn miàn.",
+    "vi": "Hôm nay tổng giám đốc sẽ gặp mặt nhân viên.",
+    "en": "The president is meeting with the staff today."
+   }
+  ]
+ },
+ {
+  "h": "超越",
+  "lv": 5,
+  "py": "chāo yuè",
+  "vi": "vượt qua; vượt lên",
+  "ex": [
+   {
+    "zh": "他希望有一天能超越自己的老师。",
+    "py": "Tā xī wàng yǒu yì tiān néng chāo yuè zì jǐ de lǎo shī.",
+    "vi": "Anh ấy hy vọng một ngày nào đó sẽ vượt qua thầy mình.",
+    "en": "He hopes to surpass his own teacher one day."
+   },
+   {
+    "zh": "真正的对手是自己,要不断超越自己。",
+    "py": "Zhēn zhèng de duì shǒu shì zì jǐ, yào bú duàn chāo yuè zì jǐ.",
+    "vi": "Đối thủ thật sự là chính mình, phải không ngừng vượt lên chính mình.",
+    "en": "Your real opponent is yourself; keep surpassing yourself."
+   }
+  ]
+ },
+ {
+  "h": "正义",
+  "lv": 5,
+  "py": "zhèng yì",
+  "vi": "chính nghĩa; công lý",
+  "ex": [
+   {
+    "zh": "他是一个很有正义感的人。",
+    "py": "Tā shì yí gè hěn yǒu zhèng yì gǎn de rén.",
+    "vi": "Anh ấy là người rất có tinh thần chính nghĩa.",
+    "en": "He is a person with a strong sense of justice."
+   },
+   {
+    "zh": "我们相信正义一定会到来。",
+    "py": "Wǒ men xiāng xìn zhèng yì yí dìng huì dào lái.",
+    "vi": "Chúng tôi tin rằng công lý nhất định sẽ đến.",
+    "en": "We believe that justice will surely come."
+   }
+  ]
+ },
+ {
+  "h": "立场",
+  "lv": 5,
+  "py": "lì chǎng",
+  "vi": "lập trường; quan điểm",
+  "ex": [
+   {
+    "zh": "请你站在我的立场上想一想。",
+    "py": "Qǐng nǐ zhàn zài wǒ de lì chǎng shàng xiǎng yi xiǎng.",
+    "vi": "Cậu hãy thử đứng ở lập trường của tôi mà nghĩ xem.",
+    "en": "Please try to think about it from my standpoint."
+   },
+   {
+    "zh": "在这个问题上,他的立场很坚定。",
+    "py": "Zài zhè ge wèn tí shàng, tā de lì chǎng hěn jiān dìng.",
+    "vi": "Về vấn đề này, lập trường của ông ấy rất kiên định.",
+    "en": "On this issue, his position is very firm."
+   }
+  ]
+ },
+ {
+  "h": "火灾",
+  "lv": 5,
+  "py": "huǒ zāi",
+  "vi": "hỏa hoạn; vụ cháy",
+  "ex": [
+   {
+    "zh": "昨天晚上那家工厂发生了火灾。",
+    "py": "Zuó tiān wǎn shang nà jiā gōng chǎng fā shēng le huǒ zāi.",
+    "vi": "Tối qua nhà máy đó đã xảy ra hỏa hoạn.",
+    "en": "A fire broke out at that factory last night."
+   },
+   {
+    "zh": "这次火灾没有造成人员受伤。",
+    "py": "Zhè cì huǒ zāi méi yǒu zào chéng rén yuán shòu shāng.",
+    "vi": "Vụ cháy lần này không gây thương tích về người.",
+    "en": "Nobody was injured in this fire."
+   }
+  ]
+ },
+ {
+  "h": "认定",
+  "lv": 5,
+  "py": "rèn dìng",
+  "vi": "cho rằng; nhận định; xác định",
+  "ex": [
+   {
+    "zh": "他认定这件事是我做的。",
+    "py": "Tā rèn dìng zhè jiàn shì shì wǒ zuò de.",
+    "vi": "Anh ta khăng khăng cho rằng việc này là do tôi làm.",
+    "en": "He is convinced that I was the one who did this."
+   },
+   {
+    "zh": "只要认定了目标,就不要放弃。",
+    "py": "Zhǐ yào rèn dìng le mù biāo, jiù bú yào fàng qì.",
+    "vi": "Chỉ cần đã xác định mục tiêu thì đừng bỏ cuộc.",
+    "en": "Once you have set your mind on a goal, don't give up."
+   }
+  ]
+ },
+ {
+  "h": "倒是",
+  "lv": 5,
+  "py": "dào shi",
+  "vi": "lại; ngược lại; thì (nhấn mạnh, giục)",
+  "ex": [
+   {
+    "zh": "房子不大,倒是挺干净的。",
+    "py": "Fáng zi bú dà, dào shi tǐng gān jìng de.",
+    "vi": "Nhà không rộng nhưng lại khá sạch sẽ.",
+    "en": "The place isn't big, but it is quite clean."
+   },
+   {
+    "zh": "你倒是说话呀,别让我着急。",
+    "py": "Nǐ dào shi shuō huà ya, bié ràng wǒ zháo jí.",
+    "vi": "Cậu nói gì đi chứ, đừng làm tôi sốt ruột.",
+    "en": "Come on, say something; don't keep me in suspense."
+   }
+  ]
+ },
+ {
+  "h": "此刻",
+  "lv": 5,
+  "py": "cǐ kè",
+  "vi": "lúc này; giờ phút này",
+  "ex": [
+   {
+    "zh": "此刻我最想见的人就是你。",
+    "py": "Cǐ kè wǒ zuì xiǎng jiàn de rén jiù shì nǐ.",
+    "vi": "Lúc này người tôi muốn gặp nhất chính là em.",
+    "en": "Right now, the person I most want to see is you."
+   },
+   {
+    "zh": "此时此刻,我的心情非常激动。",
+    "py": "Cǐ shí cǐ kè, wǒ de xīn qíng fēi cháng jī dòng.",
+    "vi": "Vào giờ phút này, lòng tôi vô cùng xúc động.",
+    "en": "At this very moment, I feel extremely emotional."
+   }
+  ]
+ },
+ {
+  "h": "向前",
+  "lv": 5,
+  "py": "xiàng qián",
+  "vi": "về phía trước; tiến lên",
+  "ex": [
+   {
+    "zh": "请大家向前走两步。",
+    "py": "Qǐng dà jiā xiàng qián zǒu liǎng bù.",
+    "vi": "Mời mọi người bước lên phía trước hai bước.",
+    "en": "Everyone, please take two steps forward."
+   },
+   {
+    "zh": "不管多难,我们都要向前看。",
+    "py": "Bù guǎn duō nán, wǒ men dōu yào xiàng qián kàn.",
+    "vi": "Dù khó đến đâu, chúng ta cũng phải nhìn về phía trước.",
+    "en": "No matter how hard it is, we must look ahead."
+   }
+  ]
+ },
+ {
+  "h": "场面",
+  "lv": 5,
+  "py": "chǎng miàn",
+  "vi": "cảnh tượng; khung cảnh; quang cảnh",
+  "ex": [
+   {
+    "zh": "婚礼的场面非常热闹。",
+    "py": "Hūn lǐ de chǎng miàn fēi cháng rè nao.",
+    "vi": "Khung cảnh đám cưới vô cùng náo nhiệt.",
+    "en": "The wedding was a very lively scene."
+   },
+   {
+    "zh": "我从来没见过这么大的场面。",
+    "py": "Wǒ cóng lái méi jiàn guo zhè me dà de chǎng miàn.",
+    "vi": "Tôi chưa bao giờ thấy cảnh tượng nào hoành tráng như vậy.",
+    "en": "I have never seen such a grand occasion."
+   }
+  ]
+ },
+ {
+  "h": "一下子",
+  "lv": 5,
+  "py": "yí xià zi",
+  "vi": "bỗng chốc; ngay lập tức; một lúc",
+  "ex": [
+   {
+    "zh": "天一下子就黑了下来。",
+    "py": "Tiān yí xià zi jiù hēi le xià lái.",
+    "vi": "Trời bỗng chốc tối sầm lại.",
+    "en": "The sky went dark all of a sudden."
+   },
+   {
+    "zh": "我一下子想不起他的名字了。",
+    "py": "Wǒ yí xià zi xiǎng bù qǐ tā de míng zi le.",
+    "vi": "Nhất thời tôi không nhớ ra tên anh ấy.",
+    "en": "I can't recall his name for the moment."
+   }
+  ]
+ },
+ {
+  "h": "脱离",
+  "lv": 5,
+  "py": "tuō lí",
+  "vi": "thoát khỏi; tách rời",
+  "ex": [
+   {
+    "zh": "病人已经脱离了危险。",
+    "py": "Bìng rén yǐ jīng tuō lí le wēi xiǎn.",
+    "vi": "Bệnh nhân đã qua cơn nguy hiểm.",
+    "en": "The patient is now out of danger."
+   },
+   {
+    "zh": "学习不能脱离实际生活。",
+    "py": "Xué xí bù néng tuō lí shí jì shēng huó.",
+    "vi": "Việc học không thể tách rời cuộc sống thực tế.",
+    "en": "Learning cannot be separated from real life."
+   }
+  ]
+ },
+ {
+  "h": "解除",
+  "lv": 5,
+  "py": "jiě chú",
+  "vi": "hủy bỏ; giải trừ; dỡ bỏ",
+  "ex": [
+   {
+    "zh": "两家公司决定解除合同。",
+    "py": "Liǎng jiā gōng sī jué dìng jiě chú hé tong.",
+    "vi": "Hai công ty quyết định hủy bỏ hợp đồng.",
+    "en": "The two companies decided to terminate the contract."
+   },
+   {
+    "zh": "危险已经解除,大家可以回家了。",
+    "py": "Wēi xiǎn yǐ jīng jiě chú, dà jiā kě yǐ huí jiā le.",
+    "vi": "Nguy hiểm đã qua, mọi người có thể về nhà.",
+    "en": "The danger has been lifted; everyone can go home."
+   }
+  ]
+ },
+ {
+  "h": "尽可能",
+  "lv": 5,
+  "py": "jǐn kě néng",
+  "vi": "hết mức có thể; cố gắng hết sức",
+  "ex": [
+   {
+    "zh": "我会尽可能早一点到。",
+    "py": "Wǒ huì jǐn kě néng zǎo yì diǎn dào.",
+    "vi": "Tôi sẽ cố gắng đến sớm nhất có thể.",
+    "en": "I will get there as early as I possibly can."
+   },
+   {
+    "zh": "请尽可能详细地介绍一下情况。",
+    "py": "Qǐng jǐn kě néng xiáng xì de jiè shào yí xià qíng kuàng.",
+    "vi": "Xin hãy trình bày tình hình càng chi tiết càng tốt.",
+    "en": "Please describe the situation in as much detail as possible."
+   }
+  ]
+ },
+ {
+  "h": "寸",
+  "lv": 5,
+  "py": "cùn",
+  "vi": "tấc (≈ 3,33 cm); inch",
+  "ex": [
+   {
+    "zh": "这台电视是五十五寸的。",
+    "py": "Zhè tái diàn shì shì wǔ shí wǔ cùn de.",
+    "vi": "Chiếc ti vi này là loại 55 inch.",
+    "en": "This television is a fifty-five-inch one."
+   },
+   {
+    "zh": "这块布比我需要的短了两寸。",
+    "py": "Zhè kuài bù bǐ wǒ xū yào de duǎn le liǎng cùn.",
+    "vi": "Mảnh vải này ngắn hơn tôi cần hai tấc.",
+    "en": "This piece of cloth is two cun shorter than I need."
+   }
+  ]
+ },
+ {
+  "h": "动机",
+  "lv": 5,
+  "py": "dòng jī",
+  "vi": "động cơ (mục đích)",
+  "ex": [
+   {
+    "zh": "警察还不清楚他这样做的动机。",
+    "py": "Jǐng chá hái bù qīng chu tā zhè yàng zuò de dòng jī.",
+    "vi": "Cảnh sát vẫn chưa rõ động cơ khiến anh ta làm vậy.",
+    "en": "The police are still unclear about his motive for doing this."
+   },
+   {
+    "zh": "他学习汉语的动机很简单。",
+    "py": "Tā xué xí Hàn yǔ de dòng jī hěn jiǎn dān.",
+    "vi": "Động cơ học tiếng Trung của anh ấy rất đơn giản.",
+    "en": "His motivation for learning Chinese is very simple."
+   }
+  ]
+ },
+ {
+  "h": "情节",
+  "lv": 5,
+  "py": "qíng jié",
+  "vi": "tình tiết; cốt truyện",
+  "ex": [
+   {
+    "zh": "这部电视剧的情节很吸引人。",
+    "py": "Zhè bù diàn shì jù de qíng jié hěn xī yǐn rén.",
+    "vi": "Tình tiết của bộ phim truyền hình này rất cuốn hút.",
+    "en": "The plot of this TV series is very gripping."
+   },
+   {
+    "zh": "小说的情节太复杂,我看不懂。",
+    "py": "Xiǎo shuō de qíng jié tài fù zá, wǒ kàn bù dǒng.",
+    "vi": "Cốt truyện của tiểu thuyết quá phức tạp, tôi đọc không hiểu.",
+    "en": "The novel's plot is too complicated for me to follow."
+   }
+  ]
+ },
+ {
+  "h": "预期",
+  "lv": 5,
+  "py": "yù qī",
+  "vi": "dự kiến; mong đợi; kỳ vọng",
+  "ex": [
+   {
+    "zh": "考试的结果比我预期的好。",
+    "py": "Kǎo shì de jié guǒ bǐ wǒ yù qī de hǎo.",
+    "vi": "Kết quả thi tốt hơn tôi dự kiến.",
+    "en": "The exam results were better than I expected."
+   },
+   {
+    "zh": "这次活动达到了预期的效果。",
+    "py": "Zhè cì huó dòng dá dào le yù qī de xiào guǒ.",
+    "vi": "Hoạt động lần này đã đạt hiệu quả như mong đợi.",
+    "en": "This event achieved the expected results."
+   }
+  ]
+ },
+ {
+  "h": "兔",
+  "lv": 5,
+  "py": "tù",
+  "vi": "thỏ",
+  "ex": [
+   {
+    "zh": "我妹妹是兔年出生的。",
+    "py": "Wǒ mèi mei shì tù nián chū shēng de.",
+    "vi": "Em gái tôi sinh năm Mão (ở Trung Quốc là năm con thỏ).",
+    "en": "My younger sister was born in the Year of the Rabbit."
+   },
+   {
+    "zh": "她养了一只白色的小兔。",
+    "py": "Tā yǎng le yì zhī bái sè de xiǎo tù.",
+    "vi": "Cô ấy nuôi một chú thỏ con màu trắng.",
+    "en": "She keeps a little white rabbit."
+   }
+  ]
+ },
+ {
+  "h": "一向",
+  "lv": 5,
+  "py": "yí xiàng",
+  "vi": "xưa nay; luôn luôn; trước giờ",
+  "ex": [
+   {
+    "zh": "他一向很准时,今天却迟到了。",
+    "py": "Tā yí xiàng hěn zhǔn shí, jīn tiān què chí dào le.",
+    "vi": "Anh ấy xưa nay rất đúng giờ, vậy mà hôm nay lại đến muộn.",
+    "en": "He has always been punctual, yet today he was late."
+   },
+   {
+    "zh": "我爸爸的身体一向很好。",
+    "py": "Wǒ bà ba de shēn tǐ yí xiàng hěn hǎo.",
+    "vi": "Sức khỏe của bố tôi trước giờ luôn rất tốt.",
+    "en": "My dad has always been in good health."
+   }
+  ]
+ },
+ {
+  "h": "天才",
+  "lv": 5,
+  "py": "tiān cái",
+  "vi": "thiên tài; tài năng thiên bẩm",
+  "ex": [
+   {
+    "zh": "大家都说他是一个音乐天才。",
+    "py": "Dà jiā dōu shuō tā shì yí gè yīn yuè tiān cái.",
+    "vi": "Ai cũng nói cậu ấy là một thiên tài âm nhạc.",
+    "en": "Everyone says he is a musical genius."
+   },
+   {
+    "zh": "天才也需要不断地努力。",
+    "py": "Tiān cái yě xū yào bú duàn de nǔ lì.",
+    "vi": "Thiên tài cũng cần không ngừng nỗ lực.",
+    "en": "Even a genius needs to keep working hard."
+   }
+  ]
+ },
+ {
+  "h": "绝望",
+  "lv": 5,
+  "py": "jué wàng",
+  "vi": "tuyệt vọng",
+  "ex": [
+   {
+    "zh": "不管多困难,都不要绝望。",
+    "py": "Bù guǎn duō kùn nan, dōu bú yào jué wàng.",
+    "vi": "Dù khó khăn đến đâu cũng đừng tuyệt vọng.",
+    "en": "No matter how hard things get, don't despair."
+   },
+   {
+    "zh": "在最绝望的时候,是朋友帮了我。",
+    "py": "Zài zuì jué wàng de shí hou, shì péng you bāng le wǒ.",
+    "vi": "Vào lúc tuyệt vọng nhất, chính bạn bè đã giúp tôi.",
+    "en": "At my most desperate moment, it was my friends who helped me."
+   }
+  ]
+ },
+ {
+  "h": "迷人",
+  "lv": 5,
+  "py": "mí rén",
+  "vi": "quyến rũ; mê hồn; hấp dẫn",
+  "ex": [
+   {
+    "zh": "春天的时候,这里的风景真迷人。",
+    "py": "Chūn tiān de shí hou, zhè lǐ de fēng jǐng zhēn mí rén.",
+    "vi": "Vào mùa xuân, phong cảnh ở đây thật mê hồn.",
+    "en": "In spring, the scenery here is truly enchanting."
+   },
+   {
+    "zh": "她笑起来的样子特别迷人。",
+    "py": "Tā xiào qǐ lái de yàng zi tè bié mí rén.",
+    "vi": "Dáng vẻ khi cười của cô ấy đặc biệt quyến rũ.",
+    "en": "She looks especially charming when she smiles."
+   }
+  ]
+ },
+ {
+  "h": "职位",
+  "lv": 5,
+  "py": "zhí wèi",
+  "vi": "chức vị; vị trí công việc",
+  "ex": [
+   {
+    "zh": "我想申请贵公司的这个职位。",
+    "py": "Wǒ xiǎng shēn qǐng guì gōng sī de zhè ge zhí wèi.",
+    "vi": "Tôi muốn ứng tuyển vị trí này ở quý công ty.",
+    "en": "I would like to apply for this position at your company."
+   },
+   {
+    "zh": "他在公司的职位越来越高。",
+    "py": "Tā zài gōng sī de zhí wèi yuè lái yuè gāo.",
+    "vi": "Chức vị của anh ấy trong công ty ngày càng cao.",
+    "en": "His position in the company keeps getting higher."
+   }
+  ]
+ },
+ {
+  "h": "骗子",
+  "lv": 5,
+  "py": "piàn zi",
+  "vi": "kẻ lừa đảo",
+  "ex": [
+   {
+    "zh": "别相信他,他是个骗子。",
+    "py": "Bié xiāng xìn tā, tā shì ge piàn zi.",
+    "vi": "Đừng tin hắn, hắn là kẻ lừa đảo.",
+    "en": "Don't trust him; he's a swindler."
+   },
+   {
+    "zh": "奶奶的钱被一个骗子骗走了。",
+    "py": "Nǎi nai de qián bèi yí gè piàn zi piàn zǒu le.",
+    "vi": "Tiền của bà đã bị một kẻ lừa đảo lừa mất.",
+    "en": "Grandma's money was taken by a con man."
+   }
+  ]
+ },
+ {
+  "h": "剧本",
+  "lv": 5,
+  "py": "jù běn",
+  "vi": "kịch bản",
+  "ex": [
+   {
+    "zh": "这部电影的剧本是他写的。",
+    "py": "Zhè bù diàn yǐng de jù běn shì tā xiě de.",
+    "vi": "Kịch bản của bộ phim này do anh ấy viết.",
+    "en": "He wrote the screenplay for this film."
+   },
+   {
+    "zh": "演员们正在认真地读剧本。",
+    "py": "Yǎn yuán men zhèng zài rèn zhēn de dú jù běn.",
+    "vi": "Các diễn viên đang chăm chú đọc kịch bản.",
+    "en": "The actors are reading the script carefully."
+   }
+  ]
+ },
+ {
+  "h": "干扰",
+  "lv": 5,
+  "py": "gān rǎo",
+  "vi": "quấy rầy; làm nhiễu; can thiệp",
+  "ex": [
+   {
+    "zh": "他在学习,请不要干扰他。",
+    "py": "Tā zài xué xí, qǐng bú yào gān rǎo tā.",
+    "vi": "Cậu ấy đang học, xin đừng quấy rầy.",
+    "en": "He is studying; please don't disturb him."
+   },
+   {
+    "zh": "外面的声音干扰了我们的工作。",
+    "py": "Wài miàn de shēng yīn gān rǎo le wǒ men de gōng zuò.",
+    "vi": "Tiếng ồn bên ngoài đã làm ảnh hưởng đến công việc của chúng tôi.",
+    "en": "The noise outside interfered with our work."
+   }
+  ]
+ },
+ {
+  "h": "干脆",
+  "lv": 5,
+  "py": "gān cuì",
+  "vi": "dứt khoát; thẳng thắn; thôi thì",
+  "ex": [
+   {
+    "zh": "他做事很干脆,从不浪费时间。",
+    "py": "Tā zuò shì hěn gān cuì, cóng bù làng fèi shí jiān.",
+    "vi": "Anh ấy làm việc rất dứt khoát, không bao giờ lãng phí thời gian.",
+    "en": "He is decisive in what he does and never wastes time."
+   },
+   {
+    "zh": "雨这么大,我们干脆别去了。",
+    "py": "Yǔ zhè me dà, wǒ men gān cuì bié qù le.",
+    "vi": "Mưa to thế này, thôi thì chúng ta đừng đi nữa.",
+    "en": "It's raining so hard; let's just not go."
+   }
+  ]
+ },
+ {
+  "h": "联络",
+  "lv": 5,
+  "py": "lián luò",
+  "vi": "liên lạc",
+  "ex": [
+   {
+    "zh": "毕业以后,我们一直保持联络。",
+    "py": "Bì yè yǐ hòu, wǒ men yì zhí bǎo chí lián luò.",
+    "vi": "Sau khi tốt nghiệp, chúng tôi vẫn luôn giữ liên lạc.",
+    "en": "We have stayed in touch ever since graduation."
+   },
+   {
+    "zh": "有问题可以随时跟我联络。",
+    "py": "Yǒu wèn tí kě yǐ suí shí gēn wǒ lián luò.",
+    "vi": "Có vấn đề gì cứ liên lạc với tôi bất cứ lúc nào.",
+    "en": "If you have any problems, contact me at any time."
+   }
+  ]
+ },
+ {
+  "h": "忍受",
+  "lv": 5,
+  "py": "rěn shòu",
+  "vi": "chịu đựng; nhẫn nhịn",
+  "ex": [
+   {
+    "zh": "我无法忍受这么热的天气。",
+    "py": "Wǒ wú fǎ rěn shòu zhè me rè de tiān qì.",
+    "vi": "Tôi không thể chịu nổi thời tiết nóng thế này.",
+    "en": "I can't stand such hot weather."
+   },
+   {
+    "zh": "他忍受着痛苦完成了比赛。",
+    "py": "Tā rěn shòu zhe tòng kǔ wán chéng le bǐ sài.",
+    "vi": "Anh ấy chịu đựng cơn đau để hoàn thành cuộc thi.",
+    "en": "He endured the pain and finished the race."
+   }
+  ]
+ },
+ {
+  "h": "漫画",
+  "lv": 5,
+  "py": "màn huà",
+  "vi": "truyện tranh; tranh biếm họa",
+  "ex": [
+   {
+    "zh": "弟弟最喜欢看日本漫画。",
+    "py": "Dì di zuì xǐ huan kàn Rì běn màn huà.",
+    "vi": "Em trai tôi thích đọc truyện tranh Nhật Bản nhất.",
+    "en": "My younger brother loves reading Japanese manga the most."
+   },
+   {
+    "zh": "这本漫画的故事很有意思。",
+    "py": "Zhè běn màn huà de gù shi hěn yǒu yì si.",
+    "vi": "Cốt truyện của cuốn truyện tranh này rất thú vị.",
+    "en": "The story in this comic book is very interesting."
+   }
+  ]
+ },
+ {
+  "h": "继承",
+  "lv": 5,
+  "py": "jì chéng",
+  "vi": "thừa kế; kế thừa",
+  "ex": [
+   {
+    "zh": "他继承了父亲的公司。",
+    "py": "Tā jì chéng le fù qīn de gōng sī.",
+    "vi": "Anh ấy đã thừa kế công ty của bố.",
+    "en": "He inherited his father's company."
+   },
+   {
+    "zh": "我们应该继承这些优秀的传统。",
+    "py": "Wǒ men yīng gāi jì chéng zhè xiē yōu xiù de chuán tǒng.",
+    "vi": "Chúng ta nên kế thừa những truyền thống tốt đẹp này.",
+    "en": "We should carry on these fine traditions."
+   }
+  ]
+ },
+ {
+  "h": "也好",
+  "lv": 5,
+  "py": "yě hǎo",
+  "vi": "cũng được; cũng tốt; dù... hay...",
+  "ex": [
+   {
+    "zh": "你不想去也好,在家休息吧。",
+    "py": "Nǐ bù xiǎng qù yě hǎo, zài jiā xiū xi ba.",
+    "vi": "Cậu không muốn đi cũng được, ở nhà nghỉ ngơi đi.",
+    "en": "It's fine if you don't want to go; just rest at home."
+   },
+   {
+    "zh": "让孩子吃点苦也好,可以学会独立。",
+    "py": "Ràng hái zi chī diǎn kǔ yě hǎo, kě yǐ xué huì dú lì.",
+    "vi": "Để con chịu khổ một chút cũng tốt, nó sẽ học được cách tự lập.",
+    "en": "It's no bad thing for a child to face some hardship; it teaches independence."
+   }
+  ]
+ },
+ {
+  "h": "偷偷",
+  "lv": 5,
+  "py": "tōu tōu",
+  "vi": "lén lút; vụng trộm",
+  "ex": [
+   {
+    "zh": "他偷偷地把礼物放在了她的桌上。",
+    "py": "Tā tōu tōu de bǎ lǐ wù fàng zài le tā de zhuō shàng.",
+    "vi": "Anh ấy lén đặt món quà lên bàn của cô ấy.",
+    "en": "He secretly put the gift on her desk."
+   },
+   {
+    "zh": "孩子偷偷拿妈妈的手机玩游戏。",
+    "py": "Hái zi tōu tōu ná mā ma de shǒu jī wán yóu xì.",
+    "vi": "Đứa bé lén lấy điện thoại của mẹ để chơi game.",
+    "en": "The child sneakily took Mum's phone to play games."
+   }
+  ]
+ },
+ {
+  "h": "决不",
+  "lv": 5,
+  "py": "jué bù",
+  "vi": "quyết không; nhất định không",
+  "ex": [
+   {
+    "zh": "不管多难,我决不放弃。",
+    "py": "Bù guǎn duō nán, wǒ jué bú fàng qì.",
+    "vi": "Dù khó đến đâu, tôi quyết không bỏ cuộc.",
+    "en": "No matter how hard it is, I will never give up."
+   },
+   {
+    "zh": "我们决不能再犯同样的错误。",
+    "py": "Wǒ men jué bù néng zài fàn tóng yàng de cuò wù.",
+    "vi": "Chúng ta tuyệt đối không được phạm lại sai lầm tương tự.",
+    "en": "We must never make the same mistake again."
+   }
+  ]
+ },
+ {
+  "h": "依旧",
+  "lv": 5,
+  "py": "yī jiù",
+  "vi": "vẫn như cũ; vẫn",
+  "ex": [
+   {
+    "zh": "十年过去了,这里依旧很美。",
+    "py": "Shí nián guò qù le, zhè lǐ yī jiù hěn měi.",
+    "vi": "Mười năm trôi qua, nơi đây vẫn đẹp như xưa.",
+    "en": "Ten years have passed, and this place is still beautiful."
+   },
+   {
+    "zh": "虽然很累,他依旧坚持工作。",
+    "py": "Suī rán hěn lèi, tā yī jiù jiān chí gōng zuò.",
+    "vi": "Tuy rất mệt, anh ấy vẫn kiên trì làm việc.",
+    "en": "Although very tired, he still kept on working."
+   }
+  ]
+ },
+ {
+  "h": "强迫",
+  "lv": 5,
+  "py": "qiǎng pò",
+  "vi": "ép buộc; cưỡng ép",
+  "ex": [
+   {
+    "zh": "父母不应该强迫孩子学钢琴。",
+    "py": "Fù mǔ bù yīng gāi qiǎng pò hái zi xué gāng qín.",
+    "vi": "Cha mẹ không nên ép con học đàn piano.",
+    "en": "Parents shouldn't force their children to learn the piano."
+   },
+   {
+    "zh": "没有人强迫你,这是你自己选的。",
+    "py": "Méi yǒu rén qiǎng pò nǐ, zhè shì nǐ zì jǐ xuǎn de.",
+    "vi": "Không ai ép cậu cả, đây là do cậu tự chọn.",
+    "en": "Nobody forced you; this was your own choice."
+   }
+  ]
+ },
+ {
+  "h": "回顾",
+  "lv": 5,
+  "py": "huí gù",
+  "vi": "nhìn lại; hồi tưởng; điểm lại",
+  "ex": [
+   {
+    "zh": "回顾过去的一年,我学到了很多。",
+    "py": "Huí gù guò qù de yì nián, wǒ xué dào le hěn duō.",
+    "vi": "Nhìn lại một năm qua, tôi đã học được rất nhiều.",
+    "en": "Looking back on the past year, I have learned a lot."
+   },
+   {
+    "zh": "会议开始时,经理回顾了去年的工作。",
+    "py": "Huì yì kāi shǐ shí, jīng lǐ huí gù le qù nián de gōng zuò.",
+    "vi": "Đầu cuộc họp, giám đốc đã điểm lại công việc năm ngoái.",
+    "en": "At the start of the meeting, the manager reviewed last year's work."
+   }
+  ]
+ },
+ {
+  "h": "肩",
+  "lv": 5,
+  "py": "jiān",
+  "vi": "vai; gánh vác",
+  "ex": [
+   {
+    "zh": "他把手放在我的肩上。",
+    "py": "Tā bǎ shǒu fàng zài wǒ de jiān shàng.",
+    "vi": "Anh ấy đặt tay lên vai tôi.",
+    "en": "He put his hand on my shoulder."
+   },
+   {
+    "zh": "两个人肩并肩地走在路上。",
+    "py": "Liǎng gè rén jiān bìng jiān de zǒu zài lù shàng.",
+    "vi": "Hai người vai kề vai bước đi trên đường.",
+    "en": "The two of them walked down the road shoulder to shoulder."
+   }
+  ]
+ },
+ {
+  "h": "前提",
+  "lv": 5,
+  "py": "qián tí",
+  "vi": "tiền đề; điều kiện tiên quyết",
+  "ex": [
+   {
+    "zh": "互相信任是合作的前提。",
+    "py": "Hù xiāng xìn rèn shì hé zuò de qián tí.",
+    "vi": "Tin tưởng lẫn nhau là tiền đề của hợp tác.",
+    "en": "Mutual trust is the prerequisite for cooperation."
+   },
+   {
+    "zh": "在保证安全的前提下,可以快一点。",
+    "py": "Zài bǎo zhèng ān quán de qián tí xià, kě yǐ kuài yì diǎn.",
+    "vi": "Với điều kiện bảo đảm an toàn, có thể làm nhanh hơn một chút.",
+    "en": "Provided safety is ensured, you can go a bit faster."
+   }
+  ]
+ },
+ {
+  "h": "模仿",
+  "lv": 5,
+  "py": "mó fǎng",
+  "vi": "bắt chước; mô phỏng",
+  "ex": [
+   {
+    "zh": "小孩子喜欢模仿大人说话。",
+    "py": "Xiǎo hái zi xǐ huan mó fǎng dà rén shuō huà.",
+    "vi": "Trẻ nhỏ thích bắt chước người lớn nói chuyện.",
+    "en": "Little children like to imitate the way adults talk."
+   },
+   {
+    "zh": "他模仿老师的声音,特别像。",
+    "py": "Tā mó fǎng lǎo shī de shēng yīn, tè bié xiàng.",
+    "vi": "Cậu ấy bắt chước giọng thầy giáo, giống vô cùng.",
+    "en": "He imitates the teacher's voice, and it sounds just like him."
+   }
+  ]
+ },
+ {
+  "h": "自豪",
+  "lv": 5,
+  "py": "zì háo",
+  "vi": "tự hào",
+  "ex": [
+   {
+    "zh": "父母为他的成功感到自豪。",
+    "py": "Fù mǔ wèi tā de chéng gōng gǎn dào zì háo.",
+    "vi": "Cha mẹ cảm thấy tự hào về thành công của anh ấy.",
+    "en": "His parents are proud of his success."
+   },
+   {
+    "zh": "我为自己是这个团队的一员而自豪。",
+    "py": "Wǒ wèi zì jǐ shì zhè ge tuán duì de yì yuán ér zì háo.",
+    "vi": "Tôi tự hào vì mình là một thành viên của đội này.",
+    "en": "I am proud to be a member of this team."
+   }
+  ]
+ },
+ {
+  "h": "福利",
+  "lv": 5,
+  "py": "fú lì",
+  "vi": "phúc lợi",
+  "ex": [
+   {
+    "zh": "这家公司的工资和福利都很好。",
+    "py": "Zhè jiā gōng sī de gōng zī hé fú lì dōu hěn hǎo.",
+    "vi": "Lương và phúc lợi của công ty này đều rất tốt.",
+    "en": "Both the pay and the benefits at this company are very good."
+   },
+   {
+    "zh": "政府很关心老年人的福利。",
+    "py": "Zhèng fǔ hěn guān xīn lǎo nián rén de fú lì.",
+    "vi": "Chính phủ rất quan tâm đến phúc lợi của người cao tuổi.",
+    "en": "The government cares a great deal about the welfare of the elderly."
+   }
+  ]
+ },
+ {
+  "h": "手法",
+  "lv": 5,
+  "py": "shǒu fǎ",
+  "vi": "thủ pháp; cách thức; mánh khóe",
+  "ex": [
+   {
+    "zh": "这位画家的表现手法很特别。",
+    "py": "Zhè wèi huà jiā de biǎo xiàn shǒu fǎ hěn tè bié.",
+    "vi": "Thủ pháp thể hiện của họa sĩ này rất đặc biệt.",
+    "en": "This painter's technique of expression is very distinctive."
+   },
+   {
+    "zh": "骗子常常用同样的手法骗人。",
+    "py": "Piàn zi cháng cháng yòng tóng yàng de shǒu fǎ piàn rén.",
+    "vi": "Kẻ lừa đảo thường dùng cùng một mánh khóe để lừa người.",
+    "en": "Swindlers often use the same tricks to cheat people."
+   }
+  ]
+ },
+ {
+  "h": "指责",
+  "lv": 5,
+  "py": "zhǐ zé",
+  "vi": "chỉ trích; trách móc",
+  "ex": [
+   {
+    "zh": "出了问题,不要只指责别人。",
+    "py": "Chū le wèn tí, bú yào zhǐ zhǐ zé bié rén.",
+    "vi": "Khi xảy ra vấn đề, đừng chỉ biết trách người khác.",
+    "en": "When something goes wrong, don't just blame others."
+   },
+   {
+    "zh": "他受到了很多人的指责。",
+    "py": "Tā shòu dào le hěn duō rén de zhǐ zé.",
+    "vi": "Anh ấy đã bị rất nhiều người chỉ trích.",
+    "en": "He was criticised by many people."
+   }
+  ]
+ },
+ {
+  "h": "闯",
+  "lv": 5,
+  "py": "chuǎng",
+  "vi": "xông vào; vượt (đèn đỏ); bươn chải",
+  "ex": [
+   {
+    "zh": "他没敲门就闯进了办公室。",
+    "py": "Tā méi qiāo mén jiù chuǎng jìn le bàn gōng shì.",
+    "vi": "Anh ta không gõ cửa mà xông thẳng vào văn phòng.",
+    "en": "He burst into the office without knocking."
+   },
+   {
+    "zh": "开车的时候千万不能闯红灯。",
+    "py": "Kāi chē de shí hou qiān wàn bù néng chuǎng hóng dēng.",
+    "vi": "Khi lái xe tuyệt đối không được vượt đèn đỏ.",
+    "en": "You must never run a red light when driving."
+   }
+  ]
+ },
+ {
+  "h": "处在",
+  "lv": 5,
+  "py": "chǔ zài",
+  "vi": "ở vào; đang ở (tình trạng, vị trí)",
+  "ex": [
+   {
+    "zh": "公司现在处在最困难的时期。",
+    "py": "Gōng sī xiàn zài chǔ zài zuì kùn nan de shí qī.",
+    "vi": "Công ty hiện đang ở vào giai đoạn khó khăn nhất.",
+    "en": "The company is now in its most difficult period."
+   },
+   {
+    "zh": "这个项目还处在准备阶段。",
+    "py": "Zhè ge xiàng mù hái chǔ zài zhǔn bèi jiē duàn.",
+    "vi": "Dự án này vẫn đang ở giai đoạn chuẩn bị.",
+    "en": "This project is still at the preparation stage."
+   }
+  ]
+ },
+ {
+  "h": "困扰",
+  "lv": 5,
+  "py": "kùn rǎo",
+  "vi": "làm phiền muộn; quấy nhiễu; nỗi băn khoăn",
+  "ex": [
+   {
+    "zh": "这个问题困扰了我很长时间。",
+    "py": "Zhè ge wèn tí kùn rǎo le wǒ hěn cháng shí jiān.",
+    "vi": "Vấn đề này đã làm tôi phiền muộn rất lâu.",
+    "en": "This problem has troubled me for a long time."
+   },
+   {
+    "zh": "睡不好觉给他带来了很大的困扰。",
+    "py": "Shuì bù hǎo jiào gěi tā dài lái le hěn dà de kùn rǎo.",
+    "vi": "Việc ngủ không ngon gây cho anh ấy rất nhiều phiền toái.",
+    "en": "Sleeping badly has caused him a great deal of distress."
+   }
+  ]
+ },
+ {
+  "h": "优先",
+  "lv": 5,
+  "py": "yōu xiān",
+  "vi": "ưu tiên",
+  "ex": [
+   {
+    "zh": "请让老人和孩子优先上车。",
+    "py": "Qǐng ràng lǎo rén hé hái zi yōu xiān shàng chē.",
+    "vi": "Xin hãy để người già và trẻ em lên xe trước.",
+    "en": "Please let the elderly and children board first."
+   },
+   {
+    "zh": "有工作经验的人优先考虑。",
+    "py": "Yǒu gōng zuò jīng yàn de rén yōu xiān kǎo lǜ.",
+    "vi": "Ưu tiên xem xét người có kinh nghiệm làm việc.",
+    "en": "Priority will be given to people with work experience."
+   }
+  ]
+ },
+ {
+  "h": "紧紧",
+  "lv": 5,
+  "py": "jǐn jǐn",
+  "vi": "chặt; sát; khăng khít",
+  "ex": [
+   {
+    "zh": "妈妈紧紧地抱着自己的孩子。",
+    "py": "Mā ma jǐn jǐn de bào zhe zì jǐ de hái zi.",
+    "vi": "Người mẹ ôm chặt đứa con của mình.",
+    "en": "The mother held her child tightly."
+   },
+   {
+    "zh": "他紧紧地握住了我的手。",
+    "py": "Tā jǐn jǐn de wò zhù le wǒ de shǒu.",
+    "vi": "Anh ấy nắm chặt lấy tay tôi.",
+    "en": "He gripped my hand tightly."
+   }
+  ]
+ },
+ {
+  "h": "部位",
+  "lv": 5,
+  "py": "bù wèi",
+  "vi": "bộ phận; vị trí (trên cơ thể)",
+  "ex": [
+   {
+    "zh": "请告诉医生你哪个部位不舒服。",
+    "py": "Qǐng gào su yī shēng nǐ nǎ ge bù wèi bù shū fu.",
+    "vi": "Hãy nói với bác sĩ bạn khó chịu ở chỗ nào.",
+    "en": "Please tell the doctor which part of your body hurts."
+   },
+   {
+    "zh": "他受伤的部位是左腿。",
+    "py": "Tā shòu shāng de bù wèi shì zuǒ tuǐ.",
+    "vi": "Chỗ anh ấy bị thương là chân trái.",
+    "en": "The part he injured is his left leg."
+   }
+  ]
+ },
+ {
+  "h": "献",
+  "lv": 5,
+  "py": "xiàn",
+  "vi": "dâng; tặng; hiến",
+  "ex": [
+   {
+    "zh": "学生们给老师献上了鲜花。",
+    "py": "Xué shēng men gěi lǎo shī xiàn shàng le xiān huā.",
+    "vi": "Các học sinh đã dâng hoa tươi tặng thầy cô.",
+    "en": "The students presented flowers to their teacher."
+   },
+   {
+    "zh": "他每年都去医院献一次血。",
+    "py": "Tā měi nián dōu qù yī yuàn xiàn yí cì xuè.",
+    "vi": "Năm nào anh ấy cũng đến bệnh viện hiến máu một lần.",
+    "en": "He goes to the hospital to donate blood once every year."
+   }
+  ]
+ },
+ {
+  "h": "意志",
+  "lv": 5,
+  "py": "yì zhì",
+  "vi": "ý chí",
+  "ex": [
+   {
+    "zh": "他的意志很坚强,从不放弃。",
+    "py": "Tā de yì zhì hěn jiān qiáng, cóng bú fàng qì.",
+    "vi": "Ý chí của anh ấy rất kiên cường, không bao giờ bỏ cuộc.",
+    "en": "He has a strong will and never gives up."
+   },
+   {
+    "zh": "长跑可以锻炼一个人的意志。",
+    "py": "Cháng pǎo kě yǐ duàn liàn yí gè rén de yì zhì.",
+    "vi": "Chạy đường dài có thể rèn luyện ý chí của một người.",
+    "en": "Long-distance running can strengthen a person's willpower."
+   }
+  ]
+ },
+ {
+  "h": "坚定",
+  "lv": 5,
+  "py": "jiān dìng",
+  "vi": "kiên định; vững vàng",
+  "ex": [
+   {
+    "zh": "她坚定地相信自己能成功。",
+    "py": "Tā jiān dìng de xiāng xìn zì jǐ néng chéng gōng.",
+    "vi": "Cô ấy tin chắc rằng mình sẽ thành công.",
+    "en": "She firmly believes that she can succeed."
+   },
+   {
+    "zh": "他的态度很坚定,谁也劝不了。",
+    "py": "Tā de tài du hěn jiān dìng, shéi yě quàn bù liǎo.",
+    "vi": "Thái độ của anh ấy rất kiên quyết, không ai khuyên nổi.",
+    "en": "His attitude is resolute, and no one can talk him out of it."
+   }
+  ]
+ },
+ {
+  "h": "许可",
+  "lv": 5,
+  "py": "xǔ kě",
+  "vi": "cho phép; sự cho phép",
+  "ex": [
+   {
+    "zh": "没有老师的许可,不能离开教室。",
+    "py": "Méi yǒu lǎo shī de xǔ kě, bù néng lí kāi jiào shì.",
+    "vi": "Chưa được thầy cô cho phép thì không được rời lớp.",
+    "en": "You may not leave the classroom without the teacher's permission."
+   },
+   {
+    "zh": "如果时间许可,我想多住几天。",
+    "py": "Rú guǒ shí jiān xǔ kě, wǒ xiǎng duō zhù jǐ tiān.",
+    "vi": "Nếu thời gian cho phép, tôi muốn ở thêm vài ngày.",
+    "en": "If time permits, I'd like to stay a few more days."
+   }
+  ]
+ },
+ {
+  "h": "灾难",
+  "lv": 5,
+  "py": "zāi nàn",
+  "vi": "tai họa; thảm họa",
+  "ex": [
+   {
+    "zh": "这场灾难让很多人失去了家。",
+    "py": "Zhè chǎng zāi nàn ràng hěn duō rén shī qù le jiā.",
+    "vi": "Thảm họa này đã khiến nhiều người mất nhà cửa.",
+    "en": "This disaster left many people homeless."
+   },
+   {
+    "zh": "面对灾难,大家互相帮助。",
+    "py": "Miàn duì zāi nàn, dà jiā hù xiāng bāng zhù.",
+    "vi": "Đối mặt với thảm họa, mọi người giúp đỡ lẫn nhau.",
+    "en": "In the face of disaster, everyone helped one another."
+   }
+  ]
+ },
+ {
+  "h": "以便",
+  "lv": 5,
+  "py": "yǐ biàn",
+  "vi": "để; để tiện",
+  "ex": [
+   {
+    "zh": "请留下电话,以便我们联系您。",
+    "py": "Qǐng liú xià diàn huà, yǐ biàn wǒ men lián xì nín.",
+    "vi": "Xin để lại số điện thoại để chúng tôi tiện liên hệ với ông/bà.",
+    "en": "Please leave your phone number so that we can contact you."
+   },
+   {
+    "zh": "我早点出门,以便能赶上火车。",
+    "py": "Wǒ zǎo diǎn chū mén, yǐ biàn néng gǎn shàng huǒ chē.",
+    "vi": "Tôi ra khỏi nhà sớm một chút để kịp chuyến tàu.",
+    "en": "I'm leaving early so that I can catch the train."
+   }
+  ]
+ },
+ {
+  "h": "军人",
+  "lv": 5,
+  "py": "jūn rén",
+  "vi": "quân nhân; bộ đội",
+  "ex": [
+   {
+    "zh": "他从小就想当一名军人。",
+    "py": "Tā cóng xiǎo jiù xiǎng dāng yì míng jūn rén.",
+    "vi": "Từ nhỏ cậu ấy đã muốn trở thành quân nhân.",
+    "en": "He has wanted to be a soldier since he was a child."
+   },
+   {
+    "zh": "她的丈夫是军人,很少回家。",
+    "py": "Tā de zhàng fu shì jūn rén, hěn shǎo huí jiā.",
+    "vi": "Chồng chị ấy là quân nhân nên rất ít khi về nhà.",
+    "en": "Her husband is a soldier and seldom comes home."
+   }
+  ]
+ },
+ {
+  "h": "修复",
+  "lv": 5,
+  "py": "xiū fù",
+  "vi": "sửa chữa; khôi phục; phục chế",
+  "ex": [
+   {
+    "zh": "这座老房子已经修复好了。",
+    "py": "Zhè zuò lǎo fáng zi yǐ jīng xiū fù hǎo le.",
+    "vi": "Ngôi nhà cổ này đã được trùng tu xong.",
+    "en": "This old house has now been restored."
+   },
+   {
+    "zh": "工程师很快就修复了这个错误。",
+    "py": "Gōng chéng shī hěn kuài jiù xiū fù le zhè ge cuò wù.",
+    "vi": "Kỹ sư đã nhanh chóng sửa được lỗi này.",
+    "en": "The engineer quickly fixed this error."
+   }
+  ]
+ },
+ {
+  "h": "竞赛",
+  "lv": 5,
+  "py": "jìng sài",
+  "vi": "cuộc thi; thi đua",
+  "ex": [
+   {
+    "zh": "他在全国数学竞赛中得了第一名。",
+    "py": "Tā zài quán guó shù xué jìng sài zhōng dé le dì yī míng.",
+    "vi": "Cậu ấy giành giải nhất trong cuộc thi toán toàn quốc.",
+    "en": "He won first place in the national maths competition."
+   },
+   {
+    "zh": "学校每年举行一次知识竞赛。",
+    "py": "Xué xiào měi nián jǔ xíng yí cì zhī shi jìng sài.",
+    "vi": "Mỗi năm trường tổ chức một cuộc thi kiến thức.",
+    "en": "The school holds a knowledge contest once a year."
+   }
+  ]
+ },
+ {
+  "h": "逃跑",
+  "lv": 5,
+  "py": "táo pǎo",
+  "vi": "chạy trốn; bỏ trốn",
+  "ex": [
+   {
+    "zh": "小偷看见警察就马上逃跑了。",
+    "py": "Xiǎo tōu kàn jiàn jǐng chá jiù mǎ shàng táo pǎo le.",
+    "vi": "Tên trộm thấy cảnh sát là lập tức bỏ chạy.",
+    "en": "The thief ran away as soon as he saw the police."
+   },
+   {
+    "zh": "遇到问题不能只想着逃跑。",
+    "py": "Yù dào wèn tí bù néng zhǐ xiǎng zhe táo pǎo.",
+    "vi": "Gặp vấn đề không thể chỉ nghĩ đến chuyện trốn chạy.",
+    "en": "When you run into problems, you can't just think of running away."
+   }
+  ]
+ },
+ {
+  "h": "自愿",
+  "lv": 5,
+  "py": "zì yuàn",
+  "vi": "tự nguyện",
+  "ex": [
+   {
+    "zh": "这次活动大家都是自愿参加的。",
+    "py": "Zhè cì huó dòng dà jiā dōu shì zì yuàn cān jiā de.",
+    "vi": "Hoạt động lần này mọi người đều tự nguyện tham gia.",
+    "en": "Everyone took part in this activity voluntarily."
+   },
+   {
+    "zh": "他自愿留下来帮我们的忙。",
+    "py": "Tā zì yuàn liú xià lái bāng wǒ men de máng.",
+    "vi": "Anh ấy tự nguyện ở lại giúp chúng tôi.",
+    "en": "He volunteered to stay behind and help us."
+   }
+  ]
+ },
+ {
+  "h": "原始",
+  "lv": 5,
+  "py": "yuán shǐ",
+  "vi": "nguyên thủy; ban đầu; gốc",
+  "ex": [
+   {
+    "zh": "请保存好这些原始数据。",
+    "py": "Qǐng bǎo cún hǎo zhè xiē yuán shǐ shù jù.",
+    "vi": "Xin hãy lưu giữ cẩn thận những dữ liệu gốc này.",
+    "en": "Please keep these original data safe."
+   },
+   {
+    "zh": "那里的人还过着很原始的生活。",
+    "py": "Nà lǐ de rén hái guò zhe hěn yuán shǐ de shēng huó.",
+    "vi": "Người dân ở đó vẫn sống một cuộc sống rất nguyên thủy.",
+    "en": "The people there still live a very primitive life."
+   }
+  ]
+ },
+ {
+  "h": "总算",
+  "lv": 5,
+  "py": "zǒng suàn",
+  "vi": "cuối cùng cũng; rốt cuộc; nhìn chung",
+  "ex": [
+   {
+    "zh": "下了一个星期的雨,今天总算晴了。",
+    "py": "Xià le yí gè xīng qī de yǔ, jīn tiān zǒng suàn qíng le.",
+    "vi": "Mưa suốt một tuần, hôm nay cuối cùng trời cũng nắng.",
+    "en": "After a week of rain, it has finally cleared up today."
+   },
+   {
+    "zh": "我找了半天,总算找到了钥匙。",
+    "py": "Wǒ zhǎo le bàn tiān, zǒng suàn zhǎo dào le yào shi.",
+    "vi": "Tôi tìm mãi, cuối cùng cũng tìm thấy chìa khóa.",
+    "en": "I searched for ages and finally found the keys."
+   }
+  ]
+ },
+ {
+  "h": "转换",
+  "lv": 5,
+  "py": "zhuǎn huàn",
+  "vi": "chuyển đổi; thay đổi",
+  "ex": [
+   {
+    "zh": "你可以把这个文件转换成别的格式。",
+    "py": "Nǐ kě yǐ bǎ zhè ge wén jiàn zhuǎn huàn chéng bié de gé shì.",
+    "vi": "Bạn có thể chuyển tệp này sang định dạng khác.",
+    "en": "You can convert this file into another format."
+   },
+   {
+    "zh": "出去走走,转换一下心情吧。",
+    "py": "Chū qù zǒu zou, zhuǎn huàn yí xià xīn qíng ba.",
+    "vi": "Ra ngoài đi dạo một chút cho thay đổi tâm trạng đi.",
+    "en": "Go out for a walk and change your mood."
+   }
+  ]
+ },
+ {
+  "h": "收购",
+  "lv": 5,
+  "py": "shōu gòu",
+  "vi": "thu mua; mua lại (công ty)",
+  "ex": [
+   {
+    "zh": "这家大公司收购了三家小公司。",
+    "py": "Zhè jiā dà gōng sī shōu gòu le sān jiā xiǎo gōng sī.",
+    "vi": "Công ty lớn này đã mua lại ba công ty nhỏ.",
+    "en": "This big company acquired three small companies."
+   },
+   {
+    "zh": "他们每年秋天来村里收购苹果。",
+    "py": "Tā men měi nián qiū tiān lái cūn lǐ shōu gòu píng guǒ.",
+    "vi": "Mỗi mùa thu họ đều về làng thu mua táo.",
+    "en": "They come to the village every autumn to buy up apples."
+   }
+  ]
+ },
+ {
+  "h": "保卫",
+  "lv": 5,
+  "py": "bǎo wèi",
+  "vi": "bảo vệ; giữ gìn",
+  "ex": [
+   {
+    "zh": "军人的责任是保卫国家。",
+    "py": "Jūn rén de zé rèn shì bǎo wèi guó jiā.",
+    "vi": "Trách nhiệm của quân nhân là bảo vệ đất nước.",
+    "en": "A soldier's duty is to defend the country."
+   },
+   {
+    "zh": "我们每个人都应该保卫自己的家。",
+    "py": "Wǒ men měi gè rén dōu yīng gāi bǎo wèi zì jǐ de jiā.",
+    "vi": "Mỗi chúng ta đều nên bảo vệ ngôi nhà của mình.",
+    "en": "Every one of us should defend our own home."
+   }
+  ]
+ },
+ {
+  "h": "眼光",
+  "lv": 5,
+  "py": "yǎn guāng",
+  "vi": "ánh mắt; con mắt nhìn; tầm nhìn",
+  "ex": [
+   {
+    "zh": "你的眼光真好,这件衣服很漂亮。",
+    "py": "Nǐ de yǎn guāng zhēn hǎo, zhè jiàn yī fu hěn piào liang.",
+    "vi": "Cậu có mắt thẩm mỹ thật, bộ đồ này rất đẹp.",
+    "en": "You have really good taste; this outfit is beautiful."
+   },
+   {
+    "zh": "做生意要有长远的眼光。",
+    "py": "Zuò shēng yi yào yǒu cháng yuǎn de yǎn guāng.",
+    "vi": "Làm ăn kinh doanh phải có tầm nhìn dài hạn.",
+    "en": "In business you need to have long-term vision."
+   }
+  ]
+ },
+ {
+  "h": "一流",
+  "lv": 5,
+  "py": "yì liú",
+  "vi": "hạng nhất; hàng đầu",
+  "ex": [
+   {
+    "zh": "这家饭店的服务是一流的。",
+    "py": "Zhè jiā fàn diàn de fú wù shì yì liú de.",
+    "vi": "Dịch vụ của khách sạn này thuộc hàng nhất.",
+    "en": "The service at this hotel is first-class."
+   },
+   {
+    "zh": "他毕业于国内一流的大学。",
+    "py": "Tā bì yè yú guó nèi yì liú de dà xué.",
+    "vi": "Anh ấy tốt nghiệp một trường đại học hàng đầu trong nước.",
+    "en": "He graduated from one of the country's top universities."
+   }
+  ]
+ },
+ {
+  "h": "光荣",
+  "lv": 5,
+  "py": "guāng róng",
+  "vi": "vinh quang; vẻ vang; vinh dự",
+  "ex": [
+   {
+    "zh": "能代表学校参加比赛,我感到很光荣。",
+    "py": "Néng dài biǎo xué xiào cān jiā bǐ sài, wǒ gǎn dào hěn guāng róng.",
+    "vi": "Được thay mặt trường đi thi đấu, tôi cảm thấy rất vinh dự.",
+    "en": "I feel honoured to represent the school in the competition."
+   },
+   {
+    "zh": "当一名老师是很光荣的事。",
+    "py": "Dāng yì míng lǎo shī shì hěn guāng róng de shì.",
+    "vi": "Làm giáo viên là một việc rất vẻ vang.",
+    "en": "Being a teacher is a very honourable thing."
+   }
+  ]
+ },
+ {
+  "h": "射击",
+  "lv": 5,
+  "py": "shè jī",
+  "vi": "bắn; xạ kích; môn bắn súng",
+  "ex": [
+   {
+    "zh": "他是一名优秀的射击运动员。",
+    "py": "Tā shì yì míng yōu xiù de shè jī yùn dòng yuán.",
+    "vi": "Anh ấy là một vận động viên bắn súng xuất sắc.",
+    "en": "He is an outstanding shooting athlete."
+   },
+   {
+    "zh": "新来的军人每天都要练习射击。",
+    "py": "Xīn lái de jūn rén měi tiān dōu yào liàn xí shè jī.",
+    "vi": "Những quân nhân mới đến ngày nào cũng phải tập bắn.",
+    "en": "The new soldiers have to practise shooting every day."
+   }
+  ]
+ },
+ {
+  "h": "中毒",
+  "lv": 5,
+  "py": "zhòng dú",
+  "vi": "trúng độc; ngộ độc",
+  "ex": [
+   {
+    "zh": "他吃了不干净的东西,食物中毒了。",
+    "py": "Tā chī le bù gān jìng de dōng xi, shí wù zhòng dú le.",
+    "vi": "Anh ấy ăn phải đồ không sạch nên bị ngộ độc thực phẩm.",
+    "en": "He ate something unclean and got food poisoning."
+   },
+   {
+    "zh": "有几个中毒的病人被送到了医院。",
+    "py": "Yǒu jǐ gè zhòng dú de bìng rén bèi sòng dào le yī yuàn.",
+    "vi": "Có mấy bệnh nhân bị ngộ độc đã được đưa đến bệnh viện.",
+    "en": "Several poisoned patients were taken to the hospital."
+   }
+  ]
+ },
+ {
+  "h": "十足",
+  "lv": 5,
+  "py": "shí zú",
+  "vi": "đầy đủ; tràn đầy; hoàn toàn",
+  "ex": [
+   {
+    "zh": "他对这次比赛信心十足。",
+    "py": "Tā duì zhè cì bǐ sài xìn xīn shí zú.",
+    "vi": "Anh ấy tràn đầy tự tin về cuộc thi lần này.",
+    "en": "He is full of confidence about this competition."
+   },
+   {
+    "zh": "孩子们玩了一天,还是精神十足。",
+    "py": "Hái zi men wán le yì tiān, hái shi jīng shén shí zú.",
+    "vi": "Bọn trẻ chơi cả ngày mà vẫn tràn đầy năng lượng.",
+    "en": "The children played all day and are still full of energy."
+   }
+  ]
+ },
+ {
+  "h": "深处",
+  "lv": 5,
+  "py": "shēn chù",
+  "vi": "nơi sâu thẳm; chốn sâu",
+  "ex": [
+   {
+    "zh": "森林深处住着很多动物。",
+    "py": "Sēn lín shēn chù zhù zhe hěn duō dòng wù.",
+    "vi": "Sâu trong rừng có rất nhiều động vật sinh sống.",
+    "en": "Many animals live deep in the forest."
+   },
+   {
+    "zh": "在内心深处,他其实很想家。",
+    "py": "Zài nèi xīn shēn chù, tā qí shí hěn xiǎng jiā.",
+    "vi": "Tận sâu trong lòng, thật ra anh ấy rất nhớ nhà.",
+    "en": "Deep down, he is actually very homesick."
+   }
+  ]
+ },
+ {
+  "h": "势力",
+  "lv": 5,
+  "py": "shì li",
+  "vi": "thế lực",
+  "ex": [
+   {
+    "zh": "这家公司在当地的势力很大。",
+    "py": "Zhè jiā gōng sī zài dāng dì de shì li hěn dà.",
+    "vi": "Công ty này có thế lực rất lớn ở địa phương.",
+    "en": "This company has a great deal of influence locally."
+   },
+   {
+    "zh": "他们的势力已经发展到了国外。",
+    "py": "Tā men de shì li yǐ jīng fā zhǎn dào le guó wài.",
+    "vi": "Thế lực của họ đã vươn ra đến nước ngoài.",
+    "en": "Their influence has already spread abroad."
+   }
+  ]
+ },
+ {
+  "h": "摄影师",
+  "lv": 5,
+  "py": "shè yǐng shī",
+  "vi": "nhiếp ảnh gia; thợ chụp ảnh",
+  "ex": [
+   {
+    "zh": "我们请了一位摄影师拍结婚照。",
+    "py": "Wǒ men qǐng le yí wèi shè yǐng shī pāi jié hūn zhào.",
+    "vi": "Chúng tôi đã thuê một thợ ảnh chụp ảnh cưới.",
+    "en": "We hired a photographer to take our wedding photos."
+   },
+   {
+    "zh": "他的理想是当一名摄影师。",
+    "py": "Tā de lǐ xiǎng shì dāng yì míng shè yǐng shī.",
+    "vi": "Lý tưởng của anh ấy là trở thành nhiếp ảnh gia.",
+    "en": "His ambition is to become a photographer."
+   }
+  ]
+ },
+ {
+  "h": "等级",
+  "lv": 5,
+  "py": "děng jí",
+  "vi": "cấp bậc; đẳng cấp; hạng",
+  "ex": [
+   {
+    "zh": "这些水果按照大小分成三个等级。",
+    "py": "Zhè xiē shuǐ guǒ àn zhào dà xiǎo fēn chéng sān gè děng jí.",
+    "vi": "Số trái cây này được chia thành ba hạng theo kích cỡ.",
+    "en": "These fruits are sorted into three grades by size."
+   },
+   {
+    "zh": "他已经通过了最高等级的考试。",
+    "py": "Tā yǐ jīng tōng guò le zuì gāo děng jí de kǎo shì.",
+    "vi": "Anh ấy đã vượt qua kỳ thi cấp cao nhất.",
+    "en": "He has already passed the highest-level exam."
+   }
+  ]
+ },
+ {
+  "h": "资助",
+  "lv": 5,
+  "py": "zī zhù",
+  "vi": "tài trợ; trợ giúp tài chính",
+  "ex": [
+   {
+    "zh": "他每年资助十名学生上大学。",
+    "py": "Tā měi nián zī zhù shí míng xué shēng shàng dà xué.",
+    "vi": "Mỗi năm ông ấy tài trợ cho mười sinh viên học đại học.",
+    "en": "Every year he sponsors ten students through university."
+   },
+   {
+    "zh": "在政府的资助下,他完成了研究。",
+    "py": "Zài zhèng fǔ de zī zhù xià, tā wán chéng le yán jiū.",
+    "vi": "Nhờ sự tài trợ của chính phủ, anh ấy đã hoàn thành nghiên cứu.",
+    "en": "With government funding, he completed his research."
+   }
+  ]
+ },
+ {
+  "h": "包围",
+  "lv": 5,
+  "py": "bāo wéi",
+  "vi": "bao vây; vây quanh",
+  "ex": [
+   {
+    "zh": "警察把那座房子包围了。",
+    "py": "Jǐng chá bǎ nà zuò fáng zi bāo wéi le.",
+    "vi": "Cảnh sát đã bao vây ngôi nhà đó.",
+    "en": "The police surrounded that house."
+   },
+   {
+    "zh": "这个小村子被大山包围着。",
+    "py": "Zhè ge xiǎo cūn zi bèi dà shān bāo wéi zhe.",
+    "vi": "Ngôi làng nhỏ này được núi lớn bao quanh.",
+    "en": "This little village is surrounded by high mountains."
+   }
+  ]
+ },
+ {
+  "h": "隔壁",
+  "lv": 5,
+  "py": "gé bì",
+  "vi": "nhà bên cạnh; sát vách; phòng bên",
+  "ex": [
+   {
+    "zh": "我们隔壁住着一对老夫妻。",
+    "py": "Wǒ men gé bì zhù zhe yí duì lǎo fū qī.",
+    "vi": "Sát vách nhà chúng tôi có một cặp vợ chồng già sinh sống.",
+    "en": "An elderly couple lives next door to us."
+   },
+   {
+    "zh": "会议室就在我办公室的隔壁。",
+    "py": "Huì yì shì jiù zài wǒ bàn gōng shì de gé bì.",
+    "vi": "Phòng họp ở ngay cạnh văn phòng của tôi.",
+    "en": "The meeting room is right next door to my office."
+   }
+  ]
+ },
+ {
+  "h": "举动",
+  "lv": 5,
+  "py": "jǔ dòng",
+  "vi": "hành động; cử chỉ; động thái",
+  "ex": [
+   {
+    "zh": "他今天的举动有点奇怪。",
+    "py": "Tā jīn tiān de jǔ dòng yǒu diǎn qí guài.",
+    "vi": "Hành động của anh ấy hôm nay hơi kỳ lạ.",
+    "en": "His behaviour today is a little strange."
+   },
+   {
+    "zh": "她的这个举动让大家很感动。",
+    "py": "Tā de zhè ge jǔ dòng ràng dà jiā hěn gǎn dòng.",
+    "vi": "Hành động này của cô ấy khiến mọi người rất cảm động.",
+    "en": "This act of hers moved everyone deeply."
+   }
+  ]
+ },
+ {
+  "h": "信念",
+  "lv": 5,
+  "py": "xìn niàn",
+  "vi": "niềm tin; tín niệm",
+  "ex": [
+   {
+    "zh": "他有一个坚定的信念:一定要成功。",
+    "py": "Tā yǒu yí gè jiān dìng de xìn niàn: yí dìng yào chéng gōng.",
+    "vi": "Anh ấy có một niềm tin vững chắc: nhất định phải thành công.",
+    "en": "He holds one firm conviction: he must succeed."
+   },
+   {
+    "zh": "是这种信念让他坚持到了最后。",
+    "py": "Shì zhè zhǒng xìn niàn ràng tā jiān chí dào le zuì hòu.",
+    "vi": "Chính niềm tin này đã giúp anh ấy kiên trì đến cùng.",
+    "en": "It was this belief that kept him going to the very end."
+   }
+  ]
+ },
+ {
+  "h": "模样",
+  "lv": 5,
+  "py": "mú yàng",
+  "vi": "dáng vẻ; hình dáng; bộ dạng",
+  "ex": [
+   {
+    "zh": "十年没见,他的模样一点也没变。",
+    "py": "Shí nián méi jiàn, tā de mú yàng yì diǎn yě méi biàn.",
+    "vi": "Mười năm không gặp, dáng vẻ anh ấy chẳng thay đổi chút nào.",
+    "en": "I hadn't seen him for ten years, and his looks haven't changed a bit."
+   },
+   {
+    "zh": "这个孩子的模样很像他爸爸。",
+    "py": "Zhè ge hái zi de mú yàng hěn xiàng tā bà ba.",
+    "vi": "Đứa bé này trông rất giống bố nó.",
+    "en": "This child looks a lot like his father."
+   }
+  ]
+ },
+ {
+  "h": "当场",
+  "lv": 5,
+  "py": "dāng chǎng",
+  "vi": "ngay tại chỗ; tại trận",
+  "ex": [
+   {
+    "zh": "小偷被警察当场抓住了。",
+    "py": "Xiǎo tōu bèi jǐng chá dāng chǎng zhuā zhù le.",
+    "vi": "Tên trộm bị cảnh sát bắt ngay tại trận.",
+    "en": "The thief was caught on the spot by the police."
+   },
+   {
+    "zh": "面试结束后,经理当场就决定要他。",
+    "py": "Miàn shì jié shù hòu, jīng lǐ dāng chǎng jiù jué dìng yào tā.",
+    "vi": "Phỏng vấn xong, giám đốc quyết định nhận anh ấy ngay tại chỗ.",
+    "en": "After the interview, the manager decided to hire him on the spot."
+   }
+  ]
+ },
+ {
+  "h": "特定",
+  "lv": 5,
+  "py": "tè dìng",
+  "vi": "đặc định; nhất định; cụ thể",
+  "ex": [
+   {
+    "zh": "这种花只在特定的季节开。",
+    "py": "Zhè zhǒng huā zhǐ zài tè dìng de jì jié kāi.",
+    "vi": "Loài hoa này chỉ nở vào một mùa nhất định.",
+    "en": "This flower blooms only in a particular season."
+   },
+   {
+    "zh": "这个词只能用在特定的场合。",
+    "py": "Zhè ge cí zhǐ néng yòng zài tè dìng de chǎng hé.",
+    "vi": "Từ này chỉ dùng được trong những trường hợp nhất định.",
+    "en": "This word can only be used in specific situations."
+   }
+  ]
+ },
+ {
+  "h": "餐馆",
+  "lv": 5,
+  "py": "cān guǎn",
+  "vi": "nhà hàng; quán ăn",
+  "ex": [
+   {
+    "zh": "学校附近新开了一家餐馆。",
+    "py": "Xué xiào fù jìn xīn kāi le yì jiā cān guǎn.",
+    "vi": "Gần trường mới mở một quán ăn.",
+    "en": "A new restaurant has opened near the school."
+   },
+   {
+    "zh": "这家餐馆的菜又便宜又好吃。",
+    "py": "Zhè jiā cān guǎn de cài yòu pián yi yòu hǎo chī.",
+    "vi": "Đồ ăn ở quán này vừa rẻ vừa ngon.",
+    "en": "The food at this restaurant is both cheap and tasty."
+   }
+  ]
+ },
+ {
+  "h": "看待",
+  "lv": 5,
+  "py": "kàn dài",
+  "vi": "nhìn nhận; đối xử; coi",
+  "ex": [
+   {
+    "zh": "你是怎么看待这个问题的?",
+    "py": "Nǐ shì zěn me kàn dài zhè ge wèn tí de?",
+    "vi": "Anh nhìn nhận vấn đề này như thế nào?",
+    "en": "How do you view this issue?"
+   },
+   {
+    "zh": "他把我当作亲兄弟一样看待。",
+    "py": "Tā bǎ wǒ dàng zuò qīn xiōng dì yí yàng kàn dài.",
+    "vi": "Anh ấy coi tôi như anh em ruột.",
+    "en": "He treats me just like his own brother."
+   }
+  ]
+ },
+ {
+  "h": "打架",
+  "lv": 5,
+  "py": "dǎ jià",
+  "vi": "đánh nhau",
+  "ex": [
+   {
+    "zh": "两个孩子为了一个玩具打架了。",
+    "py": "Liǎng gè hái zi wèi le yí gè wán jù dǎ jià le.",
+    "vi": "Hai đứa trẻ đánh nhau vì một món đồ chơi.",
+    "en": "The two children got into a fight over a toy."
+   },
+   {
+    "zh": "有话好好说,千万不要打架。",
+    "py": "Yǒu huà hǎo hǎo shuō, qiān wàn bú yào dǎ jià.",
+    "vi": "Có gì thì từ từ nói, tuyệt đối đừng đánh nhau.",
+    "en": "Talk it over properly; whatever you do, don't fight."
+   }
+  ]
+ },
+ {
+  "h": "助手",
+  "lv": 5,
+  "py": "zhù shǒu",
+  "vi": "trợ thủ; phụ tá; người giúp việc",
+  "ex": [
+   {
+    "zh": "教授需要一个助手帮他做实验。",
+    "py": "Jiào shòu xū yào yí gè zhù shǒu bāng tā zuò shí yàn.",
+    "vi": "Giáo sư cần một phụ tá giúp ông làm thí nghiệm.",
+    "en": "The professor needs an assistant to help him with experiments."
+   },
+   {
+    "zh": "她是我工作中最好的助手。",
+    "py": "Tā shì wǒ gōng zuò zhōng zuì hǎo de zhù shǒu.",
+    "vi": "Cô ấy là trợ thủ tốt nhất của tôi trong công việc.",
+    "en": "She is my best helper at work."
+   }
+  ]
+ },
+ {
+  "h": "得以",
+  "lv": 5,
+  "py": "dé yǐ",
+  "vi": "có thể; nhờ đó mà được",
+  "ex": [
+   {
+    "zh": "在大家的帮助下,问题得以解决。",
+    "py": "Zài dà jiā de bāng zhù xià, wèn tí dé yǐ jiě jué.",
+    "vi": "Nhờ sự giúp đỡ của mọi người, vấn đề đã được giải quyết.",
+    "en": "With everyone's help, the problem was able to be solved."
+   },
+   {
+    "zh": "多亏了医生,他的生命才得以保住。",
+    "py": "Duō kuī le yī shēng, tā de shēng mìng cái dé yǐ bǎo zhù.",
+    "vi": "May nhờ có bác sĩ, tính mạng anh ấy mới giữ được.",
+    "en": "Thanks to the doctors, his life could be saved."
+   }
+  ]
+ },
+ {
+  "h": "真理",
+  "lv": 5,
+  "py": "zhēn lǐ",
+  "vi": "chân lý",
+  "ex": [
+   {
+    "zh": "科学家一生都在追求真理。",
+    "py": "Kē xué jiā yì shēng dōu zài zhuī qiú zhēn lǐ.",
+    "vi": "Nhà khoa học cả đời theo đuổi chân lý.",
+    "en": "Scientists spend their whole lives pursuing the truth."
+   },
+   {
+    "zh": "真理有时候在少数人手里。",
+    "py": "Zhēn lǐ yǒu shí hou zài shǎo shù rén shǒu lǐ.",
+    "vi": "Chân lý đôi khi nằm trong tay số ít.",
+    "en": "Truth sometimes lies in the hands of the few."
+   }
+  ]
+ },
+ {
+  "h": "猜测",
+  "lv": 5,
+  "py": "cāi cè",
+  "vi": "đoán; phỏng đoán",
+  "ex": [
+   {
+    "zh": "这只是我的猜测,不一定对。",
+    "py": "Zhè zhǐ shì wǒ de cāi cè, bù yí dìng duì.",
+    "vi": "Đây chỉ là phỏng đoán của tôi, chưa chắc đã đúng.",
+    "en": "This is only my guess; it may not be right."
+   },
+   {
+    "zh": "大家都在猜测谁会得第一名。",
+    "py": "Dà jiā dōu zài cāi cè shéi huì dé dì yī míng.",
+    "vi": "Mọi người đều đang đoán xem ai sẽ giành giải nhất.",
+    "en": "Everyone is guessing who will come first."
+   }
+  ]
+ },
+ {
+  "h": "典礼",
+  "lv": 5,
+  "py": "diǎn lǐ",
+  "vi": "lễ; buổi lễ",
+  "ex": [
+   {
+    "zh": "明天上午学校举行毕业典礼。",
+    "py": "Míng tiān shàng wǔ xué xiào jǔ xíng bì yè diǎn lǐ.",
+    "vi": "Sáng mai trường tổ chức lễ tốt nghiệp.",
+    "en": "The school is holding its graduation ceremony tomorrow morning."
+   },
+   {
+    "zh": "很多家长来参加了开学典礼。",
+    "py": "Hěn duō jiā zhǎng lái cān jiā le kāi xué diǎn lǐ.",
+    "vi": "Rất nhiều phụ huynh đã đến dự lễ khai giảng.",
+    "en": "Many parents came to attend the opening ceremony."
+   }
+  ]
+ },
+ {
+  "h": "人间",
+  "lv": 5,
+  "py": "rén jiān",
+  "vi": "nhân gian; cõi đời",
+  "ex": [
+   {
+    "zh": "这里的风景美得像人间天堂。",
+    "py": "Zhè lǐ de fēng jǐng měi de xiàng rén jiān tiān táng.",
+    "vi": "Phong cảnh nơi đây đẹp như thiên đường chốn nhân gian.",
+    "en": "The scenery here is as beautiful as a paradise on earth."
+   },
+   {
+    "zh": "这个故事让我感到人间的温暖。",
+    "py": "Zhè ge gù shi ràng wǒ gǎn dào rén jiān de wēn nuǎn.",
+    "vi": "Câu chuyện này khiến tôi cảm nhận được hơi ấm tình người.",
+    "en": "This story made me feel the warmth of the human world."
+   }
+  ]
+ },
+ {
+  "h": "转向",
+  "lv": 5,
+  "py": "zhuǎn xiàng",
+  "vi": "chuyển hướng; quay sang",
+  "ex": [
+   {
+    "zh": "汽车在路口转向了北边。",
+    "py": "Qì chē zài lù kǒu zhuǎn xiàng le běi biān.",
+    "vi": "Chiếc ô tô rẽ về hướng bắc ở ngã tư.",
+    "en": "The car turned north at the intersection."
+   },
+   {
+    "zh": "他把目光转向了窗外。",
+    "py": "Tā bǎ mù guāng zhuǎn xiàng le chuāng wài.",
+    "vi": "Anh ấy hướng ánh mắt ra ngoài cửa sổ.",
+    "en": "He turned his gaze towards the window."
+   }
+  ]
+ },
+ {
+  "h": "放大",
+  "lv": 5,
+  "py": "fàng dà",
+  "vi": "phóng to; khuếch đại",
+  "ex": [
+   {
+    "zh": "字太小了,请把它放大一点。",
+    "py": "Zì tài xiǎo le, qǐng bǎ tā fàng dà yì diǎn.",
+    "vi": "Chữ nhỏ quá, xin hãy phóng to lên một chút.",
+    "en": "The text is too small; please enlarge it a little."
+   },
+   {
+    "zh": "我想把这张照片放大后挂在墙上。",
+    "py": "Wǒ xiǎng bǎ zhè zhāng zhào piàn fàng dà hòu guà zài qiáng shàng.",
+    "vi": "Tôi muốn phóng to tấm ảnh này rồi treo lên tường.",
+    "en": "I want to enlarge this photo and hang it on the wall."
+   }
+  ]
+ },
+ {
+  "h": "上级",
+  "lv": 5,
+  "py": "shàng jí",
+  "vi": "cấp trên",
+  "ex": [
+   {
+    "zh": "这件事需要先向上级报告。",
+    "py": "Zhè jiàn shì xū yào xiān xiàng shàng jí bào gào.",
+    "vi": "Việc này cần báo cáo cấp trên trước.",
+    "en": "This matter needs to be reported to our superiors first."
+   },
+   {
+    "zh": "上级对我们的工作很满意。",
+    "py": "Shàng jí duì wǒ men de gōng zuò hěn mǎn yì.",
+    "vi": "Cấp trên rất hài lòng với công việc của chúng tôi.",
+    "en": "Our superiors are very satisfied with our work."
+   }
+  ]
+ },
+ {
+  "h": "例外",
+  "lv": 5,
+  "py": "lì wài",
+  "vi": "ngoại lệ",
+  "ex": [
+   {
+    "zh": "每个人都要遵守规定,谁也不例外。",
+    "py": "Měi gè rén dōu yào zūn shǒu guī dìng, shéi yě bú lì wài.",
+    "vi": "Ai cũng phải tuân thủ quy định, không có ngoại lệ.",
+    "en": "Everyone must follow the rules; no one is an exception."
+   },
+   {
+    "zh": "他每天早上都跑步,今天是个例外。",
+    "py": "Tā měi tiān zǎo shang dōu pǎo bù, jīn tiān shì ge lì wài.",
+    "vi": "Sáng nào anh ấy cũng chạy bộ, hôm nay là ngoại lệ.",
+    "en": "He goes running every morning; today is an exception."
+   }
+  ]
+ },
+ {
+  "h": "严厉",
+  "lv": 5,
+  "py": "yán lì",
+  "vi": "nghiêm khắc; nghiêm nghị",
+  "ex": [
+   {
+    "zh": "爸爸对我们的要求很严厉。",
+    "py": "Bà ba duì wǒ men de yāo qiú hěn yán lì.",
+    "vi": "Bố yêu cầu rất nghiêm khắc với chúng tôi.",
+    "en": "Dad is very strict in what he demands of us."
+   },
+   {
+    "zh": "老师严厉地批评了迟到的学生。",
+    "py": "Lǎo shī yán lì de pī píng le chí dào de xué shēng.",
+    "vi": "Thầy giáo nghiêm khắc phê bình những học sinh đi muộn.",
+    "en": "The teacher sternly criticised the students who were late."
+   }
+  ]
+ },
+ {
+  "h": "示范",
+  "lv": 5,
+  "py": "shì fàn",
+  "vi": "làm mẫu; thị phạm; nêu gương",
+  "ex": [
+   {
+    "zh": "老师先给大家示范了一遍。",
+    "py": "Lǎo shī xiān gěi dà jiā shì fàn le yí biàn.",
+    "vi": "Thầy giáo làm mẫu một lượt cho mọi người xem trước.",
+    "en": "The teacher first gave everyone a demonstration."
+   },
+   {
+    "zh": "请你示范一下这个动作怎么做。",
+    "py": "Qǐng nǐ shì fàn yí xià zhè ge dòng zuò zěn me zuò.",
+    "vi": "Bạn hãy làm mẫu xem động tác này thực hiện thế nào.",
+    "en": "Please demonstrate how to do this movement."
+   }
+  ]
+ },
+ {
+  "h": "处罚",
+  "lv": 5,
+  "py": "chǔ fá",
+  "vi": "xử phạt; trừng phạt",
+  "ex": [
+   {
+    "zh": "违反交通规则会受到处罚。",
+    "py": "Wéi fǎn jiāo tōng guī zé huì shòu dào chǔ fá.",
+    "vi": "Vi phạm luật giao thông sẽ bị xử phạt.",
+    "en": "Breaking traffic rules will be punished."
+   },
+   {
+    "zh": "学校处罚了那几个打架的学生。",
+    "py": "Xué xiào chǔ fá le nà jǐ gè dǎ jià de xué shēng.",
+    "vi": "Nhà trường đã xử phạt mấy học sinh đánh nhau đó.",
+    "en": "The school punished the students who had been fighting."
+   }
+  ]
+ },
+ {
+  "h": "流动",
+  "lv": 5,
+  "py": "liú dòng",
+  "vi": "lưu động; chảy; luân chuyển",
+  "ex": [
+   {
+    "zh": "打开窗户,让空气流动起来。",
+    "py": "Dǎ kāi chuāng hu, ràng kōng qì liú dòng qǐ lái.",
+    "vi": "Mở cửa sổ ra cho không khí lưu thông.",
+    "en": "Open the windows and let the air circulate."
+   },
+   {
+    "zh": "这个城市的流动人口很多。",
+    "py": "Zhè ge chéng shì de liú dòng rén kǒu hěn duō.",
+    "vi": "Dân số vãng lai của thành phố này rất đông.",
+    "en": "This city has a large migrant population."
+   }
+  ]
+ },
+ {
+  "h": "外界",
+  "lv": 5,
+  "py": "wài jiè",
+  "vi": "bên ngoài; thế giới bên ngoài",
+  "ex": [
+   {
+    "zh": "他住在山里,很少和外界联系。",
+    "py": "Tā zhù zài shān lǐ, hěn shǎo hé wài jiè lián xì.",
+    "vi": "Ông ấy sống trong núi, rất ít liên hệ với bên ngoài.",
+    "en": "He lives in the mountains and has little contact with the outside world."
+   },
+   {
+    "zh": "不要太在意外界的看法。",
+    "py": "Bú yào tài zài yì wài jiè de kàn fǎ.",
+    "vi": "Đừng quá để ý đến cách nhìn của người ngoài.",
+    "en": "Don't care too much about what the outside world thinks."
+   }
+  ]
+ },
+ {
+  "h": "带有",
+  "lv": 5,
+  "py": "dài yǒu",
+  "vi": "mang; có (đặc điểm, sắc thái)",
+  "ex": [
+   {
+    "zh": "他说话带有很重的南方口音。",
+    "py": "Tā shuō huà dài yǒu hěn zhòng de nán fāng kǒu yīn.",
+    "vi": "Ông ấy nói chuyện mang giọng miền Nam rất nặng.",
+    "en": "He speaks with a strong southern accent."
+   },
+   {
+    "zh": "这种茶带有一点花的香味。",
+    "py": "Zhè zhǒng chá dài yǒu yì diǎn huā de xiāng wèi.",
+    "vi": "Loại trà này có thoang thoảng hương hoa.",
+    "en": "This tea has a slight floral fragrance."
+   }
+  ]
+ },
+ {
+  "h": "漫长",
+  "lv": 5,
+  "py": "màn cháng",
+  "vi": "dài đằng đẵng; dài lâu",
+  "ex": [
+   {
+    "zh": "北方的冬天又寒冷又漫长。",
+    "py": "Běi fāng de dōng tiān yòu hán lěng yòu màn cháng.",
+    "vi": "Mùa đông ở miền Bắc vừa lạnh giá vừa dài đằng đẵng.",
+    "en": "Winters in the north are both cold and long."
+   },
+   {
+    "zh": "经过漫长的等待,他终于收到了回信。",
+    "py": "Jīng guò màn cháng de děng dài, tā zhōng yú shōu dào le huí xìn.",
+    "vi": "Sau thời gian chờ đợi dài đằng đẵng, cuối cùng anh ấy cũng nhận được thư trả lời.",
+    "en": "After a long wait, he finally received a reply."
+   }
+  ]
+ },
+ {
+  "h": "喜剧",
+  "lv": 5,
+  "py": "xǐ jù",
+  "vi": "hài kịch; phim hài",
+  "ex": [
+   {
+    "zh": "心情不好的时候,我喜欢看喜剧。",
+    "py": "Xīn qíng bù hǎo de shí hou, wǒ xǐ huan kàn xǐ jù.",
+    "vi": "Những lúc tâm trạng không tốt, tôi thích xem phim hài.",
+    "en": "When I'm in a bad mood, I like to watch comedies."
+   },
+   {
+    "zh": "这部喜剧让观众笑个不停。",
+    "py": "Zhè bù xǐ jù ràng guān zhòng xiào ge bù tíng.",
+    "vi": "Vở hài kịch này khiến khán giả cười không ngớt.",
+    "en": "This comedy kept the audience laughing non-stop."
+   }
+  ]
+ },
+ {
+  "h": "签约",
+  "lv": 5,
+  "py": "qiān yuē",
+  "vi": "ký hợp đồng; ký kết",
+  "ex": [
+   {
+    "zh": "两家公司将在下周正式签约。",
+    "py": "Liǎng jiā gōng sī jiāng zài xià zhōu zhèng shì qiān yuē.",
+    "vi": "Hai công ty sẽ chính thức ký hợp đồng vào tuần sau.",
+    "en": "The two companies will formally sign the contract next week."
+   },
+   {
+    "zh": "他刚和一家有名的球队签约了。",
+    "py": "Tā gāng hé yì jiā yǒu míng de qiú duì qiān yuē le.",
+    "vi": "Anh ấy vừa ký hợp đồng với một đội bóng nổi tiếng.",
+    "en": "He has just signed with a famous team."
+   }
+  ]
+ },
+ {
+  "h": "城里",
+  "lv": 5,
+  "py": "chéng lǐ",
+  "vi": "trong thành phố; nội thành",
+  "ex": [
+   {
+    "zh": "他的儿子在城里工作。",
+    "py": "Tā de ér zi zài chéng lǐ gōng zuò.",
+    "vi": "Con trai ông ấy làm việc trên thành phố.",
+    "en": "His son works in the city."
+   },
+   {
+    "zh": "城里的房子比农村贵得多。",
+    "py": "Chéng lǐ de fáng zi bǐ nóng cūn guì de duō.",
+    "vi": "Nhà trong thành phố đắt hơn ở nông thôn nhiều.",
+    "en": "Housing in the city is far more expensive than in the countryside."
+   }
+  ]
+ },
+ {
+  "h": "胆",
+  "lv": 5,
+  "py": "dǎn",
+  "vi": "mật; túi mật; lòng can đảm",
+  "ex": [
+   {
+    "zh": "他从小胆就很小,怕黑。",
+    "py": "Tā cóng xiǎo dǎn jiù hěn xiǎo, pà hēi.",
+    "vi": "Từ nhỏ nó đã rất nhát gan, sợ bóng tối.",
+    "en": "He has been timid since childhood and is afraid of the dark."
+   },
+   {
+    "zh": "你的胆真大,敢一个人去那里。",
+    "py": "Nǐ de dǎn zhēn dà, gǎn yí gè rén qù nà lǐ.",
+    "vi": "Cậu gan thật, dám một mình đến đó.",
+    "en": "You've got real guts, daring to go there alone."
+   }
+  ]
+ },
+ {
+  "h": "职务",
+  "lv": 5,
+  "py": "zhí wù",
+  "vi": "chức vụ",
+  "ex": [
+   {
+    "zh": "他在公司担任经理的职务。",
+    "py": "Tā zài gōng sī dān rèn jīng lǐ de zhí wù.",
+    "vi": "Anh ấy giữ chức vụ giám đốc trong công ty.",
+    "en": "He holds the post of manager in the company."
+   },
+   {
+    "zh": "由于身体原因,他离开了这个职务。",
+    "py": "Yóu yú shēn tǐ yuán yīn, tā lí kāi le zhè ge zhí wù.",
+    "vi": "Vì lý do sức khỏe, ông ấy đã rời chức vụ này.",
+    "en": "He left this post for health reasons."
+   }
+  ]
+ },
+ {
+  "h": "愁",
+  "lv": 5,
+  "py": "chóu",
+  "vi": "lo; buồn rầu; lo lắng",
+  "ex": [
+   {
+    "zh": "别愁了,问题总会解决的。",
+    "py": "Bié chóu le, wèn tí zǒng huì jiě jué de.",
+    "vi": "Đừng lo nữa, vấn đề rồi sẽ được giải quyết thôi.",
+    "en": "Stop worrying; the problem will be solved sooner or later."
+   },
+   {
+    "zh": "他正为孩子上学的事发愁。",
+    "py": "Tā zhèng wèi hái zi shàng xué de shì fā chóu.",
+    "vi": "Anh ấy đang lo lắng chuyện con cái đi học.",
+    "en": "He is worrying about his child's schooling."
+   }
+  ]
+ },
+ {
+  "h": "发觉",
+  "lv": 5,
+  "py": "fā jué",
+  "vi": "phát giác; nhận ra",
+  "ex": [
+   {
+    "zh": "我到了公司才发觉没带钥匙。",
+    "py": "Wǒ dào le gōng sī cái fā jué méi dài yào shi.",
+    "vi": "Đến công ty tôi mới nhận ra mình không mang chìa khóa.",
+    "en": "Only when I got to the office did I realise I hadn't brought my keys."
+   },
+   {
+    "zh": "他发觉有人一直在后面跟着他。",
+    "py": "Tā fā jué yǒu rén yì zhí zài hòu miàn gēn zhe tā.",
+    "vi": "Anh ấy phát hiện có người cứ bám theo phía sau.",
+    "en": "He noticed that someone had been following him."
+   }
+  ]
+ },
+ {
+  "h": "面子",
+  "lv": 5,
+  "py": "miàn zi",
+  "vi": "thể diện; mặt mũi; mặt ngoài",
+  "ex": [
+   {
+    "zh": "他是个很爱面子的人。",
+    "py": "Tā shì ge hěn ài miàn zi de rén.",
+    "vi": "Anh ấy là người rất sĩ diện.",
+    "en": "He is someone who cares a lot about saving face."
+   },
+   {
+    "zh": "请给我一个面子,来参加晚会吧。",
+    "py": "Qǐng gěi wǒ yí gè miàn zi, lái cān jiā wǎn huì ba.",
+    "vi": "Xin hãy nể mặt tôi mà đến dự buổi tiệc nhé.",
+    "en": "Please do me the honour of coming to the party."
+   }
+  ]
+ },
+ {
+  "h": "披",
+  "lv": 5,
+  "py": "pī",
+  "vi": "khoác; choàng",
+  "ex": [
+   {
+    "zh": "天冷了,她给孩子披上了外衣。",
+    "py": "Tiān lěng le, tā gěi hái zi pī shàng le wài yī.",
+    "vi": "Trời trở lạnh, chị ấy khoác áo ngoài cho con.",
+    "en": "It turned cold, so she draped a coat over her child."
+   },
+   {
+    "zh": "他身上披着一件黑色的大衣。",
+    "py": "Tā shēn shang pī zhe yí jiàn hēi sè de dà yī.",
+    "vi": "Trên người anh ấy khoác một chiếc áo choàng màu đen.",
+    "en": "He has a black overcoat draped over his shoulders."
+   }
+  ]
+ },
+ {
+  "h": "增产",
+  "lv": 5,
+  "py": "zēng chǎn",
+  "vi": "tăng sản lượng",
+  "ex": [
+   {
+    "zh": "新技术帮助农民实现了粮食增产。",
+    "py": "Xīn jì shù bāng zhù nóng mín shí xiàn le liáng shi zēng chǎn.",
+    "vi": "Kỹ thuật mới giúp nông dân tăng sản lượng lương thực.",
+    "en": "New technology has helped farmers increase grain production."
+   },
+   {
+    "zh": "工厂今年的目标是增产百分之十。",
+    "py": "Gōng chǎng jīn nián de mù biāo shì zēng chǎn bǎi fēn zhī shí.",
+    "vi": "Mục tiêu năm nay của nhà máy là tăng sản lượng mười phần trăm.",
+    "en": "The factory's goal this year is to raise output by ten percent."
+   }
+  ]
+ },
+ {
+  "h": "博客",
+  "lv": 5,
+  "py": "bó kè",
+  "vi": "blog; nhật ký mạng",
+  "ex": [
+   {
+    "zh": "她经常在博客上写旅行的故事。",
+    "py": "Tā jīng cháng zài bó kè shàng xiě lǚ xíng de gù shi.",
+    "vi": "Cô ấy thường viết chuyện du lịch trên blog.",
+    "en": "She often writes travel stories on her blog."
+   },
+   {
+    "zh": "我每天都看他的博客。",
+    "py": "Wǒ měi tiān dōu kàn tā de bó kè.",
+    "vi": "Ngày nào tôi cũng đọc blog của anh ấy.",
+    "en": "I read his blog every day."
+   }
+  ]
+ },
+ {
+  "h": "边境",
+  "lv": 5,
+  "py": "biān jìng",
+  "vi": "biên giới; vùng biên",
+  "ex": [
+   {
+    "zh": "这个小城在两国的边境上。",
+    "py": "Zhè ge xiǎo chéng zài liǎng guó de biān jìng shàng.",
+    "vi": "Thị trấn nhỏ này nằm trên biên giới hai nước.",
+    "en": "This small town lies on the border between the two countries."
+   },
+   {
+    "zh": "过边境的时候要检查护照。",
+    "py": "Guò biān jìng de shí hou yào jiǎn chá hù zhào.",
+    "vi": "Khi qua biên giới phải kiểm tra hộ chiếu.",
+    "en": "Passports are checked when you cross the border."
+   }
+  ]
+ },
+ {
+  "h": "学位",
+  "lv": 5,
+  "py": "xué wèi",
+  "vi": "học vị; bằng cấp",
+  "ex": [
+   {
+    "zh": "她去年拿到了博士学位。",
+    "py": "Tā qù nián ná dào le bó shì xué wèi.",
+    "vi": "Năm ngoái cô ấy đã lấy được bằng tiến sĩ.",
+    "en": "She received her doctorate last year."
+   },
+   {
+    "zh": "他在北京大学读硕士学位。",
+    "py": "Tā zài Běi jīng Dà xué dú shuò shì xué wèi.",
+    "vi": "Anh ấy đang học thạc sĩ tại Đại học Bắc Kinh.",
+    "en": "He is studying for a master's degree at Peking University."
+   }
+  ]
+ },
+ {
+  "h": "岁月",
+  "lv": 5,
+  "py": "suì yuè",
+  "vi": "năm tháng; tháng năm",
+  "ex": [
+   {
+    "zh": "我永远忘不了那段快乐的岁月。",
+    "py": "Wǒ yǒng yuǎn wàng bù liǎo nà duàn kuài lè de suì yuè.",
+    "vi": "Tôi mãi mãi không quên được những năm tháng vui vẻ ấy.",
+    "en": "I will never forget those happy years."
+   },
+   {
+    "zh": "岁月过得真快,孩子们都长大了。",
+    "py": "Suì yuè guò de zhēn kuài, hái zi men dōu zhǎng dà le.",
+    "vi": "Năm tháng trôi nhanh thật, bọn trẻ đều đã lớn cả rồi.",
+    "en": "The years go by so fast; the children have all grown up."
+   }
+  ]
+ },
+ {
+  "h": "占领",
+  "lv": 5,
+  "py": "zhàn lǐng",
+  "vi": "chiếm lĩnh; chiếm đóng",
+  "ex": [
+   {
+    "zh": "这个品牌很快占领了国内市场。",
+    "py": "Zhè ge pǐn pái hěn kuài zhàn lǐng le guó nèi shì chǎng.",
+    "vi": "Thương hiệu này đã nhanh chóng chiếm lĩnh thị trường trong nước.",
+    "en": "This brand quickly captured the domestic market."
+   },
+   {
+    "zh": "那座城市曾经被敌人占领过。",
+    "py": "Nà zuò chéng shì céng jīng bèi dí rén zhàn lǐng guo.",
+    "vi": "Thành phố đó từng bị quân địch chiếm đóng.",
+    "en": "That city was once occupied by the enemy."
+   }
+  ]
+ },
+ {
+  "h": "争议",
+  "lv": 5,
+  "py": "zhēng yì",
+  "vi": "tranh cãi; tranh chấp",
+  "ex": [
+   {
+    "zh": "这个决定引起了很大的争议。",
+    "py": "Zhè ge jué dìng yǐn qǐ le hěn dà de zhēng yì.",
+    "vi": "Quyết định này đã gây ra tranh cãi lớn.",
+    "en": "This decision caused a great deal of controversy."
+   },
+   {
+    "zh": "关于这个问题,现在还有争议。",
+    "py": "Guān yú zhè ge wèn tí, xiàn zài hái yǒu zhēng yì.",
+    "vi": "Về vấn đề này, hiện vẫn còn tranh cãi.",
+    "en": "There is still dispute over this question."
+   }
+  ]
+ },
+ {
+  "h": "肠",
+  "lv": 5,
+  "py": "cháng",
+  "vi": "ruột",
+  "ex": [
+   {
+    "zh": "他的肠不太好,不能吃辣的。",
+    "py": "Tā de cháng bú tài hǎo, bù néng chī là de.",
+    "vi": "Đường ruột của anh ấy không tốt lắm, không ăn được đồ cay.",
+    "en": "His bowels aren't too good, so he can't eat spicy food."
+   },
+   {
+    "zh": "医生检查后说他的肠有点问题。",
+    "py": "Yī shēng jiǎn chá hòu shuō tā de cháng yǒu diǎn wèn tí.",
+    "vi": "Sau khi khám, bác sĩ nói ruột của anh ấy có chút vấn đề.",
+    "en": "After the check-up, the doctor said there was a slight problem with his intestines."
+   }
+  ]
+ },
+ {
+  "h": "终身",
+  "lv": 5,
+  "py": "zhōng shēn",
+  "vi": "suốt đời; trọn đời",
+  "ex": [
+   {
+    "zh": "学习是一件终身的事情。",
+    "py": "Xué xí shì yí jiàn zhōng shēn de shì qing.",
+    "vi": "Học tập là việc của cả đời.",
+    "en": "Learning is a lifelong matter."
+   },
+   {
+    "zh": "结婚是终身大事,要认真考虑。",
+    "py": "Jié hūn shì zhōng shēn dà shì, yào rèn zhēn kǎo lǜ.",
+    "vi": "Kết hôn là chuyện hệ trọng cả đời, phải cân nhắc kỹ.",
+    "en": "Marriage is a lifelong commitment and needs careful thought."
+   }
+  ]
+ },
+ {
+  "h": "回避",
+  "lv": 5,
+  "py": "huí bì",
+  "vi": "né tránh; lảng tránh",
+  "ex": [
+   {
+    "zh": "他一直在回避我的问题。",
+    "py": "Tā yì zhí zài huí bì wǒ de wèn tí.",
+    "vi": "Anh ấy cứ né tránh câu hỏi của tôi.",
+    "en": "He keeps dodging my question."
+   },
+   {
+    "zh": "有了矛盾要面对,不能回避。",
+    "py": "Yǒu le máo dùn yào miàn duì, bù néng huí bì.",
+    "vi": "Có mâu thuẫn thì phải đối mặt, không thể né tránh.",
+    "en": "When there is a conflict, you must face it, not avoid it."
+   }
+  ]
+ },
+ {
+  "h": "指甲",
+  "lv": 5,
+  "py": "zhǐ jia",
+  "vi": "móng tay",
+  "ex": [
+   {
+    "zh": "你的指甲太长了,该剪了。",
+    "py": "Nǐ de zhǐ jia tài cháng le, gāi jiǎn le.",
+    "vi": "Móng tay của con dài quá rồi, nên cắt đi.",
+    "en": "Your fingernails are too long; it's time to cut them."
+   },
+   {
+    "zh": "她把指甲染成了红色。",
+    "py": "Tā bǎ zhǐ jia rǎn chéng le hóng sè.",
+    "vi": "Cô ấy đã sơn móng tay thành màu đỏ.",
+    "en": "She coloured her nails red."
+   }
+  ]
+ },
+ {
+  "h": "气体",
+  "lv": 5,
+  "py": "qì tǐ",
+  "vi": "chất khí; khí",
+  "ex": [
+   {
+    "zh": "这种气体对身体有害。",
+    "py": "Zhè zhǒng qì tǐ duì shēn tǐ yǒu hài.",
+    "vi": "Loại khí này có hại cho cơ thể.",
+    "en": "This gas is harmful to the body."
+   },
+   {
+    "zh": "水加热以后会变成气体。",
+    "py": "Shuǐ jiā rè yǐ hòu huì biàn chéng qì tǐ.",
+    "vi": "Nước sau khi đun nóng sẽ biến thành thể khí.",
+    "en": "Water turns into a gas when it is heated."
+   }
+  ]
+ },
+ {
+  "h": "层次",
+  "lv": 5,
+  "py": "céng cì",
+  "vi": "tầng lớp; cấp độ; trình độ; bố cục",
+  "ex": [
+   {
+    "zh": "这篇文章的层次很清楚。",
+    "py": "Zhè piān wén zhāng de céng cì hěn qīng chu.",
+    "vi": "Bố cục của bài văn này rất rõ ràng.",
+    "en": "This article is very clearly structured."
+   },
+   {
+    "zh": "来听课的有不同层次的学生。",
+    "py": "Lái tīng kè de yǒu bù tóng céng cì de xué shēng.",
+    "vi": "Đến nghe giảng có học sinh ở nhiều trình độ khác nhau.",
+    "en": "Students of different levels came to attend the class."
+   }
+  ]
+ },
+ {
+  "h": "国民",
+  "lv": 5,
+  "py": "guó mín",
+  "vi": "quốc dân; người dân",
+  "ex": [
+   {
+    "zh": "这个国家的国民收入很高。",
+    "py": "Zhè ge guó jiā de guó mín shōu rù hěn gāo.",
+    "vi": "Thu nhập quốc dân của nước này rất cao.",
+    "en": "This country's national income is very high."
+   },
+   {
+    "zh": "教育能提高国民的文化水平。",
+    "py": "Jiào yù néng tí gāo guó mín de wén huà shuǐ píng.",
+    "vi": "Giáo dục có thể nâng cao trình độ văn hóa của người dân.",
+    "en": "Education can raise the cultural level of a nation's people."
+   }
+  ]
+ },
+ {
+  "h": "服从",
+  "lv": 5,
+  "py": "fú cóng",
+  "vi": "phục tùng; tuân theo",
+  "ex": [
+   {
+    "zh": "开会决定的事,少数应该服从多数。",
+    "py": "Kāi huì jué dìng de shì, shǎo shù yīng gāi fú cóng duō shù.",
+    "vi": "Việc đã quyết trong cuộc họp thì thiểu số nên phục tùng đa số.",
+    "en": "On matters decided at a meeting, the minority should defer to the majority."
+   },
+   {
+    "zh": "他服从公司的安排去了上海。",
+    "py": "Tā fú cóng gōng sī de ān pái qù le Shàng hǎi.",
+    "vi": "Anh ấy tuân theo sự sắp xếp của công ty và đi Thượng Hải.",
+    "en": "He complied with the company's arrangement and went to Shanghai."
+   }
+  ]
+ },
+ {
+  "h": "会谈",
+  "lv": 5,
+  "py": "huì tán",
+  "vi": "hội đàm",
+  "ex": [
+   {
+    "zh": "两国领导人今天举行了会谈。",
+    "py": "Liǎng guó lǐng dǎo rén jīn tiān jǔ xíng le huì tán.",
+    "vi": "Lãnh đạo hai nước đã tiến hành hội đàm hôm nay.",
+    "en": "The leaders of the two countries held talks today."
+   },
+   {
+    "zh": "这次会谈进行了三个小时。",
+    "py": "Zhè cì huì tán jìn xíng le sān gè xiǎo shí.",
+    "vi": "Cuộc hội đàm lần này kéo dài ba tiếng.",
+    "en": "These talks went on for three hours."
+   }
+  ]
+ },
+ {
+  "h": "传达",
+  "lv": 5,
+  "py": "chuán dá",
+  "vi": "truyền đạt; chuyển lời",
+  "ex": [
+   {
+    "zh": "请把我的意思传达给大家。",
+    "py": "Qǐng bǎ wǒ de yì si chuán dá gěi dà jiā.",
+    "vi": "Xin hãy truyền đạt ý của tôi đến mọi người.",
+    "en": "Please convey what I mean to everyone."
+   },
+   {
+    "zh": "经理向我们传达了公司的新规定。",
+    "py": "Jīng lǐ xiàng wǒ men chuán dá le gōng sī de xīn guī dìng.",
+    "vi": "Giám đốc đã truyền đạt quy định mới của công ty cho chúng tôi.",
+    "en": "The manager passed the company's new rules on to us."
+   }
+  ]
+ },
+ {
+  "h": "终止",
+  "lv": 5,
+  "py": "zhōng zhǐ",
+  "vi": "chấm dứt; kết thúc",
+  "ex": [
+   {
+    "zh": "他们决定终止和那家公司的合作。",
+    "py": "Tā men jué dìng zhōng zhǐ hé nà jiā gōng sī de hé zuò.",
+    "vi": "Họ quyết định chấm dứt hợp tác với công ty đó.",
+    "en": "They decided to end their cooperation with that company."
+   },
+   {
+    "zh": "因为下大雨,比赛不得不终止。",
+    "py": "Yīn wèi xià dà yǔ, bǐ sài bù dé bù zhōng zhǐ.",
+    "vi": "Vì mưa to nên trận đấu buộc phải dừng lại.",
+    "en": "Because of the heavy rain, the match had to be stopped."
+   }
+  ]
+ },
+ {
+  "h": "彩票",
+  "lv": 5,
+  "py": "cǎi piào",
+  "vi": "vé số; xổ số",
+  "ex": [
+   {
+    "zh": "他每个星期都买一张彩票。",
+    "py": "Tā měi gè xīng qī dōu mǎi yì zhāng cǎi piào.",
+    "vi": "Tuần nào anh ấy cũng mua một tờ vé số.",
+    "en": "He buys a lottery ticket every week."
+   },
+   {
+    "zh": "听说他买彩票中了一百万。",
+    "py": "Tīng shuō tā mǎi cǎi piào zhòng le yì bǎi wàn.",
+    "vi": "Nghe nói anh ấy mua vé số trúng một triệu tệ.",
+    "en": "I heard he won a million on the lottery."
+   }
+  ]
+ },
+ {
+  "h": "法规",
+  "lv": 5,
+  "py": "fǎ guī",
+  "vi": "pháp quy; quy định pháp luật",
+  "ex": [
+   {
+    "zh": "开车的人必须遵守交通法规。",
+    "py": "Kāi chē de rén bì xū zūn shǒu jiāo tōng fǎ guī.",
+    "vi": "Người lái xe phải tuân thủ luật lệ giao thông.",
+    "en": "Drivers must obey traffic regulations."
+   },
+   {
+    "zh": "政府今年公布了一些新的法规。",
+    "py": "Zhèng fǔ jīn nián gōng bù le yì xiē xīn de fǎ guī.",
+    "vi": "Năm nay chính phủ đã công bố một số quy định pháp luật mới.",
+    "en": "The government announced some new regulations this year."
+   }
+  ]
+ },
+ {
+  "h": "阻碍",
+  "lv": 5,
+  "py": "zǔ ài",
+  "vi": "cản trở; trở ngại",
+  "ex": [
+   {
+    "zh": "路上的大雪阻碍了交通。",
+    "py": "Lù shàng de dà xuě zǔ ài le jiāo tōng.",
+    "vi": "Tuyết lớn trên đường đã cản trở giao thông.",
+    "en": "The heavy snow on the roads obstructed traffic."
+   },
+   {
+    "zh": "语言不通是他们交流的最大阻碍。",
+    "py": "Yǔ yán bù tōng shì tā men jiāo liú de zuì dà zǔ ài.",
+    "vi": "Bất đồng ngôn ngữ là trở ngại lớn nhất trong giao tiếp của họ.",
+    "en": "The language barrier is the biggest obstacle to their communication."
+   }
+  ]
+ },
+ {
+  "h": "相应",
+  "lv": 5,
+  "py": "xiāng yìng",
+  "vi": "tương ứng; phù hợp",
+  "ex": [
+   {
+    "zh": "收入高了,生活水平也相应提高了。",
+    "py": "Shōu rù gāo le, shēng huó shuǐ píng yě xiāng yìng tí gāo le.",
+    "vi": "Thu nhập cao lên, mức sống cũng theo đó được nâng cao.",
+    "en": "As income has risen, living standards have risen accordingly."
+   },
+   {
+    "zh": "发现问题后,公司采取了相应的措施。",
+    "py": "Fā xiàn wèn tí hòu, gōng sī cǎi qǔ le xiāng yìng de cuò shī.",
+    "vi": "Sau khi phát hiện vấn đề, công ty đã áp dụng các biện pháp tương ứng.",
+    "en": "After discovering the problem, the company took appropriate measures."
+   }
+  ]
+ },
+ {
+  "h": "近来",
+  "lv": 5,
+  "py": "jìn lái",
+  "vi": "gần đây; dạo này",
+  "ex": [
+   {
+    "zh": "好久不见,你近来身体怎么样?",
+    "py": "Hǎo jiǔ bú jiàn, nǐ jìn lái shēn tǐ zěn me yàng?",
+    "vi": "Lâu rồi không gặp, dạo này sức khỏe của anh thế nào?",
+    "en": "Long time no see; how has your health been lately?"
+   },
+   {
+    "zh": "近来天气变化很大,小心感冒。",
+    "py": "Jìn lái tiān qì biàn huà hěn dà, xiǎo xīn gǎn mào.",
+    "vi": "Gần đây thời tiết thay đổi thất thường, cẩn thận kẻo bị cảm.",
+    "en": "The weather has been very changeable recently; take care not to catch a cold."
+   }
+  ]
+ },
+ {
+  "h": "沟",
+  "lv": 5,
+  "py": "gōu",
+  "vi": "mương; rãnh; khe",
+  "ex": [
+   {
+    "zh": "路边有一条很深的沟。",
+    "py": "Lù biān yǒu yì tiáo hěn shēn de gōu.",
+    "vi": "Bên đường có một cái mương rất sâu.",
+    "en": "There is a very deep ditch by the roadside."
+   },
+   {
+    "zh": "他不小心把车开进了沟里。",
+    "py": "Tā bù xiǎo xīn bǎ chē kāi jìn le gōu lǐ.",
+    "vi": "Anh ấy sơ ý lái xe lao xuống mương.",
+    "en": "He accidentally drove the car into a ditch."
+   }
+  ]
+ },
+ {
+  "h": "地带",
+  "lv": 5,
+  "py": "dì dài",
+  "vi": "vùng; khu vực; dải đất",
+  "ex": [
+   {
+    "zh": "这里是城市的中心地带。",
+    "py": "Zhè lǐ shì chéng shì de zhōng xīn dì dài.",
+    "vi": "Đây là khu vực trung tâm của thành phố.",
+    "en": "This is the central area of the city."
+   },
+   {
+    "zh": "大家已经到了安全地带。",
+    "py": "Dà jiā yǐ jīng dào le ān quán dì dài.",
+    "vi": "Mọi người đã đến được vùng an toàn.",
+    "en": "Everyone has now reached the safe zone."
+   }
+  ]
+ },
+ {
+  "h": "违规",
+  "lv": 5,
+  "py": "wéi guī",
+  "vi": "vi phạm quy định; phạm quy",
+  "ex": [
+   {
+    "zh": "在这里停车是违规的。",
+    "py": "Zài zhè lǐ tíng chē shì wéi guī de.",
+    "vi": "Đỗ xe ở đây là vi phạm quy định.",
+    "en": "Parking here is against the rules."
+   },
+   {
+    "zh": "他因为违规被取消了比赛资格。",
+    "py": "Tā yīn wèi wéi guī bèi qǔ xiāo le bǐ sài zī gé.",
+    "vi": "Anh ấy bị tước quyền thi đấu vì phạm quy.",
+    "en": "He was disqualified from the competition for breaking the rules."
+   }
+  ]
+ },
+ {
+  "h": "分成",
+  "lv": 5,
+  "py": "fēn chéng",
+  "vi": "chia thành; chia phần",
+  "ex": [
+   {
+    "zh": "老师把全班学生分成了四个小组。",
+    "py": "Lǎo shī bǎ quán bān xué shēng fēn chéng le sì gè xiǎo zǔ.",
+    "vi": "Cô giáo chia học sinh cả lớp thành bốn nhóm nhỏ.",
+    "en": "The teacher divided the whole class into four small groups."
+   },
+   {
+    "zh": "妈妈把蛋糕分成了八块。",
+    "py": "Mā ma bǎ dàn gāo fēn chéng le bā kuài.",
+    "vi": "Mẹ chia chiếc bánh ngọt thành tám miếng.",
+    "en": "Mum cut the cake into eight pieces."
+   }
+  ]
+ },
+ {
+  "h": "专利",
+  "lv": 5,
+  "py": "zhuān lì",
+  "vi": "bằng sáng chế; đặc quyền",
+  "ex": [
+   {
+    "zh": "他为自己的发明申请了专利。",
+    "py": "Tā wèi zì jǐ de fā míng shēn qǐng le zhuān lì.",
+    "vi": "Anh ấy đã đăng ký bằng sáng chế cho phát minh của mình.",
+    "en": "He applied for a patent for his invention."
+   },
+   {
+    "zh": "这家公司有一百多项专利。",
+    "py": "Zhè jiā gōng sī yǒu yì bǎi duō xiàng zhuān lì.",
+    "vi": "Công ty này có hơn một trăm bằng sáng chế.",
+    "en": "This company holds more than a hundred patents."
+   }
+  ]
+ },
+ {
+  "h": "合成",
+  "lv": 5,
+  "py": "hé chéng",
+  "vi": "tổng hợp; hợp thành; ghép",
+  "ex": [
+   {
+    "zh": "这张照片是用电脑合成的。",
+    "py": "Zhè zhāng zhào piàn shì yòng diàn nǎo hé chéng de.",
+    "vi": "Tấm ảnh này được ghép bằng máy tính.",
+    "en": "This photo was composited on a computer."
+   },
+   {
+    "zh": "这两个字可以合成一个新字。",
+    "py": "Zhè liǎng gè zì kě yǐ hé chéng yí gè xīn zì.",
+    "vi": "Hai chữ này có thể ghép thành một chữ mới.",
+    "en": "These two characters can be combined into a new character."
+   }
+  ]
+ },
+ {
+  "h": "慌",
+  "lv": 5,
+  "py": "huāng",
+  "vi": "hoảng; cuống; hốt hoảng",
+  "ex": [
+   {
+    "zh": "别慌,慢慢说,到底怎么了?",
+    "py": "Bié huāng, màn màn shuō, dào dǐ zěn me le?",
+    "vi": "Đừng cuống, nói từ từ thôi, rốt cuộc có chuyện gì?",
+    "en": "Don't panic; speak slowly. What on earth happened?"
+   },
+   {
+    "zh": "一听要考试,他心里就慌了。",
+    "py": "Yì tīng yào kǎo shì, tā xīn lǐ jiù huāng le.",
+    "vi": "Vừa nghe nói phải thi, trong lòng nó đã hoảng lên.",
+    "en": "The moment he heard there would be a test, he panicked."
+   }
+  ]
+ },
+ {
+  "h": "约束",
+  "lv": 5,
+  "py": "yuē shù",
+  "vi": "ràng buộc; hạn chế; kiềm chế",
+  "ex": [
+   {
+    "zh": "每个人都应该约束自己的行为。",
+    "py": "Měi gè rén dōu yīng gāi yuē shù zì jǐ de xíng wéi.",
+    "vi": "Mỗi người đều nên tự kiềm chế hành vi của mình.",
+    "en": "Everyone should keep their own behaviour in check."
+   },
+   {
+    "zh": "他不喜欢受到太多的约束。",
+    "py": "Tā bù xǐ huan shòu dào tài duō de yuē shù.",
+    "vi": "Anh ấy không thích bị ràng buộc quá nhiều.",
+    "en": "He doesn't like being subject to too many restrictions."
+   }
+  ]
+ },
+ {
+  "h": "胡子",
+  "lv": 5,
+  "py": "hú zi",
+  "vi": "râu",
+  "ex": [
+   {
+    "zh": "爸爸每天早上都要刮胡子。",
+    "py": "Bà ba měi tiān zǎo shang dōu yào guā hú zi.",
+    "vi": "Sáng nào bố cũng phải cạo râu.",
+    "en": "Dad shaves every morning."
+   },
+   {
+    "zh": "那位老人留着长长的白胡子。",
+    "py": "Nà wèi lǎo rén liú zhe cháng cháng de bái hú zi.",
+    "vi": "Ông cụ ấy để bộ râu trắng dài.",
+    "en": "That old man has a long white beard."
+   }
+  ]
+ }
+]

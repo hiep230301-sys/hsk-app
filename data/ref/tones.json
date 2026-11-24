@@ -1,0 +1,41 @@
+{"tones":[
+{"t":1,"mark":"ā","name_vi":"Thanh 1 (âm bình)","name_en":"First tone (high level)","contour":"55","desc_vi":"Cao và bằng, giữ đều từ đầu đến cuối, không lên không xuống.","desc_en":"High and level; hold the pitch steady from start to finish.","vn_compare":"Gần thanh ngang (không dấu) của tiếng Việt nhưng cao hơn và kéo đều hơn, như đang ngân một nốt nhạc cao.","example":{"zh":"妈","py":"mā","vi":"mẹ","en":"mother"}},
+{"t":2,"mark":"á","name_vi":"Thanh 2 (dương bình)","name_en":"Second tone (rising)","contour":"35","desc_vi":"Đi lên từ giữa đến cao, như khi hỏi lại “hả?”.","desc_en":"Rises from mid to high, like asking “what?”.","vn_compare":"Gần thanh sắc của tiếng Việt, nhưng bắt đầu ở tầm giữa và lên đều, không lên gắt.","example":{"zh":"麻","py":"má","vi":"cây gai; tê","en":"hemp; numb"}},
+{"t":3,"mark":"ǎ","name_vi":"Thanh 3 (thượng thanh)","name_en":"Third tone (low / dipping)","contour":"214","desc_vi":"Xuống thấp rồi (khi đọc riêng lẻ hoặc cuối câu) vòng lên nhẹ. Trong câu nói thường chỉ đọc phần thấp.","desc_en":"Falls low and, when said alone or at the end of a phrase, rises slightly. In running speech it is usually just low.","vn_compare":"Gần thanh hỏi của tiếng Việt (giọng Bắc): xuống thấp rồi lên. Không đọc gãy như thanh ngã.","example":{"zh":"马","py":"mǎ","vi":"con ngựa","en":"horse"}},
+{"t":4,"mark":"à","name_vi":"Thanh 4 (khứ thanh)","name_en":"Fourth tone (falling)","contour":"51","desc_vi":"Rơi nhanh và dứt khoát từ cao xuống thấp, như khi ra lệnh “Đi!”.","desc_en":"Falls sharply from high to low, like a firm command.","vn_compare":"Không có thanh tiếng Việt tương đương hoàn toàn. Mạnh và dốc hơn thanh huyền (huyền bắt đầu thấp, đi xuống thoai thoải); không tắc cổ họng như thanh nặng.","example":{"zh":"骂","py":"mà","vi":"mắng, chửi","en":"to scold"}},
+{"t":5,"mark":"a","name_vi":"Thanh nhẹ (khinh thanh)","name_en":"Neutral tone","contour":"·","desc_vi":"Đọc ngắn, nhẹ, không nhấn; độ cao phụ thuộc thanh của âm tiết đứng trước. Không viết dấu.","desc_en":"Short, light and unstressed; its pitch depends on the preceding tone. No tone mark is written.","vn_compare":"Giống cách người Việt đọc lướt một tiếng không nhấn; gần thanh ngang đọc ngắn và nhẹ.","example":{"zh":"吗","py":"ma","vi":"(trợ từ nghi vấn) … không?","en":"(question particle)"}}
+],
+"rules":[
+{"id":"t33","title_vi":"Hai thanh 3 liền nhau","title_en":"Third tone + third tone","rule_vi":"Khi hai âm tiết thanh 3 đứng liền nhau, âm tiết đầu đọc thành thanh 2. Pinyin vẫn viết thanh 3. Với ba thanh 3 liền nhau, cách đọc tùy cách ngắt cụm từ (thường 2-2-3 hoặc 3-2-3).","rule_en":"When two third tones occur together, the first is pronounced as a second tone. The pinyin spelling keeps the third-tone mark. With three third tones in a row, the pattern depends on the phrasing (usually 2-2-3 or 3-2-3).","examples":[
+{"zh":"你好","py":"nǐ hǎo","say":"ní hǎo","vi":"xin chào","en":"hello"},
+{"zh":"很好","py":"hěn hǎo","say":"hén hǎo","vi":"rất tốt","en":"very good"},
+{"zh":"水果","py":"shuǐguǒ","say":"shuíguǒ","vi":"hoa quả","en":"fruit"},
+{"zh":"我很好","py":"wǒ hěn hǎo","say":"wǒ hén hǎo","vi":"tôi rất khỏe","en":"I am very well"}]},
+{"id":"half3","title_vi":"Nửa thanh 3","title_en":"Half third tone","rule_vi":"Thanh 3 đứng trước thanh 1, 2, 4 hoặc thanh nhẹ chỉ đọc nửa đầu: xuống thấp rồi giữ thấp, không vòng lên (21). Thanh 3 đầy đủ (214) chỉ gặp khi đọc riêng một chữ hoặc ở cuối câu.","rule_en":"Before a first, second, fourth or neutral tone, the third tone is only its low, falling half (21) with no final rise. The full dipping tone (214) appears only in isolation or at the end of a phrase.","examples":[
+{"zh":"老师","py":"lǎoshī","say":"lǎo(21) shī","vi":"giáo viên","en":"teacher"},
+{"zh":"美国","py":"Měiguó","say":"měi(21) guó","vi":"nước Mỹ","en":"the USA"},
+{"zh":"好看","py":"hǎokàn","say":"hǎo(21) kàn","vi":"đẹp, hay","en":"good-looking"},
+{"zh":"我的","py":"wǒ de","say":"wǒ(21) de","vi":"của tôi","en":"my, mine"}]},
+{"id":"bu","title_vi":"Biến điệu của 不 (bù)","title_en":"Tone change of 不 (bù)","rule_vi":"不 gốc là thanh 4 (bù). Đứng trước một âm tiết thanh 4 thì đọc thành thanh 2 (bú). Trước thanh 1, 2, 3 vẫn đọc bù. Kẹp giữa cụm từ (好不好) thường đọc nhẹ.","rule_en":"不 is basically fourth tone (bù). Before another fourth tone it becomes second tone (bú). Before first, second and third tones it stays bù. In the middle of a pattern such as 好不好 it is usually neutral.","examples":[
+{"zh":"不是","py":"bú shì","vi":"không phải","en":"is not"},
+{"zh":"不要","py":"bú yào","vi":"không cần, đừng","en":"don't; not want"},
+{"zh":"不吃","py":"bù chī","vi":"không ăn","en":"not eat"},
+{"zh":"不来","py":"bù lái","vi":"không đến","en":"not come"},
+{"zh":"不好","py":"bù hǎo","vi":"không tốt","en":"not good"}]},
+{"id":"yi","title_vi":"Biến điệu của 一 (yī)","title_en":"Tone change of 一 (yī)","rule_vi":"一 gốc là thanh 1 (yī): giữ thanh 1 khi đọc riêng, khi đếm, trong số thứ tự và ở cuối từ. Trước thanh 4 đọc thành thanh 2 (yí). Trước thanh 1, 2, 3 đọc thành thanh 4 (yì). Kẹp giữa động từ lặp lại (看一看) đọc nhẹ.","rule_en":"一 is basically first tone (yī): it stays first tone in isolation, when counting, in ordinal numbers and at the end of a word. Before a fourth tone it becomes second tone (yí). Before first, second and third tones it becomes fourth tone (yì). Between a repeated verb (看一看) it is neutral.","examples":[
+{"zh":"一个","py":"yí gè","vi":"một cái","en":"one (of something)"},
+{"zh":"一样","py":"yíyàng","vi":"giống nhau","en":"the same"},
+{"zh":"一天","py":"yì tiān","vi":"một ngày","en":"one day"},
+{"zh":"一年","py":"yì nián","vi":"một năm","en":"one year"},
+{"zh":"一起","py":"yìqǐ","vi":"cùng nhau","en":"together"},
+{"zh":"第一","py":"dì-yī","vi":"thứ nhất","en":"first"},
+{"zh":"看一看","py":"kàn yi kàn","vi":"xem một chút","en":"have a look"}]},
+{"id":"neutral","title_vi":"Độ cao của thanh nhẹ","title_en":"Pitch of the neutral tone","rule_vi":"Thanh nhẹ không có độ cao cố định: sau thanh 1 và thanh 2 đọc hơi thấp, sau thanh 3 đọc hơi cao, sau thanh 4 đọc thấp nhất. Thường gặp ở trợ từ (的, 了, 吗, 呢), hậu tố (子, 们) và âm tiết thứ hai của từ láy (妈妈, 谢谢).","rule_en":"The neutral tone has no fixed pitch: it is mid-low after first and second tones, higher after a third tone and lowest after a fourth tone. It is common in particles (的, 了, 吗, 呢), suffixes (子, 们) and the second syllable of reduplicated words (妈妈, 谢谢).","examples":[
+{"zh":"妈妈","py":"māma","vi":"mẹ","en":"mom"},
+{"zh":"朋友","py":"péngyou","vi":"bạn bè","en":"friend"},
+{"zh":"我们","py":"wǒmen","vi":"chúng tôi","en":"we"},
+{"zh":"谢谢","py":"xièxie","vi":"cảm ơn","en":"thank you"}]}
+],
+"notes_vi":["Tiếng Việt có 6 thanh nên người Việt nghe và bắt chước thanh điệu khá nhanh; lỗi hay gặp nhất là đọc thanh 4 thành thanh huyền (quá nhẹ, quá thấp) và đọc thanh 1 không đủ cao.","Thanh 3 trong câu nói thật chủ yếu là một thanh THẤP; đừng cố vòng lên ở mọi âm tiết.","Biến điệu của thanh 3 không ghi vào pinyin; biến điệu của 不 và 一 thì giáo trình thường ghi theo âm đọc thực tế (bú shì, yí gè), còn từ điển ghi thanh gốc."],
+"notes_en":["The most common errors are a fourth tone that does not start high enough and a first tone that drifts downward.","In connected speech the third tone is mostly a LOW tone; do not force the final rise on every syllable.","Third-tone sandhi is not shown in pinyin; for 不 and 一, textbooks usually write the actual pronunciation (bú shì, yí gè) while dictionaries give the citation tone."],
+"rv":"ai"}

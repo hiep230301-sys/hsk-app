@@ -1,0 +1,234 @@
+/* ==========================================================================
+   Hán Ngữ Mỗi Ngày (HSK 1–9) — Design System Tokens (Antigravity Phase B)
+   Standards: WCAG AA (>= 4.5:1), 4px grid, 360px–1440px, Light & Dark
+   ========================================================================== */
+:root {
+  color-scheme: light;
+
+  /* --- Typography --- */
+  --font: "Be Vietnam Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --zh: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --zh-serif: "Noto Serif SC", "Songti SC", "SimSun", serif;
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-md: 1rem;
+  --fs-lg: 1.15rem;
+  --fs-xl: 1.55rem;
+
+  /* --- 4px Spacing Grid & Geometry --- */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+  --radius-sm: 12px;
+  --radius: 18px;
+  --radius-lg: 24px;
+  --tap: 44px;
+  --btn-edge: 3px;
+
+  /* --- Light Palette (Warm Rice Paper & Vermilion Seal, WCAG AA) --- */
+  --bg: #fbf6ef;
+  --bg-subtle: #f4ece1;
+  --surface: #ffffff;
+  --surface-2: #f6efe5;
+  --surface-hover: #efe6d9;
+  --line: #e5d9ca;
+  --line-strong: #cebeaa;
+
+  --ink: #2a211c;          /* 14.7:1 on --bg */
+  --ink-2: #635850;        /* 5.9:1 on --bg, 6.4:1 on --surface */
+  --ink-3: #786c63;        /* 4.7:1 on --surface */
+  --en-ink: #3b6186;       /* nghĩa tiếng Anh đi kèm tiếng Việt: 6.5:1 on --surface, >= 5.2:1 mọi nền thẻ */
+
+  --brand: #c8402e;        /* 5.05:1 with #fff */
+  --brand-2: #b63625;
+  --brand-edge: #922719;
+  --brand-soft: #fceae7;
+  --brand-ink: #fff8ee;
+  --on-fill: #ffffff;       /* chữ trên nền màu đặc (--ok, --bad, --mid, --info, --brand, --tone-N) */
+  --lv-ink: #ffffff;        /* chữ trên nền màu cấp --lvN (sáng + tối đều >= 4,5:1) */
+  --brand-text: #a62f1f;   /* 6.5:1 on --brand-soft */
+
+  --gold: #f2b33d;
+  --gold-edge: #c98b1b;
+  --gold-soft: #fef5df;
+  --gold-ink: #7f4f00;
+
+  --ok: #1e7e55;           /* 5.05:1 with #fff (WCAG AA) */
+  --ok-bright: #2f9e6e;
+  --ok-edge: #155d3e;
+  --ok-bg: #e5f6ee;
+
+  --bad: #c63333;          /* 5.4:1 with #fff (WCAG AA) */
+  --bad-bright: #d64545;
+  --bad-edge: #972222;
+  --bad-bg: #fdeaea;
+
+  --mid: #b65b0a;          /* 4.6:1 on #fff */
+  --mid-bright: #e8892c;
+  --mid-bg: #fef2e4;
+
+  --info: #1c6595;
+  --info-bg: #e4f2fb;
+  --warn-bg: #fef2df;
+  --warn-ink: #8c4c00;
+
+  /* --- Tone Colors (Light — AA contrast on --surface & --bg) --- */
+  --tone-1: #c83e2b;
+  --tone-2: #b65b0a;
+  --tone-3: #1e7e55;
+  --tone-4: #1e6b9e;
+  --tone-5: #635850;
+
+  /* --- HSK 3.0 Level Colors (AA white-text contrast) --- */
+  --lv1: #c8402e;
+  --lv2: #b85d0b;
+  --lv3: #1e7e55;
+  --lv4: #1e6b9e;
+  --lv5: #6b3fb8;
+  --lv6: #a4356e;
+  --lv7: #3a3532;
+
+  /* --- Two-layer Soft Shadows --- */
+  --shadow-sm: 0 1px 2px rgba(42, 33, 28, 0.06), 0 2px 6px rgba(42, 33, 28, 0.04);
+  --shadow: 0 2px 4px rgba(42, 33, 28, 0.06), 0 8px 22px rgba(42, 33, 28, 0.07);
+  --shadow-lg: 0 4px 12px rgba(42, 33, 28, 0.08), 0 18px 40px rgba(42, 33, 28, 0.13);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #17120f;
+    --bg-subtle: #1e1713;
+    --surface: #221b17;
+    --surface-2: #2c231e;
+    --surface-hover: #352b25;
+    --line: #3b3029;
+    --line-strong: #53443b;
+
+    --ink: #f4ebe2;
+    --ink-2: #b8aa9c;
+    --ink-3: #9c8e80;
+    --en-ink: #9cc0e2;
+
+    --brand: #ec6a52;
+    --brand-2: #f47b65;
+    --brand-edge: #b4422e;
+    --brand-soft: #3b201b;
+    --brand-ink: #1a120e;
+    --on-fill: #1a120e;
+    --lv-ink: #ffffff;
+    --brand-text: #ff9c8a;
+
+    --gold: #f2b33d;
+    --gold-edge: #b87e15;
+    --gold-soft: #382a12;
+    --gold-ink: #fad078;
+
+    --ok: #3dc287;
+    --ok-bright: #4ad497;
+    --ok-edge: #218559;
+    --ok-bg: #153225;
+
+    --bad: #f26b6b;
+    --bad-bright: #ff7d7d;
+    --bad-edge: #b53b3b;
+    --bad-bg: #3a1b1b;
+
+    --mid: #f59e42;
+    --mid-bright: #ffa94d;
+    --mid-bg: #382512;
+
+    --info: #8cc8ee;
+    --info-bg: #17303f;
+    --warn-bg: #3d2f12;
+    --warn-ink: #f2c46d;
+
+    --tone-1: #ff7e6b;
+    --tone-2: #ffa94d;
+    --tone-3: #52d196;
+    --tone-4: #68b8f7;
+    --tone-5: #b8aa9c;
+
+    --lv1: #ca4934;
+    --lv2: #af6115;
+    --lv3: #218459;
+    --lv4: #2475ad;
+    --lv5: #7c4fd0;
+    --lv6: #b8427e;
+    --lv7: #534b46;
+
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35), 0 2px 6px rgba(0, 0, 0, 0.22);
+    --shadow: 0 2px 6px rgba(0, 0, 0, 0.4), 0 10px 24px rgba(0, 0, 0, 0.3);
+    --shadow-lg: 0 6px 14px rgba(0, 0, 0, 0.45), 0 22px 48px rgba(0, 0, 0, 0.45);
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #17120f;
+  --bg-subtle: #1e1713;
+  --surface: #221b17;
+  --surface-2: #2c231e;
+  --surface-hover: #352b25;
+  --line: #3b3029;
+  --line-strong: #53443b;
+
+  --ink: #f4ebe2;
+  --ink-2: #b8aa9c;
+  --ink-3: #9c8e80;
+  --en-ink: #9cc0e2;
+
+  --brand: #ec6a52;
+  --brand-2: #f47b65;
+  --brand-edge: #b4422e;
+  --brand-soft: #3b201b;
+  --brand-ink: #1a120e;
+  --on-fill: #1a120e;
+  --lv-ink: #ffffff;
+  --brand-text: #ff9c8a;
+
+  --gold: #f2b33d;
+  --gold-edge: #b87e15;
+  --gold-soft: #382a12;
+  --gold-ink: #fad078;
+
+  --ok: #3dc287;
+  --ok-bright: #4ad497;
+  --ok-edge: #218559;
+  --ok-bg: #153225;
+
+  --bad: #f26b6b;
+  --bad-bright: #ff7d7d;
+  --bad-edge: #b53b3b;
+  --bad-bg: #3a1b1b;
+
+  --mid: #f59e42;
+  --mid-bright: #ffa94d;
+  --mid-bg: #382512;
+
+  --info: #8cc8ee;
+  --info-bg: #17303f;
+  --warn-bg: #3d2f12;
+  --warn-ink: #f2c46d;
+
+  --tone-1: #ff7e6b;
+  --tone-2: #ffa94d;
+  --tone-3: #52d196;
+  --tone-4: #68b8f7;
+  --tone-5: #b8aa9c;
+
+  --lv1: #ca4934;
+  --lv2: #af6115;
+  --lv3: #218459;
+  --lv4: #2475ad;
+  --lv5: #7c4fd0;
+  --lv6: #b8427e;
+  --lv7: #534b46;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35), 0 2px 6px rgba(0, 0, 0, 0.22);
+  --shadow: 0 2px 6px rgba(0, 0, 0, 0.4), 0 10px 24px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 6px 14px rgba(0, 0, 0, 0.45), 0 22px 48px rgba(0, 0, 0, 0.45);
+}
